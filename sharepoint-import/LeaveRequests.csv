@@ -1,0 +1,4 @@
+﻿Title,LegacyId,Requester,Type,StartDate,EndDate,Comment,Status,CreatedAt,DecidedBy,DecidedAt
+1,1,Jonathan,CP,2026-07-20,2026-07-27,Family vacation,Pending,2026-06-10T09:00:00,,
+2,2,Etienne,RTT,2026-06-15,2026-06-15,,Accepted,2026-06-01T14:30:00,Olivier Autran,2026-06-02T08:15:00
+3,3,Xavier,Remote work,2026-06-22,2026-06-24,Internet installation at new place,Refused,2026-06-05T11:00:00,Antoine Des Deserts,2026-06-06T10:00:00

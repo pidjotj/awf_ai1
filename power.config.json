@@ -1,0 +1,80 @@
+{
+  "version": "1.0",
+  "appId": "5eeb692d-750b-4afa-9169-c1fe0480fad4",
+  "appDisplayName": "AWF-Ai1",
+  "region": "prod",
+  "environmentId": "c9269c73-dd79-e597-a050-9707d5d8df92",
+  "description": " ",
+  "buildPath": "./dist",
+  "buildEntryPoint": "index.html",
+  "localAppUrl": "http://localhost:3000",
+  "logoPath": "Default",
+  "connectionReferences": {},
+  "databaseReferences": {
+    "default.cds": {
+      "dataSources": {
+        "courses": {
+          "entitySetName": "crf82_coursemodules",
+          "logicalName": "crf82_coursemodule"
+        },
+        "auditlogs": {
+          "entitySetName": "crf82_auditlogs",
+          "logicalName": "crf82_auditlog"
+        },
+        "blockedperiods": {
+          "entitySetName": "crf82_blockedperiods",
+          "logicalName": "crf82_blockedperiod"
+        },
+        "campuses": {
+          "entitySetName": "crf82_cities",
+          "logicalName": "crf82_city"
+        },
+        "coursetypes": {
+          "entitySetName": "crf82_coursetypes",
+          "logicalName": "crf82_coursetype"
+        },
+        "fts": {
+          "entitySetName": "crf82_fts",
+          "logicalName": "crf82_ft"
+        },
+        "grades": {
+          "entitySetName": "crf82_grades",
+          "logicalName": "crf82_grade"
+        },
+        "holiday": {
+          "entitySetName": "crf82_holidaies",
+          "logicalName": "crf82_holiday"
+        },
+        "iats": {
+          "entitySetName": "crf82_iats",
+          "logicalName": "crf82_iat"
+        },
+        "room": {
+          "entitySetName": "crf82_rooms",
+          "logicalName": "crf82_room"
+        },
+        "slots": {
+          "entitySetName": "crf82_slots",
+          "logicalName": "crf82_slot"
+        },
+        "steps": {
+          "entitySetName": "crf82_steps",
+          "logicalName": "crf82_step"
+        },
+        "leaverequests": {
+          "entitySetName": "crf82_leaverequests",
+          "logicalName": "crf82_leaverequest"
+        },
+        "evaluationsheets": {
+          "entitySetName": "crf82_evaluationsheets",
+          "logicalName": "crf82_evaluationsheet"
+        },
+        "iatattendances": {
+          "entitySetName": "crf82_iatattendances",
+          "logicalName": "crf82_iatattendance"
+        }
+      },
+      "environmentVariableName": ""
+    }
+  }
+}

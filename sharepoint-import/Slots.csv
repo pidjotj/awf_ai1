@@ -1,0 +1,764 @@
+﻿Title,LegacyId,Date,Campus,StartTime,EndTime,FT,Room,Grade,CourseType,Course,Step,Iat,AdditionalIats,Status,CancelledBy,CancelReason,Iteration,Credits,Validated
+1,1,2026-06-17,CIMAHI,2026-06-17T06:30,2026-06-17T11:00,Etienne,Computer LAB,Grade 10,TH,"10.1.2 Defensive Systems, Integration and Control",B,,,Cancelled,,IAT unavailable,,4,
+2,2,2026-06-11,CIMAHI,2026-06-11T09:00,2026-06-11T10:00,Etienne,Classroom,Grade 10,TH,10B.1.1 Essential principles of Armament,C,Ghata,,Planned,,,,2,
+3,3,2026-06-11,CIMAHI,2026-06-11T13:30,2026-06-11T14:30,Etienne,TTP 2 Simulation,Grade 10,PW,"10B.1.3 Crew Safety, Ejection seat",C,Kartika,,Planned,,,,2,
+4,4,2026-06-12,CIMAHI,2026-06-12T08:00,2026-06-12T09:00,Jeremy,TTP 1,Grade 10,TH,10B.1.6 Surveillance and electronic warfare,,,,Completed,,,,2,
+5,5,2026-06-08,CIMAHI,,,Jonathan,Workshop,Grade 10,TH,10.1.3 Advanced Weapon Systems and Concerns,,,,Completed,,,,1,
+6,6,2026-06-08,CIMAHI,2026-06-08T12:00,2026-06-08T13:00,Jonathan,TTP 1,Grade 10,TH,2.3.1 Intro,B,,,Completed,,,,2,
+7,7,2026-06-08,CIMAHI,2026-06-08T15:00,2026-06-08T16:00,Jonathan,X-5,Grade 10,PW,4A.1.2 Act react,A,,,Cancelled,,,,2,
+8,8,2026-06-09,MALANG,2026-06-09T08:00,2026-06-09T09:20,Xavier,Classroom,Grade 10,TH,4A.1.4 Power up,A,,,Completed,,,,2,
+9,9,2026-06-09,MALANG,2026-06-09T10:00,2026-06-09T12:00,Benoit,TTP 1,Grade 10,PW,4A.1.6 Indicating,B,,,Planned,,,,3,
+10,10,2026-06-10,MALANG,2026-06-10T14:00,2026-06-10T14:40,Sebastien,X-5,Grade 11,TH,7B.1.1 Def aero carreers,A,,,Completed,,,,1,
+11,11,2025-08-25,CIMAHI,,,,,Grade 10,TH,1.1.1 History,A,,,Completed,,,,3,
+12,12,2025-10-24,CIMAHI,,,,,Grade 10,TH,1.1.1 History,B,,,Completed,,,,3,
+13,13,2026-07-28,CIMAHI,,,,,Grade 10,TH,1.1.1 History,D,,,Completed,,,,3,
+14,14,2025-11-25,CIMAHI,,,,,Grade 10,TH,1.1.1 History,C,Diki,,Completed,,,1,3,TRUE
+15,15,2025-09-18,CIMAHI,,,,,Grade 10,TH,1.1.1 History,C,Ghata,,Completed,,,1,3,TRUE
+16,16,2025-09-02,CIMAHI,,,,,Grade 10,TH,2.1.1 Atmosphere,A,,,Completed,,,,2,
+17,17,2026-02-11,CIMAHI,,,,,Grade 10,TH,2.1.1 Atmosphere,B,,,Completed,,,,2,
+18,18,2025-10-22,CIMAHI,,,,,Grade 10,TH,2.1.1 Atmosphere,C,Rahmat,,Completed,,,1,2,TRUE
+19,19,2025-10-06,CIMAHI,,,,,Grade 10,TH,2.1.1 Atmosphere,C,Ayu,,Completed,,,1,2,TRUE
+20,20,2025-09-04,CIMAHI,,,,,Grade 10,TH,2.1.2 Heat tsfr,A,,,Completed,,,,1,
+21,21,2026-02-12,CIMAHI,,,,,Grade 10,TH,2.1.2 Heat tsfr,B,,,Completed,,,,1,
+22,22,2025-11-03,CIMAHI,,,,,Grade 10,TH,2.1.2 Heat tsfr,C,Rahmat,,Completed,,,1,1,TRUE
+23,23,2025-09-22,CIMAHI,,,,,Grade 10,TH,2.1.2 Heat tsfr,C,Ayu,,Completed,,,1,1,TRUE
+24,24,2025-09-04,CIMAHI,,,,,Grade 10,TH,2.1.3 Air mass,A,,,Completed,,,,1,
+25,25,2026-01-27,CIMAHI,,,,,Grade 10,TH,2.1.3 Air mass,B,,,Completed,,,,1,
+26,26,2025-11-03,CIMAHI,,,,,Grade 10,TH,2.1.3 Air mass,C,Rahmat,,Completed,,,1,1,TRUE
+27,27,2025-10-07,CIMAHI,,,,,Grade 10,TH,2.1.3 Air mass,C,Ayu,,Completed,,,1,1,TRUE
+28,28,2025-09-04,CIMAHI,,,,,Grade 10,TH,2.1.4 Clouds,A,,,Completed,,,,1,
+29,29,2026-01-12,CIMAHI,,,,,Grade 10,TH,2.1.4 Clouds,B,,,Completed,,,,1,
+30,30,2025-11-04,CIMAHI,,,,,Grade 10,TH,2.1.4 Clouds,C,Rahmat,,Completed,,,1,1,TRUE
+31,31,2025-10-09,CIMAHI,,,,,Grade 10,TH,2.1.4 Clouds,C,Ayu,,Completed,,,1,1,TRUE
+32,32,2025-09-08,CIMAHI,,,,,Grade 10,TH,2.1.5 Winds,A,,,Completed,,,,1,
+33,33,2026-01-13,CIMAHI,,,,,Grade 10,TH,2.1.5 Winds,B,,,Completed,,,,1,
+34,34,2025-11-04,CIMAHI,,,,,Grade 10,TH,2.1.5 Winds,C,Rahmat,,Completed,,,1,1,TRUE
+35,35,2025-10-14,CIMAHI,,,,,Grade 10,TH,2.1.5 Winds,C,Ayu,,Completed,,,1,1,TRUE
+36,36,2025-09-08,CIMAHI,,,,,Grade 10,TH,2.1.6 Dangerous,A,,,Completed,,,,1,
+37,37,2026-01-27,CIMAHI,,,,,Grade 10,TH,2.1.6 Dangerous,B,,,Completed,,,,1,
+38,38,2025-11-05,CIMAHI,,,,,Grade 10,TH,2.1.6 Dangerous,C,Rahmat,,Completed,,,1,1,TRUE
+39,39,2025-10-27,CIMAHI,,,,,Grade 10,TH,2.1.6 Dangerous,C,Ayu,,Completed,,,1,1,TRUE
+40,40,2025-09-09,CIMAHI,,,,,Grade 10,TH,2.2.1 Aerostatics,A,,,Completed,,,,1,
+41,41,2026-01-12,CIMAHI,,,,,Grade 10,TH,2.2.1 Aerostatics,B,,,Completed,,,,1,
+42,42,2025-11-05,CIMAHI,,,,,Grade 10,TH,2.2.1 Aerostatics,C,Rahmat,,Completed,,,1,1,TRUE
+43,43,2025-10-15,CIMAHI,,,,,Grade 10,TH,2.2.1 Aerostatics,C,Ayu,,Completed,,,1,1,TRUE
+44,44,2025-09-09,CIMAHI,,,,,Grade 10,TH,2.3.1 Intro,A,,,Completed,,,,1,
+45,45,2026-01-13,CIMAHI,,,,,Grade 10,TH,2.3.1 Intro,B,,,Completed,,,,1,
+46,46,2025-11-06,CIMAHI,,,,,Grade 10,TH,2.3.1 Intro,C,Rahmat,,Completed,,,1,1,TRUE
+47,47,2025-10-16,CIMAHI,,,,,Grade 10,TH,2.3.1 Intro,C,Ayu,,Completed,,,1,1,TRUE
+48,48,2025-09-10,CIMAHI,,,,,Grade 10,TH,2.3.2 Flow airfoil,A,,,Completed,,,,1,
+49,49,2026-02-12,CIMAHI,,,,,Grade 10,TH,2.3.2 Flow airfoil,B,,,Completed,,,,1,
+50,50,2025-11-06,CIMAHI,,,,,Grade 10,TH,2.3.2 Flow airfoil,C,Rahmat,,Completed,,,1,1,TRUE
+51,51,2025-10-22,CIMAHI,,,,,Grade 10,TH,2.3.2 Flow airfoil,C,Ayu,,Completed,,,1,1,TRUE
+52,52,2025-09-10,CIMAHI,,,,,Grade 10,TH,2.3.3 Boundary layer,A,,,Completed,,,,1,
+53,53,2026-02-18,CIMAHI,,,,,Grade 10,TH,2.3.3 Boundary layer,B,,,Completed,,,,1,
+54,54,2025-11-10,CIMAHI,,,,,Grade 10,TH,2.3.3 Boundary layer,C,Rahmat,,Completed,,,1,1,TRUE
+55,55,2025-10-22,CIMAHI,,,,,Grade 10,TH,2.3.3 Boundary layer,C,Ayu,,Completed,,,1,1,TRUE
+56,56,2025-09-11,CIMAHI,,,,,Grade 10,TH,2.3.4 Profile,A,,,Completed,,,,1,
+57,57,2026-02-18,CIMAHI,,,,,Grade 10,TH,2.3.4 Profile,B,,,Completed,,,,1,
+58,58,2025-11-12,CIMAHI,,,,,Grade 10,TH,2.3.4 Profile,C,Rahmat,,Completed,,,1,1,TRUE
+59,59,2025-10-23,CIMAHI,,,,,Grade 10,TH,2.3.4 Profile,C,Ayu,,Completed,,,1,1,TRUE
+60,60,2025-09-15,CIMAHI,,,,,Grade 10,TH,2.4.1 Theory of lfight,A,,,Completed,,,,3,
+61,61,2025-11-14,CIMAHI,,,,,Grade 10,TH,2.4.1 Theory of lfight,B,,,Completed,,,,3,
+62,62,2026-08-19,CIMAHI,,,,,Grade 10,TH,2.4.1 Theory of lfight,D,,,Completed,,,,3,
+63,63,2025-11-12,CIMAHI,,,,,Grade 10,TH,2.4.1 Theory of lfight,C,Rahmat,,Completed,,,1,3,TRUE
+64,64,2025-10-29,CIMAHI,,,,,Grade 10,TH,2.4.1 Theory of lfight,C,Ayu,,Completed,,,1,3,TRUE
+65,65,2025-09-15,CIMAHI,,,,,Grade 10,TH,2.5.1 A/C diversity,A,,,Completed,,,,2,
+66,66,2026-01-15,CIMAHI,,,,,Grade 10,TH,2.5.1 A/C diversity,B,,,Completed,,,,2,
+67,67,2025-11-13,CIMAHI,,,,,Grade 10,TH,2.5.1 A/C diversity,C,Rahmat,,Completed,,,1,2,TRUE
+68,68,2025-11-03,CIMAHI,,,,,Grade 10,TH,2.5.1 A/C diversity,C,Ayu,,Completed,,,1,2,TRUE
+69,69,2025-09-10,CIMAHI,,,,,Grade 10,TH,3A.1.1 History design,A,,,Completed,,,,4,
+70,70,2025-11-21,CIMAHI,,,,,Grade 10,TH,3A.1.1 History design,B,,,Completed,,,,4,
+71,71,2025-10-14,CIMAHI,,,,,Grade 10,TH,3A.1.1 History design,C,Rizky,,Completed,,,1,4,TRUE
+72,72,2025-09-23,CIMAHI,,,,,Grade 10,TH,3A.1.1 History design,C,Gita,,Completed,,,1,4,TRUE
+73,73,2025-09-11,CIMAHI,,,,,Grade 10,TH,3A.2.1 Design,A,,,Completed,,,,2,
+74,74,2026-02-02,CIMAHI,,,,,Grade 10,TH,3A.2.1 Design,B,,,Completed,,,,2,
+75,75,2025-11-25,CIMAHI,,,,,Grade 10,TH,3A.2.1 Design,C,Rizky,,Completed,,,1,2,TRUE
+76,76,2025-10-14,CIMAHI,,,,,Grade 10,TH,3A.2.1 Design,C,Gita,,Completed,,,1,2,TRUE
+77,77,2025-08-19,CIMAHI,,,,,Grade 10,TH,4A.1.1 Types ENG,A,,,Completed,,,,2,
+78,78,2025-11-11,CIMAHI,,,,,Grade 10,TH,4A.1.1 Types ENG,B,,,Completed,,,,2,
+79,79,2026-08-18,CIMAHI,,,,,Grade 10,TH,4A.1.1 Types ENG,D,,,Completed,,,,2,
+80,80,2025-09-24,CIMAHI,,,,,Grade 10,TH,4A.1.1 Types ENG,C,Rahmat,,Completed,,,1,2,TRUE
+81,81,2025-10-30,CIMAHI,,,,,Grade 10,TH,4A.1.1 Types ENG,C,Ayu,,Completed,,,1,2,TRUE
+82,82,2025-08-20,CIMAHI,,,,,Grade 10,TH,4A.1.2 Act react,A,,,Completed,,,,1,
+83,83,2026-02-19,CIMAHI,,,,,Grade 10,TH,4A.1.2 Act react,B,,,Completed,,,,1,
+84,84,2025-10-21,CIMAHI,,,,,Grade 10,TH,4A.1.2 Act react,C,Rahmat,,Completed,,,1,1,TRUE
+85,85,2025-11-04,CIMAHI,,,,,Grade 10,TH,4A.1.2 Act react,C,Ayu,,Completed,,,1,1,TRUE
+86,86,2025-08-20,CIMAHI,,,,,Grade 10,TH,4A.1.3 Component,A,,,Completed,,,,1,
+87,87,2026-02-09,CIMAHI,,,,,Grade 10,TH,4A.1.3 Component,B,,,Completed,,,,1,
+88,88,2025-10-21,CIMAHI,,,,,Grade 10,TH,4A.1.3 Component,C,Rahmat,,Completed,,,1,1,TRUE
+89,89,2025-11-04,CIMAHI,,,,,Grade 10,TH,4A.1.3 Component,C,Ayu,,Completed,,,1,1,TRUE
+90,90,2025-08-21,CIMAHI,,,,,Grade 10,TH,4A.1.4 Power up,A,,,Completed,,,,1,
+91,91,2026-02-05,CIMAHI,,,,,Grade 10,TH,4A.1.4 Power up,B,,,Completed,,,,1,
+92,92,2025-10-23,CIMAHI,,,,,Grade 10,TH,4A.1.4 Power up,C,Rahmat,,Completed,,,1,1,FALSE
+93,93,2026-02-02,CIMAHI,,,,,Grade 10,TH,4A.1.4 Power up,C,Rahmat,,Completed,,,2,1,TRUE
+94,94,2025-11-06,CIMAHI,,,,,Grade 10,TH,4A.1.4 Power up,C,Ayu,,Completed,,,1,1,FALSE
+95,95,2026-01-22,CIMAHI,,,,,Grade 10,TH,4A.1.4 Power up,C,Ayu,,Completed,,,2,1,TRUE
+96,96,2025-08-21,CIMAHI,,,,,Grade 10,TH,4A.1.5 Lub and fuel,A,,,Completed,,,,1,
+97,97,2026-02-05,CIMAHI,,,,,Grade 10,TH,4A.1.5 Lub and fuel,B,,,Completed,,,,1,
+98,98,2025-10-27,CIMAHI,,,,,Grade 10,TH,4A.1.5 Lub and fuel,C,Rahmat,,Completed,,,1,1,TRUE
+99,99,2025-11-06,CIMAHI,,,,,Grade 10,TH,4A.1.5 Lub and fuel,C,Ayu,,Completed,,,1,1,TRUE
+100,100,2025-08-25,CIMAHI,,,,,Grade 10,TH,4A.1.6 Indicating,A,,,Completed,,,,1,
+101,101,2026-02-09,CIMAHI,,,,,Grade 10,TH,4A.1.6 Indicating,B,,,Completed,,,,1,
+102,102,2025-10-27,CIMAHI,,,,,Grade 10,TH,4A.1.6 Indicating,C,Rahmat,,Completed,,,1,1,TRUE
+103,103,2025-11-10,CIMAHI,,,,,Grade 10,TH,4A.1.6 Indicating,C,Ayu,,Completed,,,1,1,TRUE
+104,104,2025-08-25,CIMAHI,,,,,Grade 10,TH,4A.2.1 General,A,,,Completed,,,,1,
+105,105,2026-01-26,CIMAHI,,,,,Grade 10,TH,4A.2.1 General,B,,,Completed,,,,1,
+106,106,2025-10-28,CIMAHI,,,,,Grade 10,TH,4A.2.1 General,C,Rahmat,,Completed,,,1,1,TRUE
+107,107,2025-11-10,CIMAHI,,,,,Grade 10,TH,4A.2.1 General,C,Ayu,,Completed,,,1,1,TRUE
+108,108,2025-08-26,CIMAHI,,,,,Grade 10,TH,4A.2.2 Main,A,,,Completed,,,,1,
+109,109,2026-01-26,CIMAHI,,,,,Grade 10,TH,4A.2.2 Main,B,,,Completed,,,,1,
+110,110,2025-10-28,CIMAHI,,,,,Grade 10,TH,4A.2.2 Main,C,Rahmat,,Completed,,,1,1,TRUE
+111,111,2025-11-10,CIMAHI,,,,,Grade 10,TH,4A.2.2 Main,C,Ayu,,Completed,,,1,1,TRUE
+112,112,2025-08-26,CIMAHI,,,,,Grade 10,TH,4A.2.3 Method,A,,,Completed,,,,1,
+113,113,2026-02-19,CIMAHI,,,,,Grade 10,TH,4A.2.3 Method,B,,,Completed,,,,1,
+114,114,2025-10-29,CIMAHI,,,,,Grade 10,TH,4A.2.3 Method,C,Rahmat,,Completed,,,1,1,TRUE
+115,115,2025-11-11,CIMAHI,,,,,Grade 10,TH,4A.2.3 Method,C,Ayu,,Completed,,,1,1,TRUE
+116,116,2025-08-27,CIMAHI,,,,,Grade 10,TH,4A.3.1 Main,A,,,Completed,,,,1,
+117,117,2026-01-19,CIMAHI,,,,,Grade 10,TH,4A.3.1 Main,B,,,Completed,,,,1,
+118,118,2025-10-29,CIMAHI,,,,,Grade 10,TH,4A.3.1 Main,C,Rahmat,,Completed,,,1,1,TRUE
+119,119,2025-11-12,CIMAHI,,,,,Grade 10,TH,4A.3.1 Main,C,Ayu,,Completed,,,1,1,TRUE
+120,120,2025-08-27,CIMAHI,,,,,Grade 10,TH,4A.3.2 Corrosion,A,,,Completed,,,,1,
+121,121,2026-01-19,CIMAHI,,,,,Grade 10,TH,4A.3.2 Corrosion,B,,,Completed,,,,1,
+122,122,2025-10-30,CIMAHI,,,,,Grade 10,TH,4A.3.2 Corrosion,C,Rahmat,,Completed,,,1,1,TRUE
+123,123,2025-11-12,CIMAHI,,,,,Grade 10,TH,4A.3.2 Corrosion,C,Ayu,,Completed,,,1,1,TRUE
+124,124,2025-08-28,CIMAHI,,,,,Grade 10,TH,4A.3.3 Hardware,A,,,Completed,,,,1,
+125,125,2026-02-16,CIMAHI,,,,,Grade 10,TH,4A.3.3 Hardware,B,,,Completed,,,,1,
+126,126,2025-10-30,CIMAHI,,,,,Grade 10,TH,4A.3.3 Hardware,C,Rahmat,,Completed,,,1,1,TRUE
+127,127,2025-11-13,CIMAHI,,,,,Grade 10,TH,4A.3.3 Hardware,C,Ayu,,Completed,,,1,1,TRUE
+128,128,2025-09-01,CIMAHI,,,,,Grade 10,TH,5A.1.1 Cockpit,A,,,Completed,,,,4,
+129,129,2026-01-21,CIMAHI,,,,,Grade 10,TH,5A.1.1 Cockpit,B,,,Completed,,,,4,
+130,130,2025-10-07,CIMAHI,,,,,Grade 10,TH,5A.1.1 Cockpit,C,Rizky,,Completed,,,1,4,FALSE
+131,131,2026-01-28,CIMAHI,,,,,Grade 10,TH,5A.1.1 Cockpit,C,Rizky,,Completed,,,2,4,TRUE
+132,132,2025-10-29,CIMAHI,,,,,Grade 10,TH,5A.1.1 Cockpit,C,Ghata,,Completed,,,1,4,FALSE
+133,133,2026-01-28,CIMAHI,,,,,Grade 10,TH,5A.1.1 Cockpit,C,Ghata,,Completed,,,2,4,TRUE
+134,134,2025-09-02,CIMAHI,,,,,Grade 10,TH,5A.1.2 FCS,A,,,Completed,,,,3,
+135,135,2026-01-22,CIMAHI,,,,,Grade 10,TH,5A.1.2 FCS,B,,,Completed,,,,3,
+136,136,2025-10-16,CIMAHI,,,,,Grade 10,TH,5A.1.2 FCS,C,Rizky,,Completed,,,1,3,TRUE
+137,137,2025-10-30,CIMAHI,,,,,Grade 10,TH,5A.1.2 FCS,C,Ghata,,Completed,,,1,3,TRUE
+138,138,2025-09-04,CIMAHI,,,,,Grade 10,TH,5A.2.1 Baro inst,A,,,Completed,,,,2,
+139,139,2026-01-28,CIMAHI,,,,,Grade 10,TH,5A.2.1 Baro inst,B,,,Completed,,,,2,
+140,140,2025-09-25,CIMAHI,,,,,Grade 10,TH,5A.2.1 Baro inst,C,Rizky,,Completed,,,1,2,TRUE
+141,141,2025-11-03,CIMAHI,,,,,Grade 10,TH,5A.2.1 Baro inst,C,Ghata,,Completed,,,1,2,TRUE
+142,142,2025-09-08,CIMAHI,,,,,Grade 10,TH,5A.2.2 Analog digi,A,,,Completed,,,,4,
+143,143,2026-01-29,CIMAHI,,,,,Grade 10,TH,5A.2.2 Analog digi,B,,,Completed,,,,4,
+144,144,2025-11-05,CIMAHI,,,,,Grade 10,TH,5A.2.2 Analog digi,C,Rizky,,Completed,,,1,4,TRUE
+145,145,2025-11-05,CIMAHI,,,,,Grade 10,TH,5A.2.2 Analog digi,C,Ghata,,Completed,,,1,4,TRUE
+146,146,2025-08-26,CIMAHI,,,,,Grade 10,TH,6A.1.1 Nav rule,A,,,Completed,,,,2,
+147,147,2026-01-14,CIMAHI,,,,,Grade 10,TH,6A.1.1 Nav rule,B,,,Completed,,,,2,
+148,148,2025-10-07,CIMAHI,,,,,Grade 10,TH,6A.1.1 Nav rule,C,Gita,,Completed,,,1,2,TRUE
+149,149,2025-11-06,CIMAHI,,,,,Grade 10,TH,6A.1.1 Nav rule,C,Ghata,,Completed,,,1,2,TRUE
+150,150,2026-01-19,CIMAHI,,,,,Grade 10,TH,6A.1.1 Nav rule,C,Kartika,,Completed,,,1,2,FALSE
+151,151,2026-03-02,CIMAHI,,,,,Grade 10,TH,6A.1.1 Nav rule,C,Kartika,,Completed,,,2,2,TRUE
+152,152,2025-08-27,CIMAHI,,,,,Grade 10,TH,6A.1.2 Principle,A,,,Completed,,,,2,
+153,153,2026-02-03,CIMAHI,,,,,Grade 10,TH,6A.1.2 Principle,B,,,Completed,,,,2,
+154,154,2025-11-10,CIMAHI,,,,,Grade 10,TH,6A.1.2 Principle,C,Gita,,Completed,,,1,2,TRUE
+155,155,2025-11-07,CIMAHI,,,,,Grade 10,TH,6A.1.2 Principle,C,Ghata,,Completed,,,1,2,TRUE
+156,156,2026-02-25,CIMAHI,,,,,Grade 10,TH,6A.1.2 Principle,C,Kartika,,Completed,,,1,2,TRUE
+157,157,2025-08-28,CIMAHI,,,,,Grade 10,TH,6A.2.1 Organisation,A,,,Completed,,,,1,
+158,158,2026-02-10,CIMAHI,,,,,Grade 10,TH,6A.2.1 Organisation,B,,,Completed,,,,1,
+159,159,2025-10-16,CIMAHI,,,,,Grade 10,TH,6A.2.1 Organisation,C,Gita,,Completed,,,1,1,FALSE
+160,160,2026-02-24,CIMAHI,,,,,Grade 10,TH,6A.2.1 Organisation,C,Gita,,Completed,,,2,1,TRUE
+161,161,2025-11-11,CIMAHI,,,,,Grade 10,TH,6A.2.1 Organisation,C,Ghata,,Completed,,,1,1,TRUE
+162,162,2026-01-21,CIMAHI,,,,,Grade 10,TH,6A.2.1 Organisation,C,Kartika,,Completed,,,1,1,FALSE
+163,163,2026-02-25,CIMAHI,,,,,Grade 10,TH,6A.2.1 Organisation,C,Kartika,,Completed,,,2,1,TRUE
+164,164,2025-08-28,CIMAHI,,,,,Grade 10,TH,6A.2.2 Hazards,A,,,Completed,,,,1,
+165,165,2026-02-04,CIMAHI,,,,,Grade 10,TH,6A.2.2 Hazards,B,,,Completed,,,,1,
+166,166,2025-10-15,CIMAHI,,,,,Grade 10,TH,6A.2.2 Hazards,C,Gita,,Completed,,,1,1,FALSE
+167,167,2026-01-29,CIMAHI,,,,,Grade 10,TH,6A.2.2 Hazards,C,Gita,,Completed,,,2,1,TRUE
+168,168,2025-11-11,CIMAHI,,,,,Grade 10,TH,6A.2.2 Hazards,C,Ghata,,Completed,,,1,1,TRUE
+169,169,2026-01-29,CIMAHI,,,,,Grade 10,TH,6A.2.2 Hazards,C,Kartika,,Completed,,,1,1,FALSE
+170,170,2026-01-29,CIMAHI,,,,,Grade 10,TH,6A.2.2 Hazards,C,Kartika,,Completed,,,2,1,TRUE
+171,171,2025-09-01,CIMAHI,,,,,Grade 10,TH,6A.2.3 HF,A,,,Completed,,,,2,
+172,172,2026-02-04,CIMAHI,,,,,Grade 10,TH,6A.2.3 HF,B,,,Completed,,,,2,
+173,173,2025-11-03,CIMAHI,,,,,Grade 10,TH,6A.2.3 HF,C,Gita,,Completed,,,1,2,TRUE
+174,174,2025-11-13,CIMAHI,,,,,Grade 10,TH,6A.2.3 HF,C,Ghata,,Completed,,,1,2,TRUE
+175,175,2026-01-22,CIMAHI,,,,,Grade 10,TH,6A.2.3 HF,C,Kartika,,Completed,,,1,2,FALSE
+176,176,2026-03-03,CIMAHI,,,,,Grade 10,TH,6A.2.3 HF,C,Kartika,,Completed,,,2,2,TRUE
+177,177,2025-08-11,CIMAHI,,,,,Grade 10,TH,7A.1.1 jobs,A,,,Completed,,,,2,
+178,178,2025-10-20,CIMAHI,,,,,Grade 10,TH,7A.1.1 jobs,B,,,Completed,,,,2,
+179,179,2026-07-21,CIMAHI,,,,,Grade 10,TH,7A.1.1 jobs,D,,,Completed,,,,2,
+180,180,2025-09-17,CIMAHI,,,,,Grade 10,TH,7A.1.1 jobs,C,Diki,,Completed,,,1,2,TRUE
+181,181,2025-11-20,CIMAHI,,,,,Grade 10,TH,7A.1.1 jobs,C,Ghata,,Completed,,,1,2,TRUE
+182,182,2026-02-03,CIMAHI,,,,,Grade 10,TH,7A.1.1 jobs,C,Kartika,,Completed,,,1,2,TRUE
+183,183,2025-08-12,CIMAHI,,,,,Grade 10,TH,7A.1.2 Jobs,A,,,Completed,,,,2,
+184,184,2025-10-22,CIMAHI,,,,,Grade 10,TH,7A.1.2 Jobs,B,,,Completed,,,,2,
+185,185,2026-07-22,CIMAHI,,,,,Grade 10,TH,7A.1.2 Jobs,D,,,Completed,,,,2,
+186,186,2025-10-07,CIMAHI,,,,,Grade 10,TH,7A.1.2 Jobs,C,Diki,,Completed,,,1,2,TRUE
+187,187,2025-11-13,CIMAHI,,,,,Grade 10,TH,7A.1.2 Jobs,C,Ghata,,Completed,,,1,2,TRUE
+188,188,2026-01-26,CIMAHI,,,,,Grade 10,TH,7A.1.2 Jobs,C,Kartika,,Completed,,,1,2,TRUE
+189,189,2025-08-13,CIMAHI,,,,,Grade 10,TH,7A.1.3 Jobs,A,,,Completed,,,,2,
+190,190,2025-10-28,CIMAHI,,,,,Grade 10,TH,7A.1.3 Jobs,B,,,Completed,,,,2,
+191,191,2026-07-29,CIMAHI,,,,,Grade 10,TH,7A.1.3 Jobs,D,,,Completed,,,,2,
+192,192,2025-10-14,CIMAHI,,,,,Grade 10,TH,7A.1.3 Jobs,C,Diki,,Completed,,,1,2,TRUE
+193,193,2025-11-20,CIMAHI,,,,,Grade 10,TH,7A.1.3 Jobs,C,Ghata,,Completed,,,1,2,TRUE
+194,194,2026-03-10,CIMAHI,,,,,Grade 10,TH,7A.1.3 Jobs,C,Kartika,,Completed,,,1,2,TRUE
+195,195,2025-08-14,CIMAHI,,,,,Grade 10,TH,7A.1.4 Jobs,A,,,Completed,,,,2,
+196,196,2025-10-31,CIMAHI,,,,,Grade 10,TH,7A.1.4 Jobs,B,,,Completed,,,,2,
+197,197,2026-08-04,CIMAHI,,,,,Grade 10,TH,7A.1.4 Jobs,D,,,Completed,,,,2,
+198,198,2025-10-27,CIMAHI,,,,,Grade 10,TH,7A.1.4 Jobs,C,Diki,,Completed,,,1,2,TRUE
+199,199,2025-11-21,CIMAHI,,,,,Grade 10,TH,7A.1.4 Jobs,C,Ghata,,Completed,,,1,2,TRUE
+200,200,2026-03-11,CIMAHI,,,,,Grade 10,TH,7A.1.4 Jobs,C,Kartika,,Completed,,,1,2,TRUE
+201,201,2025-08-21,CIMAHI,,,,,Grade 10,TH,7A.1.5 Jobs,A,,,Completed,,,,2,
+202,202,2025-11-04,CIMAHI,,,,,Grade 10,TH,7A.1.5 Jobs,B,,,Completed,,,,2,
+203,203,2026-08-05,CIMAHI,,,,,Grade 10,TH,7A.1.5 Jobs,D,,,Completed,,,,2,
+204,204,2025-10-28,CIMAHI,,,,,Grade 10,TH,7A.1.5 Jobs,C,Diki,,Completed,,,1,2,TRUE
+205,205,2025-11-24,CIMAHI,,,,,Grade 10,TH,7A.1.5 Jobs,C,Ghata,,Completed,,,1,2,TRUE
+206,206,2026-03-11,CIMAHI,,,,,Grade 10,TH,7A.1.5 Jobs,C,Kartika,,Completed,,,1,2,TRUE
+207,207,2025-08-21,CIMAHI,,,,,Grade 10,TH,7A.1.6 Jobs,A,,,Completed,,,,2,
+208,208,2025-11-07,CIMAHI,,,,,Grade 10,TH,7A.1.6 Jobs,B,,,Completed,,,,2,
+209,209,2026-08-11,CIMAHI,,,,,Grade 10,TH,7A.1.6 Jobs,D,,,Completed,,,,2,
+210,210,2025-11-10,CIMAHI,,,,,Grade 10,TH,7A.1.6 Jobs,C,Diki,,Completed,,,1,2,TRUE
+211,211,2025-11-26,CIMAHI,,,,,Grade 10,TH,7A.1.6 Jobs,C,Ghata,,Completed,,,1,2,TRUE
+212,212,2026-03-12,CIMAHI,,,,,Grade 10,TH,7A.1.6 Jobs,C,Kartika,,Completed,,,1,2,TRUE
+213,213,2026-04-07,CIMAHI,,,,,Grade 10,PW,2.1.4 Clouds,A,,,Completed,,,,1,
+214,214,2026-04-16,CIMAHI,,,,,Grade 10,PW,2.1.4 Clouds,B,,,Completed,,,,1,
+215,215,2026-04-20,CIMAHI,,,,,Grade 10,PW,2.1.4 Clouds,C,Rahmat,,Completed,,,1,1,TRUE
+216,216,2026-04-20,CIMAHI,,,,,Grade 10,PW,2.1.4 Clouds,C,Ayu,,Completed,,,1,1,TRUE
+217,217,2026-04-07,CIMAHI,,,,,Grade 10,PW,2.1.5 Winds,A,,,Completed,,,,1,
+218,218,2026-04-16,CIMAHI,,,,,Grade 10,PW,2.1.5 Winds,B,,,Completed,,,,1,
+219,219,2026-04-20,CIMAHI,,,,,Grade 10,PW,2.1.5 Winds,C,Rahmat,,Completed,,,1,1,TRUE
+220,220,2026-04-20,CIMAHI,,,,,Grade 10,PW,2.1.5 Winds,C,Ayu,,Completed,,,1,1,TRUE
+221,221,2026-01-13,CIMAHI,,,,,Grade 10,PW,3A.3.1,A,,,Completed,,,,,
+222,222,2026-03-04,CIMAHI,,,,,Grade 10,PW,3A.3.1,B,,,Completed,,,,,
+223,223,2026-04-28,CIMAHI,,,,,Grade 10,PW,3A.3.1,C,Rizky,,Completed,,,1,,TRUE
+224,224,2026-05-04,CIMAHI,,,,,Grade 10,PW,3A.3.1,C,Gita,,Completed,,,1,,TRUE
+225,225,2026-01-19,CIMAHI,,,,,Grade 10,PW,3A.3.2,A,,,Completed,,,,,
+226,226,2026-04-07,CIMAHI,,,,,Grade 10,PW,3A.3.2,B,,,Completed,,,,,
+227,227,2026-04-28,CIMAHI,,,,,Grade 10,PW,3A.3.2,C,Rizky,,Completed,,,1,,TRUE
+228,228,2026-05-04,CIMAHI,,,,,Grade 10,PW,3A.3.2,C,Gita,,Completed,,,1,,TRUE
+229,229,2026-01-12,CIMAHI,,,,,Grade 10,PW,4A.1.6 Indicating,A,,,Completed,,,,2,
+230,230,2026-04-22,CIMAHI,,,,,Grade 10,PW,4A.1.6 Indicating,C,Ghata,,Completed,,,1,2,FALSE
+231,231,2026-06-04,CIMAHI,,,,,Grade 10,PW,4A.1.6 Indicating,C,Ghata,,Completed,,,2,2,TRUE
+232,232,2026-06-02,CIMAHI,,,,,Grade 10,PW,4A.1.6 Indicating,C,Rahmat,,Completed,,,1,2,TRUE
+233,233,2026-06-02,CIMAHI,,,,,Grade 10,PW,4A.1.6 Indicating,C,Ayu,,Completed,,,1,2,TRUE
+234,234,2026-04-08,CIMAHI,,,,,Grade 10,PW,4A.2.2 Main,A,,,Completed,,,,2,
+235,235,2026-05-07,CIMAHI,,,,,Grade 10,PW,4A.2.2 Main,C,Rahmat,,Completed,,,1,2,TRUE
+236,236,2026-04-29,CIMAHI,,,,,Grade 10,PW,4A.2.2 Main,C,Ayu,,Completed,,,1,2,TRUE
+237,237,2026-01-19,CIMAHI,,,,,Grade 10,PW,5A.1.1 Cockpit,A,,,Completed,,,,4,
+238,238,2026-06-03,CIMAHI,,,,,Grade 10,PW,5A.1.1 Cockpit,C,Rizky,,Completed,,,1,4,TRUE
+239,239,2026-06-09,CIMAHI,,,,,Grade 10,PW,5A.1.1 Cockpit,C,Ghata,,Completed,,,1,4,TRUE
+240,240,2026-01-21,CIMAHI,,,,,Grade 10,PW,5A.2.1 Baro inst,A,,,Completed,,,,4,
+241,241,2026-06-10,CIMAHI,,,,,Grade 10,PW,5A.2.1 Baro inst,C,Ghata,,Completed,,,1,4,TRUE
+242,242,2026-04-23,CIMAHI,,,,,Grade 10,PW,6A.1.1 Nav rule,A,,,Completed,,,,2,
+243,243,2026-04-20,CIMAHI,,,,,Grade 10,PW,6A.1.1 Nav rule,B,,,Completed,,,,2,
+244,244,2026-04-30,CIMAHI,,,,,Grade 10,PW,6A.1.1 Nav rule,C,Gita,,Completed,,,1,2,TRUE
+245,245,2026-05-25,CIMAHI,,,,,Grade 10,PW,6A.1.1 Nav rule,C,Kartika,,Completed,,,1,2,TRUE
+246,246,2026-01-28,CIMAHI,,,,,Grade 10,PW,6A.2.2 Hazards,A,,,Completed,,,,4,
+247,247,2026-02-25,CIMAHI,,,,,Grade 11,TH,9.1.1 Pressure,A,,,Completed,,,,1,
+248,248,2026-07-16,CIMAHI,,,,,Grade 11,TH,9.1.1 Pressure,B,,,Completed,,,,1,
+249,249,2026-05-19,CIMAHI,,,,,Grade 11,TH,9.1.1 Pressure,C,Rahmat,,Completed,,,1,1,TRUE
+250,250,2026-05-20,CIMAHI,,,,,Grade 11,TH,9.1.1 Pressure,C,Ayu,,Completed,,,1,1,TRUE
+251,251,2026-02-25,CIMAHI,,,,,Grade 11,TH,9.1.2 Fluid mechanics,A,,,Completed,,,,1,
+252,252,2026-07-20,CIMAHI,,,,,Grade 11,TH,9.1.2 Fluid mechanics,B,,,Completed,,,,1,
+253,253,2026-05-21,CIMAHI,,,,,Grade 11,TH,9.1.2 Fluid mechanics,C,Rahmat,,Completed,,,1,1,TRUE
+254,254,2026-05-21,CIMAHI,,,,,Grade 11,TH,9.1.2 Fluid mechanics,C,Ayu,,Completed,,,1,1,TRUE
+255,255,2026-02-25,CIMAHI,,,,,Grade 11,TH,9.1.3 Fluid dynamics,A,,,Completed,,,,2,
+256,256,2026-07-21,CIMAHI,,,,,Grade 11,TH,9.1.3 Fluid dynamics,B,,,Completed,,,,2,
+257,257,2026-06-09,CIMAHI,,,,,Grade 11,TH,9.1.3 Fluid dynamics,C,Rahmat,,Completed,,,1,2,TRUE
+258,258,2026-06-09,CIMAHI,,,,,Grade 11,TH,9.1.3 Fluid dynamics,C,Ayu,,Completed,,,1,2,TRUE
+259,259,2026-02-26,CIMAHI,,,,,Grade 11,TH,9.2.1 Thermodynamics,A,,,Completed,,,,2,
+260,260,2026-07-22,CIMAHI,,,,,Grade 11,TH,9.2.1 Thermodynamics,B,,,Completed,,,,2,
+261,261,2026-06-10,CIMAHI,,,,,Grade 11,TH,9.2.1 Thermodynamics,C,Rahmat,,Completed,,,1,2,TRUE
+262,262,2026-06-10,CIMAHI,,,,,Grade 11,TH,9.2.1 Thermodynamics,C,Ayu,,Completed,,,1,2,TRUE
+263,263,2026-03-05,CIMAHI,,,,,Grade 11,TH,9.3.1 Optics,A,,,Completed,,,,2,
+264,264,2026-07-23,CIMAHI,,,,,Grade 11,TH,9.3.1 Optics,B,,,Completed,,,,2,
+265,265,2026-06-11,CIMAHI,,,,,Grade 11,TH,9.3.1 Optics,C,Rahmat,,Completed,,,1,2,TRUE
+266,266,2026-06-11,CIMAHI,,,,,Grade 11,TH,9.3.1 Optics,C,Ayu,,Completed,,,1,2,TRUE
+267,267,2026-05-20,CIMAHI,,,,,Grade 11,TH,9.4.1 Acoustics,A,,,Completed,,,,2,
+268,268,2026-07-16,CIMAHI,,,,,Grade 11,TH,9.4.1 Acoustics,B,,,Completed,,,,2,
+269,269,2026-05-20,CIMAHI,,,,,Grade 11,TH,9.4.1 Acoustics,C,Rahmat,,Completed,,,1,2,TRUE
+270,270,2026-05-20,CIMAHI,,,,,Grade 11,TH,9.4.1 Acoustics,C,Ayu,,Completed,,,1,2,TRUE
+271,271,2026-02-24,CIMAHI,,,,,Grade 11,TH,3B.1.1 Basic of design,A,,,Completed,,,,1,
+272,272,2026-05-11,CIMAHI,,,,,Grade 11,TH,3B.1.1 Basic of design,B,,,Completed,,,,1,
+273,273,2026-07-28,CIMAHI,,,,,Grade 11,TH,3B.1.1 Basic of design,C,Gita,,Completed,,,1,1,TRUE
+274,274,2026-02-24,CIMAHI,,,,,Grade 11,TH,3B.1.2 Design eng.,A,,,Completed,,,,2,
+275,275,2026-05-11,CIMAHI,,,,,Grade 11,TH,3B.1.2 Design eng.,B,,,Completed,,,,2,
+276,276,2026-07-28,CIMAHI,,,,,Grade 11,TH,3B.1.2 Design eng.,C,Gita,,Completed,,,1,2,TRUE
+277,277,2026-03-12,CIMAHI,,,,,Grade 11,TH,3B.2.1 Meteorological,A,,,Completed,,,,2,
+278,278,2026-07-29,CIMAHI,,,,,Grade 11,TH,3B.2.1 Meteorological,C,Gita,,Completed,,,1,2,TRUE
+279,279,2026-04-08,CIMAHI,,,,,Grade 11,TH,3B.2.2 Aerodynamic,A,,,Completed,,,,2,
+280,280,2026-07-29,CIMAHI,,,,,Grade 11,TH,3B.2.2 Aerodynamic,C,Gita,,Completed,,,1,2,TRUE
+281,281,2026-07-20,CIMAHI,,,,,Grade 11,TH,3B.2.3 Regulation,A,,,Completed,,,,1,
+282,282,2026-07-30,CIMAHI,,,,,Grade 11,TH,3B.2.3 Regulation,C,Gita,,Completed,,,1,1,TRUE
+283,283,2026-05-21,CIMAHI,,,,,Grade 11,TH,3B.3.1 Technique in 3D,A,,,Completed,,,,1,
+284,284,2026-05-21,CIMAHI,,,,,Grade 11,TH,3B.3.1 Technique in 3D,B,,,Completed,,,,1,
+285,285,2026-08-03,CIMAHI,,,,,Grade 11,TH,3B.3.1 Technique in 3D,C,Gita,,Completed,,,1,1,TRUE
+286,286,2026-07-20,CIMAHI,,,,,Grade 11,TH,3B.3.2 Basic project CAD,A,,,Completed,,,,1,
+287,287,2026-08-04,CIMAHI,,,,,Grade 11,TH,3B.3.2 Basic project CAD,C,Gita,,Completed,,,1,1,TRUE
+288,288,2026-03-03,CIMAHI,,,,,Grade 11,TH,4B.1.1 Composite material,A,,,Completed,,,,1,
+289,289,2026-04-22,CIMAHI,,,,,Grade 11,TH,4B.1.1 Composite material,B,,,Completed,,,,1,
+290,290,2026-05-11,CIMAHI,,,,,Grade 11,TH,4B.1.1 Composite material,C,Rahmat,,Completed,,,1,1,TRUE
+291,291,2026-05-07,CIMAHI,,,,,Grade 11,TH,4B.1.1 Composite material,C,Ayu,,Completed,,,1,1,TRUE
+292,292,2026-03-02,CIMAHI,,,,,Grade 11,TH,4B.1.2 Material selection,A,,,Completed,,,,1,
+293,293,2026-07-27,CIMAHI,,,,,Grade 11,TH,4B.1.2 Material selection,B,,,Completed,,,,1,
+294,294,2026-07-28,CIMAHI,,,,,Grade 11,TH,4B.1.2 Material selection,C,Rahmat,,Completed,,,1,1,TRUE
+295,295,2026-07-22,CIMAHI,,,,,Grade 11,TH,4B.1.2 Material selection,C,Ayu,,Completed,,,1,1,TRUE
+296,296,2026-03-02,CIMAHI,,,,,Grade 11,TH,4B.1.3 Ferrous and other,A,,,Completed,,,,1,
+297,297,2026-07-27,CIMAHI,,,,,Grade 11,TH,4B.1.3 Ferrous and other,B,,,Completed,,,,1,
+298,298,2026-08-04,CIMAHI,,,,,Grade 11,TH,4B.1.3 Ferrous and other,C,Rahmat,,Completed,,,1,1,TRUE
+299,299,2026-07-22,CIMAHI,,,,,Grade 11,TH,4B.1.3 Ferrous and other,C,Ayu,,Completed,,,1,1,TRUE
+300,300,2026-03-09,CIMAHI,,,,,Grade 11,TH,4B.2.1 Fateners,A,,,Completed,,,,1,
+301,301,2026-07-28,CIMAHI,,,,,Grade 11,TH,4B.2.1 Fateners,B,,,Completed,,,,1,
+302,302,2026-08-03,CIMAHI,,,,,Grade 11,TH,4B.2.1 Fateners,C,Ghata,,Completed,,,1,1,TRUE
+303,303,2026-08-03,CIMAHI,,,,,Grade 11,TH,4B.2.1 Fateners,C,Kartika,,Completed,,,1,1,TRUE
+304,304,2026-03-09,CIMAHI,,,,,Grade 11,TH,4B.2.2 Electrical Cables,A,,,Completed,,,,1,
+305,305,2026-07-28,CIMAHI,,,,,Grade 11,TH,4B.2.2 Electrical Cables,B,,,Completed,,,,1,
+306,306,2026-08-03,CIMAHI,,,,,Grade 11,TH,4B.2.2 Electrical Cables,C,Ghata,,Completed,,,1,1,TRUE
+307,307,2026-08-03,CIMAHI,,,,,Grade 11,TH,4B.2.2 Electrical Cables,C,Kartika,,Completed,,,1,1,TRUE
+308,308,2026-05-12,CIMAHI,,,,,Grade 11,TH,4B.3.1 Flight controls,A,,,Completed,,,,1,
+309,309,2026-07-29,CIMAHI,,,,,Grade 11,TH,4B.3.1 Flight controls,B,,,Completed,,,,1,
+310,310,2026-07-22,CIMAHI,,,,,Grade 11,TH,4B.3.1 Flight controls,C,Gita,,Completed,,,1,1,TRUE
+311,311,2026-04-29,CIMAHI,,,,,Grade 11,TH,4B.3.2 Fuel system,A,,,Completed,,,,1,
+312,312,2026-07-29,CIMAHI,,,,,Grade 11,TH,4B.3.2 Fuel system,B,,,Completed,,,,1,
+313,313,2026-04-30,CIMAHI,,,,,Grade 11,TH,4B.3.2 Fuel system,C,Gita,,Completed,,,1,1,TRUE
+314,314,2026-05-20,CIMAHI,,,,,Grade 11,TH,4B.3.3 Hydraulic power,A,,,Completed,,,,1,
+315,315,2026-07-30,CIMAHI,,,,,Grade 11,TH,4B.3.3 Hydraulic power,B,,,Completed,,,,1,
+316,316,2026-07-24,CIMAHI,,,,,Grade 11,TH,4B.3.3 Hydraulic power,C,Gita,,Completed,,,1,1,TRUE
+317,317,2026-05-21,CIMAHI,,,,,Grade 11,TH,4B.3.4 Landing gear,A,,,Completed,,,,1,
+318,318,2026-07-30,CIMAHI,,,,,Grade 11,TH,4B.3.4 Landing gear,B,,,Completed,,,,1,
+319,319,2026-07-23,CIMAHI,,,,,Grade 11,TH,4B.3.5 Ice and rain prot.,A,,,Completed,,,,1,
+320,320,2026-08-03,CIMAHI,,,,,Grade 11,TH,4B.3.5 Ice and rain prot.,B,,,Completed,,,,1,
+321,321,2026-07-23,CIMAHI,,,,,Grade 11,TH,4B.3.6 Oxygen,A,,,Completed,,,,1,
+322,322,2026-08-03,CIMAHI,,,,,Grade 11,TH,4B.3.6 Oxygen,B,,,Completed,,,,1,
+323,323,2026-08-11,CIMAHI,,,,,Grade 11,TH,4B.3.6 Oxygen,C,Gita,,Completed,,,1,1,FALSE
+324,324,2026-07-28,CIMAHI,,,,,Grade 11,TH,4B.3.7 Air cond.,A,,,Completed,,,,1,
+325,325,2026-08-10,CIMAHI,,,,,Grade 11,TH,4B.3.7 Air cond.,B,,,Completed,,,,1,
+326,326,2026-08-11,CIMAHI,,,,,Grade 11,TH,4B.3.7 Air cond.,C,Gita,,Completed,,,1,1,FALSE
+327,327,2026-07-28,CIMAHI,,,,,Grade 11,TH,4B.3.8 Cabin press.,A,,,Completed,,,,1,
+328,328,2026-08-10,CIMAHI,,,,,Grade 11,TH,4B.3.8 Cabin press.,B,,,Completed,,,,1,
+329,329,2026-08-18,CIMAHI,,,,,Grade 11,TH,4B.3.8 Cabin press.,C,Gita,,Completed,,,1,1,TRUE
+330,330,2026-02-24,CIMAHI,,,,,Grade 11,TH,5B.1.1 AC-DC circuit,A,,,Completed,,,,2,
+331,331,2026-08-20,CIMAHI,,,,,Grade 11,TH,5B.1.1 AC-DC circuit,B,,,Completed,,,,2,
+332,332,2026-07-27,CIMAHI,,,,,Grade 11,TH,5B.1.1 AC-DC circuit,C,Rahmat,,Completed,,,1,2,TRUE
+333,333,2026-05-07,CIMAHI,,,,,Grade 11,TH,5B.1.1 AC-DC circuit,C,Ayu,,Completed,,,1,2,TRUE
+334,334,2026-03-04,CIMAHI,,,,,Grade 11,TH,5B.1.2 Semiconductors,A,,,Completed,,,,1,
+335,335,2026-07-29,CIMAHI,,,,,Grade 11,TH,5B.1.2 Semiconductors,C,Rahmat,,Completed,,,1,1,TRUE
+336,336,2026-07-29,CIMAHI,,,,,Grade 11,TH,5B.1.2 Semiconductors,C,Ayu,,Completed,,,1,1,TRUE
+337,337,2026-02-24,CIMAHI,,,,,Grade 11,TH,5B.1.3 Servomechanisms,A,,,Completed,,,,1,
+338,338,2026-07-30,CIMAHI,,,,,Grade 11,TH,5B.1.3 Servomechanisms,C,Rahmat,,Completed,,,1,1,TRUE
+339,339,2026-07-30,CIMAHI,,,,,Grade 11,TH,5B.1.3 Servomechanisms,C,Ayu,,Completed,,,1,1,TRUE
+340,340,2026-07-20,CIMAHI,,,,,Grade 11,TH,5B.2.1 Nav. Sys.,A,,,Completed,,,,3,
+341,341,2026-08-05,CIMAHI,,,,,Grade 11,TH,5B.2.1 Nav. Sys.,C,Gita,,Completed,,,1,3,TRUE
+342,342,2026-06-21,CIMAHI,,,,,Grade 11,TH,5B.3.1 Radio comm.,A,,,Completed,,,,2,
+343,343,2026-08-07,CIMAHI,,,,,Grade 11,TH,5B.3.1 Radio comm.,C,Ghata,,Completed,,,1,2,TRUE
+344,344,2026-07-27,CIMAHI,,,,,Grade 11,TH,5B.3.1 Radio comm.,C,Kartika,,Completed,,,1,2,TRUE
+345,345,2026-08-03,CIMAHI,,,,,Grade 11,TH,5B.3.1 Radio comm.,C,Kartika,,Completed,,,2,2,TRUE
+346,346,2026-03-12,CIMAHI,,,,,Grade 11,TH,5B.3.2 Radio Nav.,A,,,Completed,,,,2,
+347,347,2026-08-12,CIMAHI,,,,,Grade 11,TH,5B.3.2 Radio Nav.,C,Ghata,,Completed,,,1,2,TRUE
+348,348,2026-08-06,CIMAHI,,,,,Grade 11,TH,5B.3.2 Radio Nav.,C,Kartika,,Completed,,,1,2,FALSE
+349,349,2026-08-20,CIMAHI,,,,,Grade 11,TH,5B.3.2 Radio Nav.,C,Kartika,,Completed,,,2,2,TRUE
+350,350,2026-07-20,CIMAHI,,,,,Grade 11,TH,5B.3.3 Detection,A,,,Completed,,,,2,
+351,351,2026-04-07,CIMAHI,,,,,Grade 11,TH,10A.1.1,A,,,Completed,,,,,
+352,352,2026-04-23,CIMAHI,,,,,Grade 11,TH,10A.1.1,B,,,Completed,,,,,
+353,353,2026-04-20,CIMAHI,,,,,Grade 11,TH,10A.1.1,C,Ghata,,Completed,,,1,,TRUE
+354,354,2026-05-12,CIMAHI,,,,,Grade 11,TH,10A.1.1,C,Kartika,,Completed,,,1,,TRUE
+355,355,2026-04-07,CIMAHI,,,,,Grade 11,TH,10A.1.2,A,,,Completed,,,,,
+356,356,2026-04-28,CIMAHI,,,,,Grade 11,TH,10A.1.2,B,,,Completed,,,,,
+357,357,2026-04-22,CIMAHI,,,,,Grade 11,TH,10A.1.2,C,Ghata,,Completed,,,1,,TRUE
+358,358,2026-05-13,CIMAHI,,,,,Grade 11,TH,10A.1.2,C,Kartika,,Completed,,,1,,TRUE
+359,359,2026-04-07,CIMAHI,,,,,Grade 11,TH,10A.1.3,A,,,Completed,,,,,
+360,360,2026-04-28,CIMAHI,,,,,Grade 11,TH,10A.1.3,B,,,Completed,,,,,
+361,361,2026-04-22,CIMAHI,,,,,Grade 11,TH,10A.1.3,C,Ghata,,Completed,,,1,,TRUE
+362,362,2026-05-13,CIMAHI,,,,,Grade 11,TH,10A.1.3,C,Kartika,,Completed,,,1,,TRUE
+363,363,2026-04-08,CIMAHI,,,,,Grade 11,TH,11A.1.1 Prevent and secure,A,,,Completed,,,,6,
+364,364,2026-05-04,CIMAHI,,,,,Grade 11,TH,11A.1.1 Prevent and secure,B,,,Completed,,,,6,
+365,365,2026-05-12,CIMAHI,,,,,Grade 11,TH,11A.1.1 Prevent and secure,C,Ghata,,Completed,,,1,6,TRUE
+366,366,2026-06-02,CIMAHI,,,,,Grade 11,TH,11A.1.1 Prevent and secure,C,Kartika,,Completed,,,1,6,TRUE
+367,367,2026-04-09,CIMAHI,,,,,Grade 11,TH,11A.2.1 Enhance human,A,,,Completed,,,,2,
+368,368,2026-04-29,CIMAHI,,,,,Grade 11,TH,11A.2.1 Enhance human,B,,,Completed,,,,2,
+369,369,2026-06-11,CIMAHI,,,,,Grade 11,TH,11A.2.1 Enhance human,C,Ghata,,Completed,,,1,2,TRUE
+370,370,2026-06-10,CIMAHI,,,,,Grade 11,TH,11A.2.1 Enhance human,C,Kartika,,Completed,,,1,2,TRUE
+371,371,2026-04-16,CIMAHI,,,,,Grade 11,TH,7B.1.1 Def aero carreers,A,,,Completed,,,,3,
+372,372,2026-04-29,CIMAHI,,,,,Grade 11,TH,7B.1.1 Def aero carreers,C,Ghata,,Completed,,,1,3,TRUE
+373,373,2026-05-18,CIMAHI,,,,,Grade 11,TH,7B.1.1 Def aero carreers,C,Kartika,,Completed,,,1,3,TRUE
+374,374,2026-04-16,CIMAHI,,,,,Grade 11,TH,7B.1.2 Aeronautic trainning,A,,,Completed,,,,3,
+375,375,2026-05-26,CIMAHI,,,,,Grade 11,TH,7B.1.2 Aeronautic trainning,C,Ghata,,Completed,,,1,3,TRUE
+376,376,2026-05-18,CIMAHI,,,,,Grade 11,TH,7B.1.2 Aeronautic trainning,C,Kartika,,Completed,,,1,3,TRUE
+377,377,2026-05-13,CIMAHI,,,,,Grade 11,TH,7B.1.3 Skills and comp.,A,,,Completed,,,,3,
+378,378,2026-05-26,CIMAHI,,,,,Grade 11,TH,7B.1.3 Skills and comp.,C,Ghata,,Completed,,,1,3,TRUE
+379,379,2026-05-19,CIMAHI,,,,,Grade 11,TH,7B.1.3 Skills and comp.,C,Kartika,,Completed,,,1,3,TRUE
+380,380,2026-05-13,CIMAHI,,,,,Grade 11,TH,7B.1.4 Concerns in aviation,A,,,Completed,,,,3,
+381,381,2026-06-03,CIMAHI,,,,,Grade 11,TH,7B.1.4 Concerns in aviation,C,Ghata,,Completed,,,1,3,TRUE
+382,382,2026-05-19,CIMAHI,,,,,Grade 11,TH,7B.1.4 Concerns in aviation,C,Kartika,,Completed,,,1,3,TRUE
+383,383,2026-02-26,CIMAHI,,,,,Grade 11,PW,3B.1.1 Basic of design,A,,,Completed,,,,5,
+384,384,2026-05-07,CIMAHI,,,,,Grade 11,PW,3B.1.1 Basic of design,B,,,Completed,,,,5,
+385,385,2026-06-04,CIMAHI,,,,,Grade 11,PW,3B.1.1 Basic of design,C,Rizky,,Completed,,,1,5,TRUE
+386,386,2026-05-04,CIMAHI,,,,,Grade 11,PW,3B.1.1 Basic of design,C,Gita,,Completed,,,1,5,TRUE
+387,387,2026-03-02,CIMAHI,,,,,Grade 11,PW,3B.1.2 Design eng.,A,,,Completed,,,,1,
+388,388,2026-05-12,CIMAHI,,,,,Grade 11,PW,3B.1.2 Design eng.,B,,,Completed,,,,1,
+389,389,2026-06-04,CIMAHI,,,,,Grade 11,PW,3B.1.2 Design eng.,C,Rizky,,Completed,,,1,1,TRUE
+390,390,2026-05-19,CIMAHI,,,,,Grade 11,PW,3B.1.2 Design eng.,C,Gita,,Completed,,,1,1,TRUE
+391,391,2026-03-11,CIMAHI,,,,,Grade 11,PW,3B.2.1 Meteorological,A,,,Completed,,,,2,
+392,392,2026-05-18,CIMAHI,,,,,Grade 11,PW,3B.2.1 Meteorological,B,,,Completed,,,,2,
+393,393,2026-05-25,CIMAHI,,,,,Grade 11,PW,3B.2.1 Meteorological,C,Gita,,Completed,,,1,2,TRUE
+394,394,2026-05-19,CIMAHI,,,,,Grade 11,PW,3B.2.2 Aerodynamic,B,,,Completed,,,,2,
+395,395,2026-05-25,CIMAHI,,,,,Grade 11,PW,3B.2.2 Aerodynamic,C,Gita,,Completed,,,1,2,TRUE
+396,396,2026-04-09,CIMAHI,,,,,Grade 11,PW,3B.3.1 Technique in 3D,A,,,Completed,,,,1,
+397,397,2026-08-10,CIMAHI,,,,,Grade 11,PW,4B.3.1 Flight controls,A,,,Completed,,,,1,
+398,398,2026-05-20,CIMAHI,,,,,Grade 11,PW,4B.3.2 Fuel system,B,,,Completed,,,,1,
+399,399,2026-04-29,CIMAHI,,,,,Grade 11,PW,4B.3.2 Fuel system,C,Rizky,,Completed,,,1,1,TRUE
+400,400,2026-08-12,CIMAHI,,,,,Grade 11,PW,4B.3.5 Ice and rain prot.,A,,,Completed,,,,2,
+401,401,2026-08-19,CIMAHI,,,,,Grade 11,PW,4B.3.7 Air cond.,A,,,Completed,,,,2,
+402,402,2026-08-10,CIMAHI,,,,,Grade 12,TH,3C.1.1 Thermodynamics,A,,,Completed,,,,2,
+403,403,2026-08-19,CIMAHI,,,,,Grade 12,TH,3C.1.3 Regulations,A,,,Completed,,,,2,
+404,404,2026-08-20,CIMAHI,,,,,Grade 12,TH,3C.2.1 Advanced techniques,A,,,Completed,,,,4,
+405,405,2026-08-20,CIMAHI,,,,,Grade 12,TH,4C.1.1 Manufacturing  parts,A,,,Completed,,,,2,
+406,406,2026-08-10,CIMAHI,,,,,Grade 12,TH,5C.1.1 Flight Recorder,A,,,Completed,,,,2,
+407,407,2026-08-10,CIMAHI,,,,,Grade 12,TH,5C.1.2 Transponder,A,,,Completed,,,,1,
+408,408,2026-08-13,CIMAHI,,,,,Grade 12,TH,5C.1.3 Weather Radar,A,,,Completed,,,,1,
+409,409,2026-08-11,CIMAHI,,,,,Grade 12,TH,5C.1.4 Anti-collision system,A,,,Completed,,,,2,
+410,410,2026-08-13,CIMAHI,,,,,Grade 12,TH,"5C.1.5 Deeper  flight control system, Auto flight,â¦",A,,,Completed,,,,1,
+411,411,2026-08-13,CIMAHI,,,,,Grade 12,TH,5C.3.1 Radio-communication,A,,,Completed,,,,1,
+412,412,2026-08-19,CIMAHI,,,,,Grade 12,TH,5C.3.2 Radio-Navigation,A,,,Completed,,,,1,
+413,413,2026-08-19,CIMAHI,,,,,Grade 12,TH,5C.3.4 On board Maintenance system,A,,,Completed,,,,1,
+414,414,2026-08-18,CIMAHI,,,,,Grade 12,TH,10B.1.1 Essential principles of Armament,A,,,Completed,,,,2,
+415,415,2026-08-19,CIMAHI,,,,,Grade 12,TH,10B.1.2 Weapon systems,A,,,Completed,,,,1,
+416,416,2026-08-19,CIMAHI,,,,,Grade 12,TH,"10B.1.3 Crew Safety, Ejection seat",A,,,Completed,,,,1,
+417,417,2026-08-19,CIMAHI,,,,,Grade 12,TH,"10B.1.4 Ammunition Specific safety (storage, assembling, transports, destruction)",A,,,Completed,,,,1,
+418,418,2026-08-19,CIMAHI,,,,,Grade 12,TH,10B.1.5 Attack System Management,A,,,Completed,,,,1,
+419,419,2026-08-20,CIMAHI,,,,,Grade 12,TH,10B.1.6 Surveillance and electronic warfare,A,,,Completed,,,,1,
+420,420,2026-08-18,CIMAHI,,,,,Grade 12,TH,7C.1.1 Introduction,A,,,Completed,,,,2,
+421,421,2025-08-21,MALANG,,,,,Grade 10,TH,1.1.1 History,A,,,Completed,,,,3,
+422,422,2025-11-12,MALANG,,,,,Grade 10,TH,1.1.1 History,B,,,Completed,,,,3,
+423,423,2026-08-12,MALANG,,,,,Grade 10,TH,1.1.1 History,D,,,Completed,,,,3,
+424,424,2025-10-07,MALANG,,,,,Grade 10,TH,1.1.1 History,C,Faiz,,Completed,,,1,3,TRUE
+425,425,2026-07-29,MALANG,,,,,Grade 10,TH,1.1.1 History,C,Annisa,,Completed,,,1,3,FALSE
+426,426,2025-09-01,MALANG,,,,,Grade 10,TH,2.1.1 Atmosphere,A,,,Completed,,,,2,
+427,427,2026-02-18,MALANG,,,,,Grade 10,TH,2.1.1 Atmosphere,B,,,Completed,,,,2,
+428,428,2025-10-09,MALANG,,,,,Grade 10,TH,2.1.1 Atmosphere,C,Devi,,Completed,,,1,2,FALSE
+429,429,2026-02-09,MALANG,,,,,Grade 10,TH,2.1.1 Atmosphere,C,Devi,,Completed,,,2,2,TRUE
+430,430,2025-10-09,MALANG,,,,,Grade 10,TH,2.1.1 Atmosphere,C,Ainur,,Completed,,,1,2,TRUE
+431,431,2026-08-14,MALANG,,,,,Grade 10,TH,2.1.1 Atmosphere,C,Fajar,,Completed,,,1,2,TRUE
+432,432,2025-09-02,MALANG,,,,,Grade 10,TH,2.1.2 Heat tsfr,A,,,Completed,,,,1,
+433,433,2026-02-19,MALANG,,,,,Grade 10,TH,2.1.2 Heat tsfr,B,,,Completed,,,,1,
+434,434,2025-10-22,MALANG,,,,,Grade 10,TH,2.1.2 Heat tsfr,C,Devi,,Completed,,,1,1,TRUE
+435,435,2025-10-22,MALANG,,,,,Grade 10,TH,2.1.2 Heat tsfr,C,Ainur,,Completed,,,1,1,TRUE
+436,436,2025-09-03,MALANG,,,,,Grade 10,TH,2.1.3 Air mass,A,,,Completed,,,,1,
+437,437,2025-12-29,MALANG,,,,,Grade 10,TH,2.1.3 Air mass,B,,,Completed,,,,1,
+438,438,2025-10-23,MALANG,,,,,Grade 10,TH,2.1.3 Air mass,C,Devi,,Completed,,,1,1,TRUE
+439,439,2025-10-23,MALANG,,,,,Grade 10,TH,2.1.3 Air mass,C,Ainur,,Completed,,,1,1,TRUE
+440,440,2025-09-09,MALANG,,,,,Grade 10,TH,2.1.4 Clouds,A,,,Completed,,,,1,
+441,441,2026-01-14,MALANG,,,,,Grade 10,TH,2.1.4 Clouds,B,,,Completed,,,,1,
+442,442,2025-10-27,MALANG,,,,,Grade 10,TH,2.1.4 Clouds,C,Devi,,Completed,,,1,1,TRUE
+443,443,2025-10-27,MALANG,,,,,Grade 10,TH,2.1.4 Clouds,C,Ainur,,Completed,,,1,1,TRUE
+444,444,2025-09-10,MALANG,,,,,Grade 10,TH,2.1.5 Winds,A,,,Completed,,,,1,
+445,445,2026-01-15,MALANG,,,,,Grade 10,TH,2.1.5 Winds,B,,,Completed,,,,1,
+446,446,2025-12-03,MALANG,,,,,Grade 10,TH,2.1.5 Winds,C,Devi,,Completed,,,1,1,TRUE
+447,447,2025-12-03,MALANG,,,,,Grade 10,TH,2.1.5 Winds,C,Ainur,,Completed,,,1,1,TRUE
+448,448,2025-09-18,MALANG,,,,,Grade 10,TH,2.1.6 Dangerous,A,,,Completed,,,,1,
+449,449,2025-12-29,MALANG,,,,,Grade 10,TH,2.1.6 Dangerous,B,,,Completed,,,,1,
+450,450,2025-11-05,MALANG,,,,,Grade 10,TH,2.1.6 Dangerous,C,Devi,,Completed,,,1,1,TRUE
+451,451,2025-11-05,MALANG,,,,,Grade 10,TH,2.1.6 Dangerous,C,Ainur,,Completed,,,1,1,TRUE
+452,452,2025-09-11,MALANG,,,,,Grade 10,TH,2.2.1 Aerostatics,A,,,Completed,,,,1,
+453,453,2026-01-14,MALANG,,,,,Grade 10,TH,2.2.1 Aerostatics,B,,,Completed,,,,1,
+454,454,2025-12-01,MALANG,,,,,Grade 10,TH,2.2.1 Aerostatics,C,Devi,,Completed,,,1,1,TRUE
+455,455,2025-11-11,MALANG,,,,,Grade 10,TH,2.2.1 Aerostatics,C,Ainur,,Completed,,,1,1,TRUE
+456,456,2025-09-12,MALANG,,,,,Grade 10,TH,2.3.1 Intro,A,,,Completed,,,,1,
+457,457,2026-01-15,MALANG,,,,,Grade 10,TH,2.3.1 Intro,B,,,Completed,,,,1,
+458,458,2025-12-01,MALANG,,,,,Grade 10,TH,2.3.1 Intro,C,Devi,,Completed,,,1,1,TRUE
+459,459,2025-11-11,MALANG,,,,,Grade 10,TH,2.3.1 Intro,C,Ainur,,Completed,,,1,1,TRUE
+460,460,2025-09-15,MALANG,,,,,Grade 10,TH,2.3.2 Flow airfoil,A,,,Completed,,,,1,
+461,461,2026-03-02,MALANG,,,,,Grade 10,TH,2.3.2 Flow airfoil,B,,,Completed,,,,1,
+462,462,2025-11-12,MALANG,,,,,Grade 10,TH,2.3.2 Flow airfoil,C,Devi,,Completed,,,1,1,TRUE
+463,463,2025-11-12,MALANG,,,,,Grade 10,TH,2.3.2 Flow airfoil,C,Ainur,,Completed,,,1,1,TRUE
+464,464,2025-09-16,MALANG,,,,,Grade 10,TH,2.3.3 Boundary layer,A,,,Completed,,,,1,
+465,465,2026-03-02,MALANG,,,,,Grade 10,TH,2.3.3 Boundary layer,B,,,Completed,,,,1,
+466,466,2025-11-12,MALANG,,,,,Grade 10,TH,2.3.3 Boundary layer,C,Devi,,Completed,,,1,1,TRUE
+467,467,2025-11-12,MALANG,,,,,Grade 10,TH,2.3.3 Boundary layer,C,Ainur,,Completed,,,1,1,TRUE
+468,468,2025-09-17,MALANG,,,,,Grade 10,TH,2.3.4 Profile,A,,,Completed,,,,1,
+469,469,2026-03-02,MALANG,,,,,Grade 10,TH,2.3.4 Profile,B,,,Completed,,,,1,
+470,470,2025-12-03,MALANG,,,,,Grade 10,TH,2.3.4 Profile,C,Devi,,Completed,,,1,1,TRUE
+471,471,2025-11-12,MALANG,,,,,Grade 10,TH,2.3.4 Profile,C,Ainur,,Completed,,,1,1,TRUE
+472,472,2025-08-25,MALANG,,,,,Grade 10,TH,2.4.1 Theory of lfight,A,,,Completed,,,,3,
+473,473,2025-11-13,MALANG,,,,,Grade 10,TH,2.4.1 Theory of lfight,B,,,Completed,,,,3,
+474,474,2026-07-15,MALANG,,,,,Grade 10,TH,2.4.1 Theory of lfight,C,Tasya,,Completed,,,1,3,TRUE
+475,475,2026-07-17,MALANG,,,,,Grade 10,TH,2.4.1 Theory of lfight,C,Faiz,,Completed,,,1,3,TRUE
+476,476,2026-07-30,MALANG,,,,,Grade 10,TH,2.4.1 Theory of lfight,C,Annisa,,Completed,,,1,3,TRUE
+477,477,2025-10-26,MALANG,,,,,Grade 10,TH,2.4.1 Theory of lfight,C,Devi,,Completed,,,1,3,TRUE
+478,478,2025-10-26,MALANG,,,,,Grade 10,TH,2.4.1 Theory of lfight,C,Ainur,,Completed,,,1,3,TRUE
+479,479,2025-09-21,MALANG,,,,,Grade 10,TH,2.5.1 A/C diversity,A,,,Completed,,,,2,
+480,480,2026-01-20,MALANG,,,,,Grade 10,TH,2.5.1 A/C diversity,B,,,Completed,,,,2,
+481,481,2025-11-04,MALANG,,,,,Grade 10,TH,2.5.1 A/C diversity,C,Devi,,Completed,,,1,2,TRUE
+482,482,2025-11-04,MALANG,,,,,Grade 10,TH,2.5.1 A/C diversity,C,Ainur,,Completed,,,1,2,TRUE
+483,483,2025-08-27,MALANG,,,,,Grade 10,TH,3A.1.1 History design,A,,,Completed,,,,4,
+484,484,2025-11-18,MALANG,,,,,Grade 10,TH,3A.1.1 History design,B,,,Completed,,,,4,
+485,485,2026-07-16,MALANG,,,,,Grade 10,TH,3A.1.1 History design,C,Bima,,Completed,,,1,4,TRUE
+486,486,2026-07-17,MALANG,,,,,Grade 10,TH,3A.1.1 History design,C,Arifah,,Completed,,,1,4,TRUE
+487,487,2025-11-17,MALANG,,,,,Grade 10,TH,3A.1.1 History design,C,Devi,,Completed,,,1,4,FALSE
+488,488,2025-11-17,MALANG,,,,,Grade 10,TH,3A.1.1 History design,C,Ainur,,Completed,,,1,4,TRUE
+489,489,2025-09-15,MALANG,,,,,Grade 10,TH,3A.2.1 Design,A,,,Completed,,,,2,
+490,490,2026-02-04,MALANG,,,,,Grade 10,TH,3A.2.1 Design,B,,,Completed,,,,2,
+491,491,2025-11-06,MALANG,,,,,Grade 10,TH,3A.2.1 Design,C,Bima,,Completed,,,1,2,TRUE
+492,492,2025-11-06,MALANG,,,,,Grade 10,TH,3A.2.1 Design,C,Arifah,,Completed,,,1,2,TRUE
+493,493,2025-08-26,MALANG,,,,,Grade 10,TH,4A.1.1 Types ENG,A,,,Completed,,,,2,
+494,494,2025-11-19,MALANG,,,,,Grade 10,TH,4A.1.1 Types ENG,B,,,Completed,,,,2,
+495,495,2025-10-08,MALANG,,,,,Grade 10,TH,4A.1.1 Types ENG,C,Bima,,Completed,,,1,2,TRUE
+496,496,2026-07-29,MALANG,,,,,Grade 10,TH,4A.1.1 Types ENG,C,Akhmad,,Completed,,,1,2,TRUE
+497,497,2025-10-08,MALANG,,,,,Grade 10,TH,4A.1.1 Types ENG,C,Arifah,,Completed,,,1,2,TRUE
+498,498,2025-08-28,MALANG,,,,,Grade 10,TH,4A.1.2 Act react,A,,,Completed,,,,1,
+499,499,2026-03-03,MALANG,,,,,Grade 10,TH,4A.1.2 Act react,B,,,Completed,,,,1,
+500,500,2025-10-09,MALANG,,,,,Grade 10,TH,4A.1.2 Act react,C,Bima,,Completed,,,1,1,TRUE
+501,501,2025-10-09,MALANG,,,,,Grade 10,TH,4A.1.2 Act react,C,Arifah,,Completed,,,1,1,TRUE
+502,502,2025-09-01,MALANG,,,,,Grade 10,TH,4A.1.3 Component,A,,,Completed,,,,1,
+503,503,2026-08-06,MALANG,,,,,Grade 10,TH,4A.1.3 Component,C,Annisa,,Completed,,,1,1,TRUE
+504,504,2025-10-09,MALANG,,,,,Grade 10,TH,4A.1.3 Component,C,Bima,,Completed,,,1,1,TRUE
+505,505,2026-08-05,MALANG,,,,,Grade 10,TH,4A.1.3 Component,C,Akhmad,,Completed,,,1,1,TRUE
+506,506,2025-10-09,MALANG,,,,,Grade 10,TH,4A.1.3 Component,C,Arifah,,Completed,,,1,1,TRUE
+507,507,2025-09-02,MALANG,,,,,Grade 10,TH,4A.1.4 Power up,A,,,Completed,,,,1,
+508,508,2026-02-10,MALANG,,,,,Grade 10,TH,4A.1.4 Power up,B,,,Completed,,,,1,
+509,509,2025-11-11,MALANG,,,,,Grade 10,TH,4A.1.4 Power up,C,Bima,,Completed,,,1,1,TRUE
+510,510,2026-08-06,MALANG,,,,,Grade 10,TH,4A.1.4 Power up,C,Akhmad,,Completed,,,1,1,TRUE
+511,511,2025-11-11,MALANG,,,,,Grade 10,TH,4A.1.4 Power up,C,Arifah,,Completed,,,1,1,TRUE
+512,512,2025-09-03,MALANG,,,,,Grade 10,TH,4A.1.5 Lub and fuel,A,,,Completed,,,,1,
+513,513,2026-02-10,MALANG,,,,,Grade 10,TH,4A.1.5 Lub and fuel,B,,,Completed,,,,1,
+514,514,2025-11-10,MALANG,,,,,Grade 10,TH,4A.1.5 Lub and fuel,C,Bima,,Completed,,,1,1,TRUE
+515,515,2026-08-12,MALANG,,,,,Grade 10,TH,4A.1.5 Lub and fuel,C,Akhmad,,Completed,,,1,1,TRUE
+516,516,2025-11-10,MALANG,,,,,Grade 10,TH,4A.1.5 Lub and fuel,C,Arifah,,Completed,,,1,1,TRUE
+517,517,2025-09-04,MALANG,,,,,Grade 10,TH,4A.1.6 Indicating,A,,,Completed,,,,1,
+518,518,2025-11-09,MALANG,,,,,Grade 10,TH,4A.1.6 Indicating,C,Bima,,Completed,,,1,1,TRUE
+519,519,2025-11-09,MALANG,,,,,Grade 10,TH,4A.1.6 Indicating,C,Arifah,,Completed,,,1,1,TRUE
+520,520,2025-08-13,MALANG,,,,,Grade 10,TH,4A.2.1 General,A,,,Completed,,,,1,
+521,521,2026-01-28,MALANG,,,,,Grade 10,TH,4A.2.1 General,B,,,Completed,,,,1,
+522,522,2025-09-30,MALANG,,,,,Grade 10,TH,4A.2.1 General,C,Bima,,Completed,,,1,1,TRUE
+523,523,2025-09-30,MALANG,,,,,Grade 10,TH,4A.2.1 General,C,Arifah,,Completed,,,1,1,TRUE
+524,524,2025-08-14,MALANG,,,,,Grade 10,TH,4A.2.2 Main,A,,,Completed,,,,1,
+525,525,2026-01-28,MALANG,,,,,Grade 10,TH,4A.2.2 Main,B,,,Completed,,,,1,
+526,526,2025-10-01,MALANG,,,,,Grade 10,TH,4A.2.2 Main,C,Bima,,Completed,,,1,1,TRUE
+527,527,2026-08-20,MALANG,,,,,Grade 10,TH,4A.2.2 Main,C,Akhmad,,Completed,,,1,1,TRUE
+528,528,2025-10-01,MALANG,,,,,Grade 10,TH,4A.2.2 Main,C,Arifah,,Completed,,,1,1,TRUE
+529,529,2025-08-19,MALANG,,,,,Grade 10,TH,4A.2.3 Method,A,,,Completed,,,,1,
+530,530,2026-02-23,MALANG,,,,,Grade 10,TH,4A.2.3 Method,B,,,Completed,,,,1,
+531,531,2025-10-02,MALANG,,,,,Grade 10,TH,4A.2.3 Method,C,Bima,,Completed,,,1,1,TRUE
+532,532,2025-10-02,MALANG,,,,,Grade 10,TH,4A.2.3 Method,C,Arifah,,Completed,,,1,1,TRUE
+533,533,2025-09-18,MALANG,,,,,Grade 10,TH,4A.3.1 Main,A,,,Completed,,,,1,
+534,534,2026-01-21,MALANG,,,,,Grade 10,TH,4A.3.1 Main,B,,,Completed,,,,1,
+535,535,2025-10-07,MALANG,,,,,Grade 10,TH,4A.3.1 Main,C,Bima,,Completed,,,1,1,TRUE
+536,536,2025-10-07,MALANG,,,,,Grade 10,TH,4A.3.1 Main,C,Arifah,,Completed,,,1,1,TRUE
+537,537,2025-09-23,MALANG,,,,,Grade 10,TH,4A.3.2 Corrosion,A,,,Completed,,,,1,
+538,538,2026-01-21,MALANG,,,,,Grade 10,TH,4A.3.2 Corrosion,B,,,Completed,,,,1,
+539,539,2025-11-12,MALANG,,,,,Grade 10,TH,4A.3.2 Corrosion,C,Bima,,Completed,,,1,1,TRUE
+540,540,2025-11-12,MALANG,,,,,Grade 10,TH,4A.3.2 Corrosion,C,Arifah,,Completed,,,1,1,TRUE
+541,541,2025-09-23,MALANG,,,,,Grade 10,TH,4A.3.3 Hardware,A,,,Completed,,,,1,
+542,542,2026-02-23,MALANG,,,,,Grade 10,TH,4A.3.3 Hardware,B,,,Completed,,,,1,
+543,543,2025-11-13,MALANG,,,,,Grade 10,TH,4A.3.3 Hardware,C,Bima,,Completed,,,1,1,TRUE
+544,544,2025-11-13,MALANG,,,,,Grade 10,TH,4A.3.3 Hardware,C,Arifah,,Completed,,,1,1,TRUE
+545,545,2025-09-10,MALANG,,,,,Grade 10,TH,5A.1.1 Cockpit,A,,,Completed,,,,4,
+546,546,2026-01-22,MALANG,,,,,Grade 10,TH,5A.1.1 Cockpit,B,,,Completed,,,,4,
+547,547,2025-09-25,MALANG,,,,,Grade 10,TH,5A.1.1 Cockpit,C,Faiz,,Completed,,,1,4,TRUE
+548,548,2025-09-15,MALANG,,,,,Grade 10,TH,5A.1.2 FCS,A,,,Completed,,,,3,
+549,549,2026-01-26,MALANG,,,,,Grade 10,TH,5A.1.2 FCS,B,,,Completed,,,,3,
+550,550,2025-10-01,MALANG,,,,,Grade 10,TH,5A.1.2 FCS,C,Faiz,,Completed,,,1,3,TRUE
+551,551,2025-09-17,MALANG,,,,,Grade 10,TH,5A.2.1 Baro inst,A,,,Completed,,,,2,
+552,552,2026-01-31,MALANG,,,,,Grade 10,TH,5A.2.1 Baro inst,B,,,Completed,,,,2,
+553,553,2025-10-21,MALANG,,,,,Grade 10,TH,5A.2.1 Baro inst,C,Faiz,,Completed,,,1,2,TRUE
+554,554,2026-08-12,MALANG,,,,,Grade 10,TH,5A.2.1 Baro inst,C,Annisa,,Completed,,,1,2,FALSE
+555,555,2026-08-20,MALANG,,,,,Grade 10,TH,5A.2.1 Baro inst,C,Annisa,,Completed,,,2,2,FALSE
+556,556,2025-09-22,MALANG,,,,,Grade 10,TH,5A.2.2 Analog digi,A,,,Completed,,,,4,
+557,557,2026-02-02,MALANG,,,,,Grade 10,TH,5A.2.2 Analog digi,B,,,Completed,,,,4,
+558,558,2025-10-29,MALANG,,,,,Grade 10,TH,5A.2.2 Analog digi,C,Faiz,,Completed,,,1,4,TRUE
+559,559,2025-08-11,MALANG,,,,,Grade 10,TH,6A.1.1 Nav rule,A,,,Completed,,,,2,
+560,560,2026-01-19,MALANG,,,,,Grade 10,TH,6A.1.1 Nav rule,B,,,Completed,,,,2,
+561,561,2025-11-04,MALANG,,,,,Grade 10,TH,6A.1.1 Nav rule,C,Faiz,,Completed,,,1,2,TRUE
+562,562,2025-08-12,MALANG,,,,,Grade 10,TH,6A.1.2 Principle,A,,,Completed,,,,2,
+563,563,2026-02-11,MALANG,,,,,Grade 10,TH,6A.1.2 Principle,B,,,Completed,,,,2,
+564,564,2025-11-19,MALANG,,,,,Grade 10,TH,6A.1.2 Principle,C,Faiz,,Completed,,,1,2,TRUE
+565,565,2025-08-20,MALANG,,,,,Grade 10,TH,6A.2.1 Organisation,A,,,Completed,,,,1,
+566,566,2026-02-12,MALANG,,,,,Grade 10,TH,6A.2.1 Organisation,B,,,Completed,,,,1,
+567,567,2025-11-17,MALANG,,,,,Grade 10,TH,6A.2.1 Organisation,C,Faiz,,Completed,,,1,1,TRUE
+568,568,2025-08-27,MALANG,,,,,Grade 10,TH,6A.2.2 Hazards,A,,,Completed,,,,1,
+569,569,2026-02-16,MALANG,,,,,Grade 10,TH,6A.2.2 Hazards,B,,,Completed,,,,1,
+570,570,2025-11-18,MALANG,,,,,Grade 10,TH,6A.2.2 Hazards,C,Faiz,,Completed,,,1,1,TRUE
+571,571,2025-09-04,MALANG,,,,,Grade 10,TH,6A.2.3 HF,A,,,Completed,,,,2,
+572,572,2026-02-05,MALANG,,,,,Grade 10,TH,6A.2.3 HF,B,,,Completed,,,,2,
+573,573,2025-10-22,MALANG,,,,,Grade 10,TH,6A.2.3 HF,C,Faiz,,Completed,,,1,2,TRUE
+574,574,2025-10-21,MALANG,,,,,Grade 10,TH,7A.1.1 jobs,B,,,Completed,,,,2,
+575,575,2026-08-05,MALANG,,,,,Grade 10,TH,7A.1.1 jobs,D,,,Completed,,,,2,
+576,576,2025-09-25,MALANG,,,,,Grade 10,TH,7A.1.1 jobs,C,Devi,,Completed,,,1,2,TRUE
+577,577,2025-09-25,MALANG,,,,,Grade 10,TH,7A.1.1 jobs,C,Ainur,,Completed,,,1,2,TRUE
+578,578,2026-08-05,MALANG,,,,,Grade 10,TH,7A.1.1 jobs,C,Fajar,,Completed,,,1,2,TRUE
+579,579,2025-10-23,MALANG,,,,,Grade 10,TH,7A.1.2 Jobs,B,,,Completed,,,,2,
+580,580,2026-08-11,MALANG,,,,,Grade 10,TH,7A.1.2 Jobs,D,,,Completed,,,,2,
+581,581,2025-09-29,MALANG,,,,,Grade 10,TH,7A.1.2 Jobs,C,Devi,,Completed,,,1,2,TRUE
+582,582,2025-09-29,MALANG,,,,,Grade 10,TH,7A.1.2 Jobs,C,Ainur,,Completed,,,1,2,TRUE
+583,583,2026-07-30,MALANG,,,,,Grade 10,TH,7A.1.2 Jobs,C,Fajar,,Completed,,,1,2,TRUE
+584,584,2025-10-27,MALANG,,,,,Grade 10,TH,7A.1.3 Jobs,B,,,Completed,,,,2,
+585,585,2026-08-18,MALANG,,,,,Grade 10,TH,7A.1.3 Jobs,D,,,Completed,,,,2,
+586,586,2025-09-30,MALANG,,,,,Grade 10,TH,7A.1.3 Jobs,C,Devi,,Completed,,,1,2,TRUE
+587,587,2025-09-30,MALANG,,,,,Grade 10,TH,7A.1.3 Jobs,C,Ainur,,Completed,,,1,2,TRUE
+588,588,2026-08-06,MALANG,,,,,Grade 10,TH,7A.1.3 Jobs,C,Fajar,,Completed,,,1,2,TRUE
+589,589,2025-10-30,MALANG,,,,,Grade 10,TH,7A.1.4 Jobs,B,,,Completed,,,,2,
+590,590,2026-08-19,MALANG,,,,,Grade 10,TH,7A.1.4 Jobs,D,,,Completed,,,,2,
+591,591,2025-10-06,MALANG,,,,,Grade 10,TH,7A.1.4 Jobs,C,Devi,,Completed,,,1,2,TRUE
+592,592,2025-10-06,MALANG,,,,,Grade 10,TH,7A.1.4 Jobs,C,Ainur,,Completed,,,1,2,TRUE
+593,593,2026-08-12,MALANG,,,,,Grade 10,TH,7A.1.4 Jobs,C,Fajar,,Completed,,,1,2,TRUE
+594,594,2025-10-07,MALANG,,,,,Grade 10,TH,7A.1.5 Jobs,C,Devi,,Completed,,,1,2,TRUE
+595,595,2025-10-07,MALANG,,,,,Grade 10,TH,7A.1.5 Jobs,C,Ainur,,Completed,,,1,2,TRUE
+596,596,2026-08-13,MALANG,,,,,Grade 10,TH,7A.1.5 Jobs,C,Fajar,,Completed,,,1,2,TRUE
+597,597,2025-09-08,MALANG,,,,,Grade 10,TH,7A.1.6 Jobs,A,,,Completed,,,,2,
+598,598,2025-11-06,MALANG,,,,,Grade 10,TH,7A.1.6 Jobs,B,,,Completed,,,,2,
+599,599,2025-11-03,MALANG,,,,,Grade 10,TH,7A.1.6 Jobs,C,Devi,,Completed,,,1,2,TRUE
+600,600,2025-11-03,MALANG,,,,,Grade 10,TH,7A.1.6 Jobs,C,Ainur,,Completed,,,1,2,TRUE
+601,601,2026-08-20,MALANG,,,,,Grade 10,TH,7A.1.6 Jobs,C,Fajar,,Completed,,,1,2,TRUE
+602,602,2026-04-08,MALANG,,,,,Grade 10,PW,2.1.4 Clouds,A,,,Completed,,,,1,
+603,603,2026-04-09,MALANG,,,,,Grade 10,PW,2.1.4 Clouds,B,,,Completed,,,,1,
+604,604,2026-05-05,MALANG,,,,,Grade 10,PW,2.1.4 Clouds,C,Devi,,Completed,,,1,1,TRUE
+605,605,2026-05-07,MALANG,,,,,Grade 10,PW,2.1.4 Clouds,C,Ainur,,Completed,,,1,1,TRUE
+606,606,2026-04-09,MALANG,,,,,Grade 10,PW,2.1.5 Winds,A,,,Completed,,,,1,
+607,607,2026-04-13,MALANG,,,,,Grade 10,PW,2.1.5 Winds,B,,,Completed,,,,1,
+608,608,2026-05-19,MALANG,,,,,Grade 10,PW,2.1.5 Winds,C,Devi,,Completed,,,1,1,TRUE
+609,609,2026-05-20,MALANG,,,,,Grade 10,PW,2.1.5 Winds,C,Ainur,,Completed,,,1,1,TRUE
+610,610,2026-01-22,MALANG,,,,,Grade 10,PW,3A.3.1,A,,,Completed,,,,,
+611,611,2026-04-27,MALANG,,,,,Grade 10,PW,3A.3.1,C,Bima,,Completed,,,1,,TRUE
+612,612,2026-05-21,MALANG,,,,,Grade 10,PW,3A.3.1,C,Arifah,,Completed,,,1,,FALSE
+613,613,2026-06-09,MALANG,,,,,Grade 10,PW,3A.3.1,C,Arifah,,Completed,,,2,,TRUE
+614,614,2026-01-27,MALANG,,,,,Grade 10,PW,3A.3.2,A,,,Completed,,,,,
+615,615,2026-03-11,MALANG,,,,,Grade 10,PW,3A.3.2,B,,,Completed,,,,,
+616,616,2026-06-04,MALANG,,,,,Grade 10,PW,3A.3.2,C,Bima,,Completed,,,1,,TRUE
+617,617,2026-06-10,MALANG,,,,,Grade 10,PW,3A.3.2,C,Arifah,,Completed,,,1,,TRUE
+618,618,2026-02-04,MALANG,,,,,Grade 10,PW,4A.1.6 Indicating,A,,,Completed,,,,2,
+619,619,2026-04-29,MALANG,,,,,Grade 10,PW,4A.2.2 Main,A,,,Completed,,,,2,
+620,620,2026-05-05,MALANG,,,,,Grade 10,PW,4A.2.2 Main,B,,,Completed,,,,2,
+621,621,2026-01-26,MALANG,,,,,Grade 10,PW,5A.1.1 Cockpit,A,,,Completed,,,,4,
+622,622,2026-05-11,MALANG,,,,,Grade 10,PW,5A.1.1 Cockpit,C,Tasya,,Completed,,,1,4,TRUE
+623,623,2026-05-20,MALANG,,,,,Grade 10,PW,5A.1.1 Cockpit,C,Faiz,,Completed,,,1,4,TRUE
+624,624,2026-01-28,MALANG,,,,,Grade 10,PW,5A.2.1 Baro inst,A,,,Completed,,,,4,
+625,625,2026-06-08,MALANG,,,,,Grade 10,PW,5A.2.1 Baro inst,C,Tasya,,Completed,,,1,4,TRUE
+626,626,2026-05-25,MALANG,,,,,Grade 10,PW,5A.2.1 Baro inst,C,Faiz,,Completed,,,1,4,TRUE
+627,627,2026-01-27,MALANG,,,,,Grade 10,PW,5A.2.2 Analog digi,A,,,Completed,,,,4,
+628,628,2026-08-20,MALANG,,,,,Grade 10,PW,5A.2.2 Analog digi,C,Faiz,,Completed,,,1,4,TRUE
+629,629,2026-04-13,MALANG,,,,,Grade 10,PW,6A.1.1 Nav rule,A,,,Completed,,,,2,
+630,630,2026-04-15,MALANG,,,,,Grade 10,PW,6A.1.1 Nav rule,B,,,Completed,,,,2,
+631,631,2026-05-06,MALANG,,,,,Grade 10,PW,6A.1.1 Nav rule,C,Tasya,,Completed,,,1,2,TRUE
+632,632,2026-05-06,MALANG,,,,,Grade 10,PW,6A.1.1 Nav rule,C,Faiz,,Completed,,,1,2,TRUE
+633,633,2026-02-17,MALANG,,,,,Grade 10,PW,6A.2.2 Hazards,A,,,Completed,,,,4,
+634,634,2026-02-24,MALANG,,,,,Grade 11,TH,9.1.1 Pressure,A,,,Completed,,,,1,
+635,635,2026-07-21,MALANG,,,,,Grade 11,TH,9.1.1 Pressure,B,,,Completed,,,,1,
+636,636,2026-06-04,MALANG,,,,,Grade 11,TH,9.1.1 Pressure,C,Devi,,Completed,,,1,1,TRUE
+637,637,2026-04-30,MALANG,,,,,Grade 11,TH,9.1.1 Pressure,C,Ainur,,Completed,,,1,1,TRUE
+638,638,2026-03-10,MALANG,,,,,Grade 11,TH,9.1.1 Pressure,C,Fajar,,Completed,,,1,1,FALSE
+639,639,2026-02-24,MALANG,,,,,Grade 11,TH,9.1.2 Fluid mechanics,A,,,Completed,,,,1,
+640,640,2026-07-22,MALANG,,,,,Grade 11,TH,9.1.2 Fluid mechanics,B,,,Completed,,,,1,
+641,641,2026-07-15,MALANG,,,,,Grade 11,TH,9.1.2 Fluid mechanics,C,Devi,,Completed,,,1,1,TRUE
+642,642,2026-07-16,MALANG,,,,,Grade 11,TH,9.1.2 Fluid mechanics,C,Ainur,,Completed,,,1,1,TRUE
+643,643,2026-07-24,MALANG,,,,,Grade 11,TH,9.1.3 Fluid dynamics,B,,,Completed,,,,2,
+644,644,2026-07-30,MALANG,,,,,Grade 11,TH,9.1.3 Fluid dynamics,C,Devi,,Completed,,,1,2,TRUE
+645,645,2026-08-06,MALANG,,,,,Grade 11,TH,9.1.3 Fluid dynamics,C,Ainur,,Completed,,,1,2,TRUE
+646,646,2026-03-05,MALANG,,,,,Grade 11,TH,9.2.1 Thermodynamics,A,,,Completed,,,,2,
+647,647,2026-07-28,MALANG,,,,,Grade 11,TH,9.2.1 Thermodynamics,B,,,Completed,,,,2,
+648,648,2026-07-31,MALANG,,,,,Grade 11,TH,9.2.1 Thermodynamics,C,Devi,,Completed,,,1,2,TRUE
+649,649,2026-08-07,MALANG,,,,,Grade 11,TH,9.2.1 Thermodynamics,C,Ainur,,Completed,,,1,2,TRUE
+650,650,2026-02-26,MALANG,,,,,Grade 11,TH,9.3.1 Optics,A,,,Completed,,,,2,
+651,651,2026-07-29,MALANG,,,,,Grade 11,TH,9.3.1 Optics,B,,,Completed,,,,2,
+652,652,2026-08-07,MALANG,,,,,Grade 11,TH,9.3.1 Optics,C,Ainur,,Completed,,,1,2,TRUE
+653,653,2026-02-24,MALANG,,,,,Grade 11,TH,9.4.1 Acoustics,A,,,Completed,,,,2,
+654,654,2026-08-04,MALANG,,,,,Grade 11,TH,9.4.1 Acoustics,B,,,Completed,,,,2,
+655,655,2026-04-30,MALANG,,,,,Grade 11,TH,9.4.1 Acoustics,C,Devi,,Completed,,,1,2,TRUE
+656,656,2026-08-14,MALANG,,,,,Grade 11,TH,9.4.1 Acoustics,C,Ainur,,Completed,,,1,2,TRUE
+657,657,2026-03-05,MALANG,,,,,Grade 11,TH,3B.1.1 Basic of design,A,,,Completed,,,,1,
+658,658,2026-05-06,MALANG,,,,,Grade 11,TH,3B.1.1 Basic of design,B,,,Completed,,,,1,
+659,659,2026-08-06,MALANG,,,,,Grade 11,TH,3B.1.1 Basic of design,C,Bima,,Completed,,,1,1,TRUE
+660,660,2026-08-05,MALANG,,,,,Grade 11,TH,3B.1.1 Basic of design,C,Arifah,,Completed,,,1,1,TRUE
+661,661,2026-03-05,MALANG,,,,,Grade 11,TH,3B.1.2 Design eng.,A,,,Completed,,,,2,
+662,662,2026-08-07,MALANG,,,,,Grade 11,TH,3B.1.2 Design eng.,C,Arifah,,Completed,,,1,2,TRUE
+663,663,2026-03-09,MALANG,,,,,Grade 11,TH,3B.2.1 Meteorological,A,,,Completed,,,,2,
+664,664,2026-05-13,MALANG,,,,,Grade 11,TH,3B.2.1 Meteorological,B,,,Completed,,,,2,
+665,665,2026-08-06,MALANG,,,,,Grade 11,TH,3B.2.1 Meteorological,C,Bima,,Completed,,,1,2,TRUE
+666,666,2026-03-09,MALANG,,,,,Grade 11,TH,3B.2.2 Aerodynamic,A,,,Completed,,,,2,
+667,667,2026-05-13,MALANG,,,,,Grade 11,TH,3B.2.2 Aerodynamic,B,,,Completed,,,,2,
+668,668,2026-05-26,MALANG,,,,,Grade 11,TH,3B.2.3 Regulation,B,,,Completed,,,,1,
+669,669,2026-03-11,MALANG,,,,,Grade 11,TH,3B.3.1 Technique in 3D,A,,,Completed,,,,1,
+670,670,2026-05-28,MALANG,,,,,Grade 11,TH,3B.3.1 Technique in 3D,B,,,Completed,,,,1,
+671,671,2026-08-20,MALANG,,,,,Grade 11,TH,3B.3.2 Basic project CAD,A,,,Completed,,,,1,
+672,672,2026-03-02,MALANG,,,,,Grade 11,TH,4B.1.1 Composite material,A,,,Completed,,,,1,
+673,673,2026-11-08,MALANG,,,,,Grade 11,TH,4B.1.1 Composite material,B,,,Completed,,,,1,
+674,674,2026-04-27,MALANG,,,,,Grade 11,TH,4B.1.1 Composite material,C,Tasya,,Completed,,,1,1,TRUE
+675,675,2026-04-27,MALANG,,,,,Grade 11,TH,4B.1.1 Composite material,C,Faiz,,Completed,,,1,1,TRUE
+676,676,2026-08-18,MALANG,,,,,Grade 11,TH,4B.1.2 Material selection,B,,,Completed,,,,1,
+677,677,2026-05-21,MALANG,,,,,Grade 11,TH,4B.1.2 Material selection,C,Tasya,,Completed,,,1,1,TRUE
+678,678,2026-04-29,MALANG,,,,,Grade 11,TH,4B.1.2 Material selection,C,Faiz,,Completed,,,1,1,TRUE
+679,679,2026-03-03,MALANG,,,,,Grade 11,TH,4B.1.3 Ferrous and other,A,,,Completed,,,,1,
+680,680,2026-07-28,MALANG,,,,,Grade 11,TH,4B.1.3 Ferrous and other,C,Tasya,,Completed,,,1,1,TRUE
+681,681,2026-07-28,MALANG,,,,,Grade 11,TH,4B.1.3 Ferrous and other,C,Faiz,,Completed,,,1,1,TRUE
+682,682,2026-03-03,MALANG,,,,,Grade 11,TH,4B.2.1 Fateners,A,,,Completed,,,,1,
+683,683,2026-05-06,MALANG,,,,,Grade 11,TH,4B.2.1 Fateners,C,Tasya,,Completed,,,1,1,TRUE
+684,684,2026-05-06,MALANG,,,,,Grade 11,TH,4B.2.1 Fateners,C,Faiz,,Completed,,,1,1,TRUE
+685,685,2026-08-19,MALANG,,,,,Grade 11,TH,4B.2.1 Fateners,C,Akhmad,,Completed,,,1,1,
+686,686,2026-03-10,MALANG,,,,,Grade 11,TH,4B.2.2 Electrical Cables,A,,,Completed,,,,1,
+687,687,2026-05-13,MALANG,,,,,Grade 11,TH,4B.2.2 Electrical Cables,C,Tasya,,Completed,,,1,1,TRUE
+688,688,2026-07-29,MALANG,,,,,Grade 11,TH,4B.2.2 Electrical Cables,C,Faiz,,Completed,,,1,1,TRUE
+689,689,2026-03-03,MALANG,,,,,Grade 11,TH,4B.3.1 Flight controls,A,,,Completed,,,,1,
+690,690,2026-05-07,MALANG,,,,,Grade 11,TH,4B.3.1 Flight controls,C,Bima,,Completed,,,1,1,TRUE
+691,691,2026-07-28,MALANG,,,,,Grade 11,TH,4B.3.1 Flight controls,C,Arifah,,Completed,,,1,1,TRUE
+692,692,2026-03-03,MALANG,,,,,Grade 11,TH,4B.3.2 Fuel system,A,,,Completed,,,,1,
+693,693,2026-05-07,MALANG,,,,,Grade 11,TH,4B.3.2 Fuel system,B,,,Completed,,,,1,
+694,694,2026-03-10,MALANG,,,,,Grade 11,TH,4B.3.3 Hydraulic power,A,,,Completed,,,,1,
+695,695,2026-07-30,MALANG,,,,,Grade 11,TH,4B.3.3 Hydraulic power,C,Arifah,,Completed,,,1,1,TRUE
+696,696,2026-03-04,MALANG,,,,,Grade 11,TH,4B.3.4 Landing gear,A,,,Completed,,,,1,
+697,697,2026-08-07,MALANG,,,,,Grade 11,TH,4B.3.4 Landing gear,C,Bima,,Completed,,,1,1,TRUE
+698,698,2026-05-26,MALANG,,,,,Grade 11,TH,4B.3.4 Landing gear,C,Arifah,,Completed,,,1,1,TRUE
+699,699,2026-03-04,MALANG,,,,,Grade 11,TH,4B.3.5 Ice and rain prot.,A,,,Completed,,,,1,
+700,700,2026-05-26,MALANG,,,,,Grade 11,TH,4B.3.5 Ice and rain prot.,C,Arifah,,Completed,,,1,1,TRUE
+701,701,2026-03-11,MALANG,,,,,Grade 11,TH,4B.3.6 Oxygen,A,,,Completed,,,,1,
+702,702,2026-03-12,MALANG,,,,,Grade 11,TH,4B.3.7 Air cond.,A,,,Completed,,,,1,
+703,703,2026-05-26,MALANG,,,,,Grade 11,TH,4B.3.7 Air cond.,C,Arifah,,Completed,,,1,1,TRUE
+704,704,2026-03-12,MALANG,,,,,Grade 11,TH,4B.3.8 Cabin press.,A,,,Completed,,,,1,
+705,705,2026-02-23,MALANG,,,,,Grade 11,TH,5B.1.1 AC-DC circuit,A,,,Completed,,,,2,
+706,706,2026-04-28,MALANG,,,,,Grade 11,TH,5B.1.1 AC-DC circuit,B,,,Completed,,,,2,
+707,707,2026-05-04,MALANG,,,,,Grade 11,TH,5B.1.1 AC-DC circuit,C,Tasya,,Completed,,,1,2,TRUE
+708,708,2026-02-24,MALANG,,,,,Grade 11,TH,5B.1.2 Semiconductors,A,,,Completed,,,,1,
+709,709,2026-05-19,MALANG,,,,,Grade 11,TH,5B.1.2 Semiconductors,C,Tasya,,Completed,,,1,1,TRUE
+710,710,2026-03-10,MALANG,,,,,Grade 11,TH,5B.1.2 Semiconductors,C,Faiz,,Completed,,,1,1,TRUE
+711,711,2026-02-25,MALANG,,,,,Grade 11,TH,5B.1.3 Servomechanisms,A,,,Completed,,,,1,
+712,712,2026-08-04,MALANG,,,,,Grade 11,TH,5B.1.3 Servomechanisms,C,Tasya,,Completed,,,1,1,TRUE
+713,713,2026-03-09,MALANG,,,,,Grade 11,TH,5B.1.3 Servomechanisms,C,Faiz,,Completed,,,1,1,TRUE
+714,714,2026-03-02,MALANG,,,,,Grade 11,TH,5B.2.1 Nav. Sys.,A,,,Completed,,,,3,
+715,715,2026-04-30,MALANG,,,,,Grade 11,TH,5B.2.1 Nav. Sys.,B,,,Completed,,,,3,
+716,716,2026-04-28,MALANG,,,,,Grade 11,TH,5B.2.1 Nav. Sys.,C,Tasya,,Completed,,,1,3,TRUE
+717,717,2026-04-16,MALANG,,,,,Grade 11,TH,5B.2.1 Nav. Sys.,C,Faiz,,Completed,,,1,3,TRUE
+718,718,2026-03-03,MALANG,,,,,Grade 11,TH,5B.3.1 Radio comm.,A,,,Completed,,,,2,
+719,719,2026-08-07,MALANG,,,,,Grade 11,TH,5B.3.1 Radio comm.,C,Tasya,,Completed,,,1,2,TRUE
+720,720,2026-07-31,MALANG,,,,,Grade 11,TH,5B.3.1 Radio comm.,C,Faiz,,Completed,,,1,2,TRUE
+721,721,2026-03-04,MALANG,,,,,Grade 11,TH,5B.3.2 Radio Nav.,A,,,Completed,,,,2,
+722,722,2026-07-31,MALANG,,,,,Grade 11,TH,5B.3.2 Radio Nav.,C,Tasya,,Completed,,,1,2,TRUE
+723,723,2026-08-05,MALANG,,,,,Grade 11,TH,5B.3.2 Radio Nav.,C,Faiz,,Completed,,,1,2,TRUE
+724,724,2026-03-05,MALANG,,,,,Grade 11,TH,5B.3.3 Detection,A,,,Completed,,,,2,
+725,725,2026-08-13,MALANG,,,,,Grade 11,TH,5B.3.3 Detection,C,Tasya,,Completed,,,1,2,TRUE
+726,726,2026-08-06,MALANG,,,,,Grade 11,TH,5B.3.3 Detection,C,Faiz,,Completed,,,1,2,TRUE
+727,727,2026-04-15,MALANG,,,,,Grade 11,TH,10A.1.1,B,,,Completed,,,,,
+728,728,2026-05-12,MALANG,,,,,Grade 11,TH,10A.1.1,C,Devi,,Completed,,,1,,TRUE
+729,729,2026-05-13,MALANG,,,,,Grade 11,TH,10A.1.1,C,Ainur,,Completed,,,1,,TRUE
+730,730,2026-05-21,MALANG,,,,,Grade 11,TH,10A.1.2,A,,,Completed,,,,,
+731,731,2026-04-15,MALANG,,,,,Grade 11,TH,10A.1.2,B,,,Completed,,,,,
+732,732,2026-05-26,MALANG,,,,,Grade 11,TH,10A.1.2,C,Devi,,Completed,,,1,,TRUE
+733,733,2026-05-25,MALANG,,,,,Grade 11,TH,10A.1.2,C,Ainur,,Completed,,,1,,TRUE
+734,734,2026-04-14,MALANG,,,,,Grade 11,TH,10A.1.3,A,,,Completed,,,,,
+735,735,2026-04-16,MALANG,,,,,Grade 11,TH,10A.1.3,B,,,Completed,,,,,
+736,736,2026-05-26,MALANG,,,,,Grade 11,TH,10A.1.3,C,Devi,,Completed,,,1,,TRUE
+737,737,2026-05-25,MALANG,,,,,Grade 11,TH,10A.1.3,C,Ainur,,Completed,,,1,,TRUE
+738,738,2026-03-09,MALANG,,,,,Grade 11,TH,11A.1.1 Prevent and secure,A,,,Completed,,,,6,
+739,739,2026-05-06,MALANG,,,,,Grade 11,TH,11A.1.1 Prevent and secure,C,Devi,,Completed,,,1,6,TRUE
+740,740,2026-05-05,MALANG,,,,,Grade 11,TH,11A.1.1 Prevent and secure,C,Ainur,,Completed,,,1,6,TRUE
+741,741,2026-04-16,MALANG,,,,,Grade 11,TH,11A.2.1 Enhance human,A,,,Completed,,,,2,
+742,742,2026-04-21,MALANG,,,,,Grade 11,TH,11A.2.1 Enhance human,B,,,Completed,,,,2,
+743,743,2026-03-03,MALANG,,,,,Grade 11,TH,7B.1.1 Def aero carreers,A,,,Completed,,,,3,
+744,744,2026-04-28,MALANG,,,,,Grade 11,TH,7B.1.1 Def aero carreers,B,,,Completed,,,,3,
+745,745,2026-08-12,MALANG,,,,,Grade 11,TH,7B.1.1 Def aero carreers,C,Devi,,Completed,,,1,3,TRUE
+746,746,2026-03-10,MALANG,,,,,Grade 11,TH,7B.1.2 Aeronautic trainning,A,,,Completed,,,,3,
+747,747,2026-04-29,MALANG,,,,,Grade 11,TH,7B.1.2 Aeronautic trainning,B,,,Completed,,,,3,
+748,748,2026-08-14,MALANG,,,,,Grade 11,TH,7B.1.2 Aeronautic trainning,C,Devi,,Completed,,,1,3,TRUE
+749,749,2026-08-20,MALANG,,,,,Grade 11,TH,7B.1.2 Aeronautic trainning,C,Ainur,,Completed,,,1,3,TRUE
+750,750,2026-03-11,MALANG,,,,,Grade 11,TH,7B.1.3 Skills and comp.,A,,,Completed,,,,3,
+751,751,2026-05-11,MALANG,,,,,Grade 11,TH,7B.1.3 Skills and comp.,B,,,Completed,,,,3,
+752,752,2026-03-13,MALANG,,,,,Grade 11,TH,7B.1.4 Concerns in aviation,A,,,Completed,,,,3,
+753,753,2026-05-12,MALANG,,,,,Grade 11,TH,7B.1.4 Concerns in aviation,B,,,Completed,,,,3,
+754,754,2026-04-30,MALANG,,,,,Grade 11,PW,3B.1.1 Basic of design,A,,,Completed,,,,5,
+755,755,2026-04-30,MALANG,,,,,Grade 11,PW,3B.1.2 Design eng.,A,,,Completed,,,,1,
+756,756,2026-05-18,MALANG,,,,,Grade 11,PW,3B.1.2 Design eng.,B,,,Completed,,,,1,
+757,757,2026-05-10,MALANG,,,,,Grade 11,PW,3B.2.1 Meteorological,A,,,Completed,,,,2,
+758,758,2026-05-24,MALANG,,,,,Grade 11,PW,3B.2.1 Meteorological,B,,,Completed,,,,2,
+759,759,2026-05-18,MALANG,,,,,Grade 11,PW,3B.2.2 Aerodynamic,A,,,Completed,,,,2,
+760,760,2026-05-26,MALANG,,,,,Grade 11,PW,3B.2.2 Aerodynamic,B,,,Completed,,,,2,
+761,761,2026-05-13,MALANG,,,,,Grade 11,PW,3B.3.1 Technique in 3D,A,,,Completed,,,,1,
+762,762,2026-05-10,MALANG,,,,,Grade 11,PW,3B.3.1 Technique in 3D,B,,,Completed,,,,1,
+763,763,2026-05-05,MALANG,,,,,Grade 11,PW,4B.3.2 Fuel system,A,,,Completed,,,,1,

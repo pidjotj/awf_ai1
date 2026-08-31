@@ -1,0 +1,1358 @@
+﻿Title,LegacyId,Campus,Course,Grade,Iat,Step,Attempt,Status,Date,SlotId
+1,1,CIMAHI,1.1.1 History,Grade 10,Diki,A,1,Present,2025-08-25,11
+2,2,CIMAHI,1.1.1 History,Grade 10,Diki,B,1,Present,2025-10-24,12
+3,3,CIMAHI,1.1.1 History,Grade 10,Diki,C,1,Present,2025-11-25,14
+4,4,CIMAHI,1.1.1 History,Grade 10,Diki,D,1,Absent,2026-07-28,13
+5,5,CIMAHI,1.1.1 History,Grade 10,Ghata,A,1,Present,2025-08-25,11
+6,6,CIMAHI,1.1.1 History,Grade 10,Ghata,B,1,Present,2025-10-24,12
+7,7,CIMAHI,1.1.1 History,Grade 10,Ghata,C,1,Present,2025-09-18,15
+8,8,CIMAHI,1.1.1 History,Grade 10,Ghata,D,1,Present,2026-07-28,13
+9,9,CIMAHI,10A.1.1,Grade 11,Ghata,A,1,Present,2026-04-07,351
+10,10,CIMAHI,10A.1.1,Grade 11,Ghata,B,1,Present,2026-04-23,352
+11,11,CIMAHI,10A.1.1,Grade 11,Ghata,C,1,Present,2026-04-20,353
+12,12,CIMAHI,10A.1.1,Grade 11,Kartika,A,1,Present,2026-04-07,351
+13,13,CIMAHI,10A.1.1,Grade 11,Kartika,B,1,Present,2026-04-23,352
+14,14,CIMAHI,10A.1.1,Grade 11,Kartika,C,1,Present,2026-05-12,354
+15,15,CIMAHI,10A.1.2,Grade 11,Ghata,A,1,Present,2026-04-07,355
+16,16,CIMAHI,10A.1.2,Grade 11,Ghata,B,1,Present,2026-04-28,356
+17,17,CIMAHI,10A.1.2,Grade 11,Ghata,C,1,Present,2026-04-22,357
+18,18,CIMAHI,10A.1.2,Grade 11,Kartika,A,1,Present,2026-04-07,355
+19,19,CIMAHI,10A.1.2,Grade 11,Kartika,B,1,Present,2026-04-28,356
+20,20,CIMAHI,10A.1.2,Grade 11,Kartika,C,1,Present,2026-05-13,358
+21,21,CIMAHI,10A.1.3,Grade 11,Ghata,A,1,Present,2026-04-07,359
+22,22,CIMAHI,10A.1.3,Grade 11,Ghata,B,1,Present,2026-04-28,360
+23,23,CIMAHI,10A.1.3,Grade 11,Ghata,C,1,Present,2026-04-22,361
+24,24,CIMAHI,10A.1.3,Grade 11,Kartika,A,1,Present,2026-04-07,359
+25,25,CIMAHI,10A.1.3,Grade 11,Kartika,B,1,Present,2026-04-28,360
+26,26,CIMAHI,10A.1.3,Grade 11,Kartika,C,1,Present,2026-05-13,362
+27,27,CIMAHI,10B.1.1 Essential principles of Armament,Grade 12,Ghata,A,1,Present,2026-08-18,414
+28,28,CIMAHI,10B.1.1 Essential principles of Armament,Grade 12,Kartika,A,1,Present,2026-08-18,414
+29,29,CIMAHI,10B.1.2 Weapon systems,Grade 12,Ghata,A,1,Present,2026-08-19,415
+30,30,CIMAHI,10B.1.2 Weapon systems,Grade 12,Kartika,A,1,Present,2026-08-19,415
+31,31,CIMAHI,"10B.1.3 Crew Safety, Ejection seat",Grade 12,Ghata,A,1,Present,2026-08-19,416
+32,32,CIMAHI,"10B.1.3 Crew Safety, Ejection seat",Grade 12,Kartika,A,1,Present,2026-08-19,416
+33,33,CIMAHI,"10B.1.4 Ammunition Specific safety (storage, assembling, transports, destruction)",Grade 12,Ghata,A,1,Present,2026-08-19,417
+34,34,CIMAHI,"10B.1.4 Ammunition Specific safety (storage, assembling, transports, destruction)",Grade 12,Kartika,A,1,Present,2026-08-19,417
+35,35,CIMAHI,10B.1.5 Attack System Management,Grade 12,Ghata,A,1,Present,2026-08-19,418
+36,36,CIMAHI,10B.1.5 Attack System Management,Grade 12,Kartika,A,1,Present,2026-08-19,418
+37,37,CIMAHI,10B.1.6 Surveillance and electronic warfare,Grade 12,Ghata,A,1,Present,2026-08-20,419
+38,38,CIMAHI,10B.1.6 Surveillance and electronic warfare,Grade 12,Kartika,A,1,Present,2026-08-20,419
+39,39,CIMAHI,11A.1.1 Prevent and secure,Grade 11,Ghata,A,1,Present,2026-04-08,363
+40,40,CIMAHI,11A.1.1 Prevent and secure,Grade 11,Ghata,B,1,Present,2026-05-04,364
+41,41,CIMAHI,11A.1.1 Prevent and secure,Grade 11,Ghata,C,1,Present,2026-05-12,365
+42,42,CIMAHI,11A.1.1 Prevent and secure,Grade 11,Kartika,A,1,Present,2026-04-08,363
+43,43,CIMAHI,11A.1.1 Prevent and secure,Grade 11,Kartika,B,1,Present,2026-05-04,364
+44,44,CIMAHI,11A.1.1 Prevent and secure,Grade 11,Kartika,C,1,Present,2026-06-02,366
+45,45,CIMAHI,11A.2.1 Enhance human,Grade 11,Ghata,A,1,Present,2026-04-09,367
+46,46,CIMAHI,11A.2.1 Enhance human,Grade 11,Ghata,B,1,Present,2026-04-29,368
+47,47,CIMAHI,11A.2.1 Enhance human,Grade 11,Ghata,C,1,Present,2026-06-11,369
+48,48,CIMAHI,11A.2.1 Enhance human,Grade 11,Kartika,A,1,Present,2026-04-09,367
+49,49,CIMAHI,11A.2.1 Enhance human,Grade 11,Kartika,B,1,Present,2026-04-29,368
+50,50,CIMAHI,11A.2.1 Enhance human,Grade 11,Kartika,C,1,Present,2026-06-10,370
+51,51,CIMAHI,2.1.1 Atmosphere,Grade 10,Ayu,A,1,Present,2025-09-02,16
+52,52,CIMAHI,2.1.1 Atmosphere,Grade 10,Ayu,B,1,Present,2026-02-11,17
+53,53,CIMAHI,2.1.1 Atmosphere,Grade 10,Ayu,C,1,Present,2025-10-06,19
+54,54,CIMAHI,2.1.1 Atmosphere,Grade 10,Rahmat,A,1,Present,2025-09-02,16
+55,55,CIMAHI,2.1.1 Atmosphere,Grade 10,Rahmat,B,1,Present,2026-02-11,17
+56,56,CIMAHI,2.1.1 Atmosphere,Grade 10,Rahmat,C,1,Present,2025-10-22,18
+57,57,CIMAHI,2.1.2 Heat tsfr,Grade 10,Ayu,A,1,Present,2025-09-04,20
+58,58,CIMAHI,2.1.2 Heat tsfr,Grade 10,Ayu,B,1,Present,2026-02-12,21
+59,59,CIMAHI,2.1.2 Heat tsfr,Grade 10,Ayu,C,1,Present,2025-09-22,23
+60,60,CIMAHI,2.1.2 Heat tsfr,Grade 10,Rahmat,A,1,Present,2025-09-04,20
+61,61,CIMAHI,2.1.2 Heat tsfr,Grade 10,Rahmat,B,1,Present,2026-02-12,21
+62,62,CIMAHI,2.1.2 Heat tsfr,Grade 10,Rahmat,C,1,Present,2025-11-03,22
+63,63,CIMAHI,2.1.3 Air mass,Grade 10,Ayu,A,1,Present,2025-09-04,24
+64,64,CIMAHI,2.1.3 Air mass,Grade 10,Ayu,B,1,Present,2026-01-27,25
+65,65,CIMAHI,2.1.3 Air mass,Grade 10,Ayu,C,1,Present,2025-10-07,27
+66,66,CIMAHI,2.1.3 Air mass,Grade 10,Rahmat,A,1,Present,2025-09-04,24
+67,67,CIMAHI,2.1.3 Air mass,Grade 10,Rahmat,B,1,Present,2026-01-27,25
+68,68,CIMAHI,2.1.3 Air mass,Grade 10,Rahmat,C,1,Present,2025-11-03,26
+69,69,CIMAHI,2.1.4 Clouds,Grade 10,Ayu,A,1,Present,2025-09-04,28
+70,70,CIMAHI,2.1.4 Clouds,Grade 10,Ayu,A,1,Present,2026-04-07,213
+71,71,CIMAHI,2.1.4 Clouds,Grade 10,Ayu,B,1,Present,2026-01-12,29
+72,72,CIMAHI,2.1.4 Clouds,Grade 10,Ayu,B,1,Present,2026-04-16,214
+73,73,CIMAHI,2.1.4 Clouds,Grade 10,Ayu,C,1,Present,2025-10-09,31
+74,74,CIMAHI,2.1.4 Clouds,Grade 10,Ayu,C,1,Present,2026-04-20,216
+75,75,CIMAHI,2.1.4 Clouds,Grade 10,Rahmat,A,1,Present,2025-09-04,28
+76,76,CIMAHI,2.1.4 Clouds,Grade 10,Rahmat,A,1,Present,2026-04-07,213
+77,77,CIMAHI,2.1.4 Clouds,Grade 10,Rahmat,B,1,Present,2026-01-12,29
+78,78,CIMAHI,2.1.4 Clouds,Grade 10,Rahmat,B,1,Present,2026-04-16,214
+79,79,CIMAHI,2.1.4 Clouds,Grade 10,Rahmat,C,1,Present,2025-11-04,30
+80,80,CIMAHI,2.1.4 Clouds,Grade 10,Rahmat,C,1,Present,2026-04-20,215
+81,81,CIMAHI,2.1.5 Winds,Grade 10,Ayu,A,1,Present,2025-09-08,32
+82,82,CIMAHI,2.1.5 Winds,Grade 10,Ayu,A,1,Present,2026-04-07,217
+83,83,CIMAHI,2.1.5 Winds,Grade 10,Ayu,B,1,Present,2026-01-13,33
+84,84,CIMAHI,2.1.5 Winds,Grade 10,Ayu,B,1,Present,2026-04-16,218
+85,85,CIMAHI,2.1.5 Winds,Grade 10,Ayu,C,1,Present,2025-10-14,35
+86,86,CIMAHI,2.1.5 Winds,Grade 10,Ayu,C,1,Present,2026-04-20,220
+87,87,CIMAHI,2.1.5 Winds,Grade 10,Rahmat,A,1,Present,2025-09-08,32
+88,88,CIMAHI,2.1.5 Winds,Grade 10,Rahmat,A,1,Present,2026-04-07,217
+89,89,CIMAHI,2.1.5 Winds,Grade 10,Rahmat,B,1,Present,2026-01-13,33
+90,90,CIMAHI,2.1.5 Winds,Grade 10,Rahmat,B,1,Present,2026-04-16,218
+91,91,CIMAHI,2.1.5 Winds,Grade 10,Rahmat,C,1,Present,2025-11-04,34
+92,92,CIMAHI,2.1.5 Winds,Grade 10,Rahmat,C,1,Present,2026-04-20,219
+93,93,CIMAHI,2.1.6 Dangerous,Grade 10,Ayu,A,1,Present,2025-09-08,36
+94,94,CIMAHI,2.1.6 Dangerous,Grade 10,Ayu,B,1,Present,2026-01-27,37
+95,95,CIMAHI,2.1.6 Dangerous,Grade 10,Ayu,C,1,Present,2025-10-27,39
+96,96,CIMAHI,2.1.6 Dangerous,Grade 10,Rahmat,A,1,Present,2025-09-08,36
+97,97,CIMAHI,2.1.6 Dangerous,Grade 10,Rahmat,B,1,Present,2026-01-27,37
+98,98,CIMAHI,2.1.6 Dangerous,Grade 10,Rahmat,C,1,Present,2025-11-05,38
+99,99,CIMAHI,2.2.1 Aerostatics,Grade 10,Ayu,A,1,Present,2025-09-09,40
+100,100,CIMAHI,2.2.1 Aerostatics,Grade 10,Ayu,B,1,Present,2026-01-12,41
+101,101,CIMAHI,2.2.1 Aerostatics,Grade 10,Ayu,C,1,Present,2025-10-15,43
+102,102,CIMAHI,2.2.1 Aerostatics,Grade 10,Rahmat,A,1,Present,2025-09-09,40
+103,103,CIMAHI,2.2.1 Aerostatics,Grade 10,Rahmat,B,1,Present,2026-01-12,41
+104,104,CIMAHI,2.2.1 Aerostatics,Grade 10,Rahmat,C,1,Present,2025-11-05,42
+105,105,CIMAHI,2.3.1 Intro,Grade 10,Ayu,A,1,Present,2025-09-09,44
+106,106,CIMAHI,2.3.1 Intro,Grade 10,Ayu,B,1,Present,2026-01-13,45
+107,107,CIMAHI,2.3.1 Intro,Grade 10,Ayu,C,1,Present,2025-10-16,47
+108,108,CIMAHI,2.3.1 Intro,Grade 10,Rahmat,A,1,Present,2025-09-09,44
+109,109,CIMAHI,2.3.1 Intro,Grade 10,Rahmat,B,1,Present,2026-01-13,45
+110,110,CIMAHI,2.3.1 Intro,Grade 10,Rahmat,C,1,Present,2025-11-06,46
+111,111,CIMAHI,2.3.2 Flow airfoil,Grade 10,Ayu,A,1,Present,2025-09-10,48
+112,112,CIMAHI,2.3.2 Flow airfoil,Grade 10,Ayu,B,1,Present,2026-02-12,49
+113,113,CIMAHI,2.3.2 Flow airfoil,Grade 10,Ayu,C,1,Present,2025-10-22,51
+114,114,CIMAHI,2.3.2 Flow airfoil,Grade 10,Rahmat,A,1,Present,2025-09-10,48
+115,115,CIMAHI,2.3.2 Flow airfoil,Grade 10,Rahmat,B,1,Present,2026-02-12,49
+116,116,CIMAHI,2.3.2 Flow airfoil,Grade 10,Rahmat,C,1,Present,2025-11-06,50
+117,117,CIMAHI,2.3.3 Boundary layer,Grade 10,Ayu,A,1,Present,2025-09-10,52
+118,118,CIMAHI,2.3.3 Boundary layer,Grade 10,Ayu,B,1,Present,2026-02-18,53
+119,119,CIMAHI,2.3.3 Boundary layer,Grade 10,Ayu,C,1,Present,2025-10-22,55
+120,120,CIMAHI,2.3.3 Boundary layer,Grade 10,Rahmat,A,1,Present,2025-09-10,52
+121,121,CIMAHI,2.3.3 Boundary layer,Grade 10,Rahmat,B,1,Present,2026-02-18,53
+122,122,CIMAHI,2.3.3 Boundary layer,Grade 10,Rahmat,C,1,Present,2025-11-10,54
+123,123,CIMAHI,2.3.4 Profile,Grade 10,Ayu,A,1,Present,2025-09-11,56
+124,124,CIMAHI,2.3.4 Profile,Grade 10,Ayu,B,1,Present,2026-02-18,57
+125,125,CIMAHI,2.3.4 Profile,Grade 10,Ayu,C,1,Present,2025-10-23,59
+126,126,CIMAHI,2.3.4 Profile,Grade 10,Rahmat,A,1,Present,2025-09-11,56
+127,127,CIMAHI,2.3.4 Profile,Grade 10,Rahmat,B,1,Present,2026-02-18,57
+128,128,CIMAHI,2.3.4 Profile,Grade 10,Rahmat,C,1,Present,2025-11-12,58
+129,129,CIMAHI,2.4.1 Theory of lfight,Grade 10,Ayu,A,1,Present,2025-09-15,60
+130,130,CIMAHI,2.4.1 Theory of lfight,Grade 10,Ayu,B,1,Present,2025-11-14,61
+131,131,CIMAHI,2.4.1 Theory of lfight,Grade 10,Ayu,C,1,Present,2025-10-29,64
+132,132,CIMAHI,2.4.1 Theory of lfight,Grade 10,Ayu,D,1,Present,2026-08-19,62
+133,133,CIMAHI,2.4.1 Theory of lfight,Grade 10,Rahmat,A,1,Present,2025-09-15,60
+134,134,CIMAHI,2.4.1 Theory of lfight,Grade 10,Rahmat,B,1,Present,2025-11-14,61
+135,135,CIMAHI,2.4.1 Theory of lfight,Grade 10,Rahmat,C,1,Present,2025-11-12,63
+136,136,CIMAHI,2.4.1 Theory of lfight,Grade 10,Rahmat,D,1,Present,2026-08-19,62
+137,137,CIMAHI,2.5.1 A/C diversity,Grade 10,Ayu,A,1,Present,2025-09-15,65
+138,138,CIMAHI,2.5.1 A/C diversity,Grade 10,Ayu,B,1,Present,2026-01-15,66
+139,139,CIMAHI,2.5.1 A/C diversity,Grade 10,Ayu,C,1,Present,2025-11-03,68
+140,140,CIMAHI,2.5.1 A/C diversity,Grade 10,Rahmat,A,1,Present,2025-09-15,65
+141,141,CIMAHI,2.5.1 A/C diversity,Grade 10,Rahmat,B,1,Present,2026-01-15,66
+142,142,CIMAHI,2.5.1 A/C diversity,Grade 10,Rahmat,C,1,Present,2025-11-13,67
+143,143,CIMAHI,3A.1.1 History design,Grade 10,Gita,A,1,Present,2025-09-10,69
+144,144,CIMAHI,3A.1.1 History design,Grade 10,Gita,B,1,Present,2025-11-21,70
+145,145,CIMAHI,3A.1.1 History design,Grade 10,Gita,C,1,Present,2025-09-23,72
+146,146,CIMAHI,3A.1.1 History design,Grade 10,Rizky,A,1,Present,2025-09-10,69
+147,147,CIMAHI,3A.1.1 History design,Grade 10,Rizky,B,1,Present,2025-11-21,70
+148,148,CIMAHI,3A.1.1 History design,Grade 10,Rizky,C,1,Present,2025-10-14,71
+149,149,CIMAHI,3A.2.1 Design,Grade 10,Gita,A,1,Present,2025-09-11,73
+150,150,CIMAHI,3A.2.1 Design,Grade 10,Gita,B,1,Present,2026-02-02,74
+151,151,CIMAHI,3A.2.1 Design,Grade 10,Gita,C,1,Present,2025-10-14,76
+152,152,CIMAHI,3A.2.1 Design,Grade 10,Rizky,A,1,Present,2025-09-11,73
+153,153,CIMAHI,3A.2.1 Design,Grade 10,Rizky,B,1,Present,2026-02-02,74
+154,154,CIMAHI,3A.2.1 Design,Grade 10,Rizky,C,1,Present,2025-11-25,75
+155,155,CIMAHI,3A.3.1,Grade 10,Gita,A,1,Present,2026-01-13,221
+156,156,CIMAHI,3A.3.1,Grade 10,Gita,B,1,Present,2026-03-04,222
+157,157,CIMAHI,3A.3.1,Grade 10,Gita,C,1,Present,2026-05-04,224
+158,158,CIMAHI,3A.3.1,Grade 10,Rizky,A,1,Present,2026-01-13,221
+159,159,CIMAHI,3A.3.1,Grade 10,Rizky,B,1,Present,2026-03-04,222
+160,160,CIMAHI,3A.3.1,Grade 10,Rizky,C,1,Present,2026-04-28,223
+161,161,CIMAHI,3A.3.2,Grade 10,Gita,A,1,Present,2026-01-19,225
+162,162,CIMAHI,3A.3.2,Grade 10,Gita,B,1,Present,2026-04-07,226
+163,163,CIMAHI,3A.3.2,Grade 10,Gita,C,1,Present,2026-05-04,228
+164,164,CIMAHI,3A.3.2,Grade 10,Rizky,A,1,Present,2026-01-19,225
+165,165,CIMAHI,3A.3.2,Grade 10,Rizky,B,1,Present,2026-04-07,226
+166,166,CIMAHI,3A.3.2,Grade 10,Rizky,C,1,Present,2026-04-28,227
+167,167,CIMAHI,3B.1.1 Basic of design,Grade 11,Gita,A,1,Present,2026-02-24,271
+168,168,CIMAHI,3B.1.1 Basic of design,Grade 11,Gita,A,1,Present,2026-02-26,383
+169,169,CIMAHI,3B.1.1 Basic of design,Grade 11,Gita,B,1,Present,2026-05-11,272
+170,170,CIMAHI,3B.1.1 Basic of design,Grade 11,Gita,B,1,Present,2026-05-07,384
+171,171,CIMAHI,3B.1.1 Basic of design,Grade 11,Gita,C,1,Present,2026-07-28,273
+172,172,CIMAHI,3B.1.1 Basic of design,Grade 11,Gita,C,1,Present,2026-05-04,386
+173,173,CIMAHI,3B.1.1 Basic of design,Grade 11,Rizky,A,1,Present,2026-02-24,271
+174,174,CIMAHI,3B.1.1 Basic of design,Grade 11,Rizky,A,1,Present,2026-02-26,383
+175,175,CIMAHI,3B.1.1 Basic of design,Grade 11,Rizky,B,1,Present,2026-05-11,272
+176,176,CIMAHI,3B.1.1 Basic of design,Grade 11,Rizky,B,1,Present,2026-05-07,384
+177,177,CIMAHI,3B.1.1 Basic of design,Grade 11,Rizky,C,1,Present,,
+178,178,CIMAHI,3B.1.1 Basic of design,Grade 11,Rizky,C,1,Present,2026-06-04,385
+179,179,CIMAHI,3B.1.2 Design eng.,Grade 11,Gita,A,1,Present,2026-02-24,274
+180,180,CIMAHI,3B.1.2 Design eng.,Grade 11,Gita,A,1,Present,2026-03-02,387
+181,181,CIMAHI,3B.1.2 Design eng.,Grade 11,Gita,B,1,Present,2026-05-11,275
+182,182,CIMAHI,3B.1.2 Design eng.,Grade 11,Gita,B,1,Present,2026-05-12,388
+183,183,CIMAHI,3B.1.2 Design eng.,Grade 11,Gita,C,1,Present,2026-07-28,276
+184,184,CIMAHI,3B.1.2 Design eng.,Grade 11,Gita,C,1,Present,2026-05-19,390
+185,185,CIMAHI,3B.1.2 Design eng.,Grade 11,Rizky,A,1,Present,2026-02-24,274
+186,186,CIMAHI,3B.1.2 Design eng.,Grade 11,Rizky,A,1,Present,2026-03-02,387
+187,187,CIMAHI,3B.1.2 Design eng.,Grade 11,Rizky,B,1,Present,2026-05-11,275
+188,188,CIMAHI,3B.1.2 Design eng.,Grade 11,Rizky,B,1,Present,2026-05-12,388
+189,189,CIMAHI,3B.1.2 Design eng.,Grade 11,Rizky,C,1,Present,,
+190,190,CIMAHI,3B.1.2 Design eng.,Grade 11,Rizky,C,1,Present,2026-06-04,389
+191,191,CIMAHI,3B.2.1 Meteorological,Grade 11,Gita,A,1,Present,2026-03-12,277
+192,192,CIMAHI,3B.2.1 Meteorological,Grade 11,Gita,A,1,Present,2026-03-11,391
+193,193,CIMAHI,3B.2.1 Meteorological,Grade 11,Gita,B,1,Present,2026-05-18,392
+194,194,CIMAHI,3B.2.1 Meteorological,Grade 11,Gita,C,1,Present,2026-07-29,278
+195,195,CIMAHI,3B.2.1 Meteorological,Grade 11,Gita,C,1,Present,2026-05-25,393
+196,196,CIMAHI,3B.2.1 Meteorological,Grade 11,Rizky,A,1,Present,2026-03-12,277
+197,197,CIMAHI,3B.2.1 Meteorological,Grade 11,Rizky,A,1,Present,2026-03-11,391
+198,198,CIMAHI,3B.2.1 Meteorological,Grade 11,Rizky,B,1,Present,2026-05-18,392
+199,199,CIMAHI,3B.2.1 Meteorological,Grade 11,Rizky,C,1,Present,,
+200,200,CIMAHI,3B.2.2 Aerodynamic,Grade 11,Gita,A,1,Present,2026-04-08,279
+201,201,CIMAHI,3B.2.2 Aerodynamic,Grade 11,Gita,A,1,Present,2026-04-08,279
+202,202,CIMAHI,3B.2.2 Aerodynamic,Grade 11,Gita,B,1,Present,2026-05-19,394
+203,203,CIMAHI,3B.2.2 Aerodynamic,Grade 11,Gita,C,1,Present,2026-07-29,280
+204,204,CIMAHI,3B.2.2 Aerodynamic,Grade 11,Gita,C,1,Present,2026-05-25,395
+205,205,CIMAHI,3B.2.2 Aerodynamic,Grade 11,Rizky,A,1,Present,2026-04-08,279
+206,206,CIMAHI,3B.2.2 Aerodynamic,Grade 11,Rizky,A,1,Present,2026-04-08,279
+207,207,CIMAHI,3B.2.2 Aerodynamic,Grade 11,Rizky,B,1,Present,2026-05-19,394
+208,208,CIMAHI,3B.2.2 Aerodynamic,Grade 11,Rizky,C,1,Present,,
+209,209,CIMAHI,3B.2.3 Regulation,Grade 11,Gita,A,1,Present,2026-07-20,281
+210,210,CIMAHI,3B.2.3 Regulation,Grade 11,Gita,C,1,Present,2026-07-30,282
+211,211,CIMAHI,3B.2.3 Regulation,Grade 11,Rizky,A,1,Present,2026-07-20,281
+212,212,CIMAHI,3B.2.3 Regulation,Grade 11,Rizky,C,1,Present,,
+213,213,CIMAHI,3B.3.1 Technique in 3D,Grade 11,Gita,A,1,Present,2026-05-21,283
+214,214,CIMAHI,3B.3.1 Technique in 3D,Grade 11,Gita,A,1,Present,2026-04-09,396
+215,215,CIMAHI,3B.3.1 Technique in 3D,Grade 11,Gita,B,1,Present,2026-05-21,284
+216,216,CIMAHI,3B.3.1 Technique in 3D,Grade 11,Gita,B,1,Present,2026-05-21,284
+217,217,CIMAHI,3B.3.1 Technique in 3D,Grade 11,Gita,C,1,Present,2026-08-03,285
+218,218,CIMAHI,3B.3.1 Technique in 3D,Grade 11,Rizky,A,1,Present,2026-05-21,283
+219,219,CIMAHI,3B.3.1 Technique in 3D,Grade 11,Rizky,A,1,Present,2026-04-09,396
+220,220,CIMAHI,3B.3.1 Technique in 3D,Grade 11,Rizky,B,1,Present,2026-05-21,284
+221,221,CIMAHI,3B.3.1 Technique in 3D,Grade 11,Rizky,B,1,Present,2026-05-21,284
+222,222,CIMAHI,3B.3.1 Technique in 3D,Grade 11,Rizky,C,1,Present,,
+223,223,CIMAHI,3B.3.2 Basic project CAD,Grade 11,Gita,A,1,Present,2026-07-20,286
+224,224,CIMAHI,3B.3.2 Basic project CAD,Grade 11,Gita,C,1,Present,2026-08-04,287
+225,225,CIMAHI,3B.3.2 Basic project CAD,Grade 11,Rizky,A,1,Present,2026-07-20,286
+226,226,CIMAHI,3B.3.2 Basic project CAD,Grade 11,Rizky,C,1,Present,,
+227,227,CIMAHI,3C.1.1 Thermodynamics,Grade 12,Gita,A,1,Present,2026-08-10,402
+228,228,CIMAHI,3C.1.1 Thermodynamics,Grade 12,Rizky,A,1,Present,2026-08-10,402
+229,229,CIMAHI,3C.1.3 Regulations,Grade 12,Gita,A,1,Present,2026-08-19,403
+230,230,CIMAHI,3C.1.3 Regulations,Grade 12,Rizky,A,1,Present,2026-08-19,403
+231,231,CIMAHI,3C.2.1 Advanced techniques,Grade 12,Gita,A,1,Present,2026-08-20,404
+232,232,CIMAHI,3C.2.1 Advanced techniques,Grade 12,Rizky,A,1,Present,2026-08-20,404
+233,233,CIMAHI,4A.1.1 Types ENG,Grade 10,Ayu,A,1,Present,2025-08-19,77
+234,234,CIMAHI,4A.1.1 Types ENG,Grade 10,Ayu,B,1,Present,2025-11-11,78
+235,235,CIMAHI,4A.1.1 Types ENG,Grade 10,Ayu,C,1,Present,2025-10-30,81
+236,236,CIMAHI,4A.1.1 Types ENG,Grade 10,Ayu,D,1,Present,2026-08-18,79
+237,237,CIMAHI,4A.1.1 Types ENG,Grade 10,Rahmat,A,1,Present,2025-08-19,77
+238,238,CIMAHI,4A.1.1 Types ENG,Grade 10,Rahmat,B,1,Present,2025-11-11,78
+239,239,CIMAHI,4A.1.1 Types ENG,Grade 10,Rahmat,C,1,Present,2025-09-24,80
+240,240,CIMAHI,4A.1.1 Types ENG,Grade 10,Rahmat,D,1,Present,2026-08-18,79
+241,241,CIMAHI,4A.1.2 Act react,Grade 10,Ayu,A,1,Present,2025-08-20,82
+242,242,CIMAHI,4A.1.2 Act react,Grade 10,Ayu,B,1,Present,2026-02-19,83
+243,243,CIMAHI,4A.1.2 Act react,Grade 10,Ayu,C,1,Present,2025-11-04,85
+244,244,CIMAHI,4A.1.2 Act react,Grade 10,Rahmat,A,1,Present,2025-08-20,82
+245,245,CIMAHI,4A.1.2 Act react,Grade 10,Rahmat,B,1,Present,2026-02-19,83
+246,246,CIMAHI,4A.1.2 Act react,Grade 10,Rahmat,C,1,Present,2025-10-21,84
+247,247,CIMAHI,4A.1.3 Component,Grade 10,Ayu,A,1,Present,2025-08-20,86
+248,248,CIMAHI,4A.1.3 Component,Grade 10,Ayu,B,1,Present,2026-02-09,87
+249,249,CIMAHI,4A.1.3 Component,Grade 10,Ayu,C,1,Present,2025-11-04,89
+250,250,CIMAHI,4A.1.3 Component,Grade 10,Rahmat,A,1,Present,2025-08-20,86
+251,251,CIMAHI,4A.1.3 Component,Grade 10,Rahmat,B,1,Present,2026-02-09,87
+252,252,CIMAHI,4A.1.3 Component,Grade 10,Rahmat,C,1,Present,2025-10-21,88
+253,253,CIMAHI,4A.1.4 Power up,Grade 10,Ayu,A,1,Present,2025-08-21,90
+254,254,CIMAHI,4A.1.4 Power up,Grade 10,Ayu,B,1,Present,2026-02-05,91
+255,255,CIMAHI,4A.1.4 Power up,Grade 10,Ayu,C,1,Failed,2025-11-06,94
+256,256,CIMAHI,4A.1.4 Power up,Grade 10,Ayu,C,2,Present,2026-01-22,95
+257,257,CIMAHI,4A.1.4 Power up,Grade 10,Rahmat,A,1,Present,2025-08-21,90
+258,258,CIMAHI,4A.1.4 Power up,Grade 10,Rahmat,B,1,Present,2026-02-05,91
+259,259,CIMAHI,4A.1.4 Power up,Grade 10,Rahmat,C,1,Failed,2025-10-23,92
+260,260,CIMAHI,4A.1.4 Power up,Grade 10,Rahmat,C,2,Present,2026-02-02,93
+261,261,CIMAHI,4A.1.5 Lub and fuel,Grade 10,Ayu,A,1,Present,2025-08-21,96
+262,262,CIMAHI,4A.1.5 Lub and fuel,Grade 10,Ayu,B,1,Present,2026-02-05,97
+263,263,CIMAHI,4A.1.5 Lub and fuel,Grade 10,Ayu,C,1,Present,2025-11-06,99
+264,264,CIMAHI,4A.1.5 Lub and fuel,Grade 10,Rahmat,A,1,Present,2025-08-21,96
+265,265,CIMAHI,4A.1.5 Lub and fuel,Grade 10,Rahmat,B,1,Present,2026-02-05,97
+266,266,CIMAHI,4A.1.5 Lub and fuel,Grade 10,Rahmat,C,1,Present,2025-10-27,98
+267,267,CIMAHI,4A.1.6 Indicating,Grade 10,Ayu,A,1,Present,2025-08-25,100
+268,268,CIMAHI,4A.1.6 Indicating,Grade 10,Ayu,A,1,Present,2026-01-12,229
+269,269,CIMAHI,4A.1.6 Indicating,Grade 10,Ayu,B,1,Present,2026-02-09,101
+270,270,CIMAHI,4A.1.6 Indicating,Grade 10,Ayu,C,1,Present,2025-11-10,103
+271,271,CIMAHI,4A.1.6 Indicating,Grade 10,Ayu,C,1,Present,2026-06-02,233
+272,272,CIMAHI,4A.1.6 Indicating,Grade 10,Ghata,A,1,Present,2026-01-12,229
+273,273,CIMAHI,4A.1.6 Indicating,Grade 10,Ghata,C,1,Failed,2026-04-22,230
+274,274,CIMAHI,4A.1.6 Indicating,Grade 10,Ghata,C,2,Present,2026-06-04,231
+275,275,CIMAHI,4A.1.6 Indicating,Grade 10,Rahmat,A,1,Present,2025-08-25,100
+276,276,CIMAHI,4A.1.6 Indicating,Grade 10,Rahmat,A,1,Present,2026-01-12,229
+277,277,CIMAHI,4A.1.6 Indicating,Grade 10,Rahmat,B,1,Present,2026-02-09,101
+278,278,CIMAHI,4A.1.6 Indicating,Grade 10,Rahmat,C,1,Present,2025-10-27,102
+279,279,CIMAHI,4A.1.6 Indicating,Grade 10,Rahmat,C,1,Present,2026-06-02,232
+280,280,CIMAHI,4A.2.1 General,Grade 10,Ayu,A,1,Present,2025-08-25,104
+281,281,CIMAHI,4A.2.1 General,Grade 10,Ayu,B,1,Remedial,2026-01-26,105
+282,282,CIMAHI,4A.2.1 General,Grade 10,Ayu,C,1,Present,2025-11-10,107
+283,283,CIMAHI,4A.2.1 General,Grade 10,Rahmat,A,1,Present,2025-08-25,104
+284,284,CIMAHI,4A.2.1 General,Grade 10,Rahmat,B,1,Remedial,2026-01-26,105
+285,285,CIMAHI,4A.2.1 General,Grade 10,Rahmat,C,1,Present,2025-10-28,106
+286,286,CIMAHI,4A.2.2 Main,Grade 10,Ayu,A,1,Present,2025-08-26,108
+287,287,CIMAHI,4A.2.2 Main,Grade 10,Ayu,A,1,Present,2026-04-08,234
+288,288,CIMAHI,4A.2.2 Main,Grade 10,Ayu,B,1,Present,2026-01-26,109
+289,289,CIMAHI,4A.2.2 Main,Grade 10,Ayu,C,1,Present,2025-11-10,111
+290,290,CIMAHI,4A.2.2 Main,Grade 10,Ayu,C,1,Present,2026-04-29,236
+291,291,CIMAHI,4A.2.2 Main,Grade 10,Rahmat,A,1,Present,2025-08-26,108
+292,292,CIMAHI,4A.2.2 Main,Grade 10,Rahmat,A,1,Present,2026-04-08,234
+293,293,CIMAHI,4A.2.2 Main,Grade 10,Rahmat,B,1,Present,2026-01-26,109
+294,294,CIMAHI,4A.2.2 Main,Grade 10,Rahmat,C,1,Present,2025-10-28,110
+295,295,CIMAHI,4A.2.2 Main,Grade 10,Rahmat,C,1,Present,2026-05-07,235
+296,296,CIMAHI,4A.2.3 Method,Grade 10,Ayu,A,1,Present,2025-08-26,112
+297,297,CIMAHI,4A.2.3 Method,Grade 10,Ayu,B,1,Present,2026-02-19,113
+298,298,CIMAHI,4A.2.3 Method,Grade 10,Ayu,C,1,Present,2025-11-11,115
+299,299,CIMAHI,4A.2.3 Method,Grade 10,Rahmat,A,1,Present,2025-08-26,112
+300,300,CIMAHI,4A.2.3 Method,Grade 10,Rahmat,B,1,Present,2026-02-19,113
+301,301,CIMAHI,4A.2.3 Method,Grade 10,Rahmat,C,1,Present,2025-10-29,114
+302,302,CIMAHI,4A.3.1 Main,Grade 10,Ayu,A,1,Present,2025-08-27,116
+303,303,CIMAHI,4A.3.1 Main,Grade 10,Ayu,B,1,Present,2026-01-19,117
+304,304,CIMAHI,4A.3.1 Main,Grade 10,Ayu,C,1,Present,2025-11-12,119
+305,305,CIMAHI,4A.3.1 Main,Grade 10,Rahmat,A,1,Present,2025-08-27,116
+306,306,CIMAHI,4A.3.1 Main,Grade 10,Rahmat,B,1,Present,2026-01-19,117
+307,307,CIMAHI,4A.3.1 Main,Grade 10,Rahmat,C,1,Present,2025-10-29,118
+308,308,CIMAHI,4A.3.2 Corrosion,Grade 10,Ayu,A,1,Present,2025-08-27,120
+309,309,CIMAHI,4A.3.2 Corrosion,Grade 10,Ayu,B,1,Present,2026-01-19,121
+310,310,CIMAHI,4A.3.2 Corrosion,Grade 10,Ayu,C,1,Present,2025-11-12,123
+311,311,CIMAHI,4A.3.2 Corrosion,Grade 10,Rahmat,A,1,Present,2025-08-27,120
+312,312,CIMAHI,4A.3.2 Corrosion,Grade 10,Rahmat,B,1,Present,2026-01-19,121
+313,313,CIMAHI,4A.3.2 Corrosion,Grade 10,Rahmat,C,1,Present,2025-10-30,122
+314,314,CIMAHI,4A.3.3 Hardware,Grade 10,Ayu,A,1,Present,2025-08-28,124
+315,315,CIMAHI,4A.3.3 Hardware,Grade 10,Ayu,B,1,Present,2026-02-16,125
+316,316,CIMAHI,4A.3.3 Hardware,Grade 10,Ayu,C,1,Present,2025-11-13,127
+317,317,CIMAHI,4A.3.3 Hardware,Grade 10,Rahmat,A,1,Present,2025-08-28,124
+318,318,CIMAHI,4A.3.3 Hardware,Grade 10,Rahmat,B,1,Present,2026-02-16,125
+319,319,CIMAHI,4A.3.3 Hardware,Grade 10,Rahmat,C,1,Present,2025-10-30,126
+320,320,CIMAHI,4B.1.1 Composite material,Grade 11,Ayu,A,1,Present,2026-03-03,288
+321,321,CIMAHI,4B.1.1 Composite material,Grade 11,Ayu,B,1,Present,2026-04-22,289
+322,322,CIMAHI,4B.1.1 Composite material,Grade 11,Ayu,C,1,Present,2026-05-07,291
+323,323,CIMAHI,4B.1.1 Composite material,Grade 11,Rahmat,A,1,Present,2026-03-03,288
+324,324,CIMAHI,4B.1.1 Composite material,Grade 11,Rahmat,B,1,Present,2026-04-22,289
+325,325,CIMAHI,4B.1.1 Composite material,Grade 11,Rahmat,C,1,Present,2026-05-11,290
+326,326,CIMAHI,4B.1.2 Material selection,Grade 11,Ayu,A,1,Present,2026-03-02,292
+327,327,CIMAHI,4B.1.2 Material selection,Grade 11,Ayu,B,1,Present,2026-07-27,293
+328,328,CIMAHI,4B.1.2 Material selection,Grade 11,Ayu,C,1,Present,2026-07-22,295
+329,329,CIMAHI,4B.1.2 Material selection,Grade 11,Rahmat,A,1,Present,2026-03-02,292
+330,330,CIMAHI,4B.1.2 Material selection,Grade 11,Rahmat,B,1,Present,2026-07-27,293
+331,331,CIMAHI,4B.1.2 Material selection,Grade 11,Rahmat,C,1,Present,2026-07-28,294
+332,332,CIMAHI,4B.1.3 Ferrous and other,Grade 11,Ayu,A,1,Present,2026-03-02,296
+333,333,CIMAHI,4B.1.3 Ferrous and other,Grade 11,Ayu,B,1,Present,2026-07-27,297
+334,334,CIMAHI,4B.1.3 Ferrous and other,Grade 11,Ayu,C,1,Present,2026-07-22,299
+335,335,CIMAHI,4B.1.3 Ferrous and other,Grade 11,Rahmat,A,1,Present,2026-03-02,296
+336,336,CIMAHI,4B.1.3 Ferrous and other,Grade 11,Rahmat,B,1,Present,2026-07-27,297
+337,337,CIMAHI,4B.1.3 Ferrous and other,Grade 11,Rahmat,C,1,Present,2026-08-04,298
+338,338,CIMAHI,4B.2.1 Fateners,Grade 11,Ghata,A,1,Present,2026-03-09,300
+339,339,CIMAHI,4B.2.1 Fateners,Grade 11,Ghata,B,1,Present,2026-07-28,301
+340,340,CIMAHI,4B.2.1 Fateners,Grade 11,Ghata,C,1,Present,2026-08-03,302
+341,341,CIMAHI,4B.2.1 Fateners,Grade 11,Kartika,A,1,Present,2026-03-09,300
+342,342,CIMAHI,4B.2.1 Fateners,Grade 11,Kartika,B,1,Present,2026-07-28,301
+343,343,CIMAHI,4B.2.1 Fateners,Grade 11,Kartika,C,1,Present,2026-08-03,303
+344,344,CIMAHI,4B.2.2 Electrical Cables,Grade 11,Ghata,A,1,Present,2026-03-09,304
+345,345,CIMAHI,4B.2.2 Electrical Cables,Grade 11,Ghata,B,1,Present,2026-07-28,305
+346,346,CIMAHI,4B.2.2 Electrical Cables,Grade 11,Ghata,C,1,Present,2026-08-03,306
+347,347,CIMAHI,4B.2.2 Electrical Cables,Grade 11,Kartika,A,1,Present,2026-03-09,304
+348,348,CIMAHI,4B.2.2 Electrical Cables,Grade 11,Kartika,B,1,Present,2026-07-28,305
+349,349,CIMAHI,4B.2.2 Electrical Cables,Grade 11,Kartika,C,1,Present,2026-08-03,307
+350,350,CIMAHI,4B.3.1 Flight controls,Grade 11,Gita,A,1,Present,2026-05-12,308
+351,351,CIMAHI,4B.3.1 Flight controls,Grade 11,Gita,A,1,Present,2026-08-10,397
+352,352,CIMAHI,4B.3.1 Flight controls,Grade 11,Gita,B,1,Present,2026-07-29,309
+353,353,CIMAHI,4B.3.1 Flight controls,Grade 11,Gita,C,1,Present,2026-07-22,310
+354,354,CIMAHI,4B.3.1 Flight controls,Grade 11,Rizky,A,1,Present,2026-05-12,308
+355,355,CIMAHI,4B.3.1 Flight controls,Grade 11,Rizky,A,1,Present,2026-08-10,397
+356,356,CIMAHI,4B.3.1 Flight controls,Grade 11,Rizky,B,1,Present,2026-07-29,309
+357,357,CIMAHI,4B.3.1 Flight controls,Grade 11,Rizky,C,1,Present,,
+358,358,CIMAHI,4B.3.2 Fuel system,Grade 11,Gita,A,1,Present,2026-04-29,311
+359,359,CIMAHI,4B.3.2 Fuel system,Grade 11,Gita,A,1,Present,2026-04-29,311
+360,360,CIMAHI,4B.3.2 Fuel system,Grade 11,Gita,B,1,Present,2026-07-29,312
+361,361,CIMAHI,4B.3.2 Fuel system,Grade 11,Gita,B,1,Present,2026-05-20,398
+362,362,CIMAHI,4B.3.2 Fuel system,Grade 11,Gita,C,1,Present,2026-04-30,313
+363,363,CIMAHI,4B.3.2 Fuel system,Grade 11,Gita,C,1,Present,2026-04-30,313
+364,364,CIMAHI,4B.3.2 Fuel system,Grade 11,Rizky,A,1,Present,2026-04-29,311
+365,365,CIMAHI,4B.3.2 Fuel system,Grade 11,Rizky,A,1,Present,2026-04-29,311
+366,366,CIMAHI,4B.3.2 Fuel system,Grade 11,Rizky,B,1,Present,2026-07-29,312
+367,367,CIMAHI,4B.3.2 Fuel system,Grade 11,Rizky,B,1,Present,2026-05-20,398
+368,368,CIMAHI,4B.3.2 Fuel system,Grade 11,Rizky,C,1,Present,,
+369,369,CIMAHI,4B.3.2 Fuel system,Grade 11,Rizky,C,1,Present,2026-04-29,399
+370,370,CIMAHI,4B.3.3 Hydraulic power,Grade 11,Gita,A,1,Present,2026-05-20,314
+371,371,CIMAHI,4B.3.3 Hydraulic power,Grade 11,Gita,B,1,Present,2026-07-30,315
+372,372,CIMAHI,4B.3.3 Hydraulic power,Grade 11,Gita,C,1,Present,2026-07-24,316
+373,373,CIMAHI,4B.3.3 Hydraulic power,Grade 11,Rizky,A,1,Present,2026-05-20,314
+374,374,CIMAHI,4B.3.3 Hydraulic power,Grade 11,Rizky,B,1,Present,2026-07-30,315
+375,375,CIMAHI,4B.3.3 Hydraulic power,Grade 11,Rizky,C,1,Present,,
+376,376,CIMAHI,4B.3.4 Landing gear,Grade 11,Gita,A,1,Present,2026-05-21,317
+377,377,CIMAHI,4B.3.4 Landing gear,Grade 11,Gita,B,1,Present,2026-07-30,318
+378,378,CIMAHI,4B.3.4 Landing gear,Grade 11,Rizky,A,1,Present,2026-05-21,317
+379,379,CIMAHI,4B.3.4 Landing gear,Grade 11,Rizky,B,1,Present,2026-07-30,318
+380,380,CIMAHI,4B.3.4 Landing gear,Grade 11,Rizky,C,1,Present,,
+381,381,CIMAHI,4B.3.5 Ice and rain prot.,Grade 11,Gita,A,1,Present,2026-07-23,319
+382,382,CIMAHI,4B.3.5 Ice and rain prot.,Grade 11,Gita,A,1,Present,2026-08-12,400
+383,383,CIMAHI,4B.3.5 Ice and rain prot.,Grade 11,Gita,B,1,Present,2026-08-03,320
+384,384,CIMAHI,4B.3.5 Ice and rain prot.,Grade 11,Rizky,A,1,Present,2026-07-23,319
+385,385,CIMAHI,4B.3.5 Ice and rain prot.,Grade 11,Rizky,A,1,Present,2026-08-12,400
+386,386,CIMAHI,4B.3.5 Ice and rain prot.,Grade 11,Rizky,B,1,Present,2026-08-03,320
+387,387,CIMAHI,4B.3.5 Ice and rain prot.,Grade 11,Rizky,C,1,Present,,
+388,388,CIMAHI,4B.3.6 Oxygen,Grade 11,Gita,A,1,Present,2026-07-23,321
+389,389,CIMAHI,4B.3.6 Oxygen,Grade 11,Gita,B,1,Present,2026-08-03,322
+390,390,CIMAHI,4B.3.6 Oxygen,Grade 11,Gita,C,1,Failed,2026-08-11,323
+391,391,CIMAHI,4B.3.6 Oxygen,Grade 11,Rizky,A,1,Present,2026-07-23,321
+392,392,CIMAHI,4B.3.6 Oxygen,Grade 11,Rizky,B,1,Present,2026-08-03,322
+393,393,CIMAHI,4B.3.7 Air cond.,Grade 11,Gita,A,1,Present,2026-07-28,324
+394,394,CIMAHI,4B.3.7 Air cond.,Grade 11,Gita,A,1,Present,2026-08-19,401
+395,395,CIMAHI,4B.3.7 Air cond.,Grade 11,Gita,B,1,Present,2026-08-10,325
+396,396,CIMAHI,4B.3.7 Air cond.,Grade 11,Gita,C,1,Failed,2026-08-11,326
+397,397,CIMAHI,4B.3.7 Air cond.,Grade 11,Rizky,A,1,Present,2026-07-28,324
+398,398,CIMAHI,4B.3.7 Air cond.,Grade 11,Rizky,A,1,Present,2026-08-19,401
+399,399,CIMAHI,4B.3.7 Air cond.,Grade 11,Rizky,B,1,Present,2026-08-10,325
+400,400,CIMAHI,4B.3.8 Cabin press.,Grade 11,Gita,A,1,Present,2026-07-28,327
+401,401,CIMAHI,4B.3.8 Cabin press.,Grade 11,Gita,B,1,Present,2026-08-10,328
+402,402,CIMAHI,4B.3.8 Cabin press.,Grade 11,Gita,C,1,Present,2026-08-18,329
+403,403,CIMAHI,4B.3.8 Cabin press.,Grade 11,Rizky,A,1,Present,2026-07-28,327
+404,404,CIMAHI,4B.3.8 Cabin press.,Grade 11,Rizky,B,1,Present,2026-08-10,328
+405,405,CIMAHI,4C.1.1 Manufacturing  parts,Grade 12,Ayu,A,1,Present,2026-08-20,405
+406,406,CIMAHI,4C.1.1 Manufacturing  parts,Grade 12,Rahmat,A,1,Present,2026-08-20,405
+407,407,CIMAHI,5A.1.1 Cockpit,Grade 10,Ghata,A,1,Present,2025-09-01,128
+408,408,CIMAHI,5A.1.1 Cockpit,Grade 10,Ghata,A,1,Present,2026-01-19,237
+409,409,CIMAHI,5A.1.1 Cockpit,Grade 10,Ghata,B,1,Present,2026-01-21,129
+410,410,CIMAHI,5A.1.1 Cockpit,Grade 10,Ghata,C,1,Failed,2025-10-29,132
+411,411,CIMAHI,5A.1.1 Cockpit,Grade 10,Ghata,C,1,Present,2026-06-09,239
+412,412,CIMAHI,5A.1.1 Cockpit,Grade 10,Ghata,C,2,Present,2026-01-28,133
+413,413,CIMAHI,5A.1.1 Cockpit,Grade 10,Rizky,A,1,Present,2025-09-01,128
+414,414,CIMAHI,5A.1.1 Cockpit,Grade 10,Rizky,A,1,Present,2026-01-19,237
+415,415,CIMAHI,5A.1.1 Cockpit,Grade 10,Rizky,B,1,Present,2026-01-21,129
+416,416,CIMAHI,5A.1.1 Cockpit,Grade 10,Rizky,C,1,Failed,2025-10-07,130
+417,417,CIMAHI,5A.1.1 Cockpit,Grade 10,Rizky,C,1,Present,2026-06-03,238
+418,418,CIMAHI,5A.1.1 Cockpit,Grade 10,Rizky,C,2,Present,2026-01-28,131
+419,419,CIMAHI,5A.1.2 FCS,Grade 10,Ghata,A,1,Present,2025-09-02,134
+420,420,CIMAHI,5A.1.2 FCS,Grade 10,Ghata,B,1,Present,2026-01-22,135
+421,421,CIMAHI,5A.1.2 FCS,Grade 10,Ghata,C,1,Present,2025-10-30,137
+422,422,CIMAHI,5A.1.2 FCS,Grade 10,Rizky,A,1,Present,2025-09-02,134
+423,423,CIMAHI,5A.1.2 FCS,Grade 10,Rizky,B,1,Present,2026-01-22,135
+424,424,CIMAHI,5A.1.2 FCS,Grade 10,Rizky,C,1,Present,2025-10-16,136
+425,425,CIMAHI,5A.2.1 Baro inst,Grade 10,Ghata,A,1,Present,2025-09-04,138
+426,426,CIMAHI,5A.2.1 Baro inst,Grade 10,Ghata,A,1,Present,2026-01-21,240
+427,427,CIMAHI,5A.2.1 Baro inst,Grade 10,Ghata,B,1,Present,2026-01-28,139
+428,428,CIMAHI,5A.2.1 Baro inst,Grade 10,Ghata,C,1,Present,2025-11-03,141
+429,429,CIMAHI,5A.2.1 Baro inst,Grade 10,Ghata,C,1,Present,2026-06-10,241
+430,430,CIMAHI,5A.2.1 Baro inst,Grade 10,Rizky,A,1,Present,2025-09-04,138
+431,431,CIMAHI,5A.2.1 Baro inst,Grade 10,Rizky,A,1,Present,2026-01-21,240
+432,432,CIMAHI,5A.2.1 Baro inst,Grade 10,Rizky,B,1,Present,2026-01-28,139
+433,433,CIMAHI,5A.2.1 Baro inst,Grade 10,Rizky,C,1,Present,2025-09-25,140
+434,434,CIMAHI,5A.2.2 Analog digi,Grade 10,Ghata,A,1,Present,2025-09-08,142
+435,435,CIMAHI,5A.2.2 Analog digi,Grade 10,Ghata,B,1,Present,2026-01-29,143
+436,436,CIMAHI,5A.2.2 Analog digi,Grade 10,Ghata,C,1,Present,2025-11-05,145
+437,437,CIMAHI,5A.2.2 Analog digi,Grade 10,Rizky,A,1,Present,2025-09-08,142
+438,438,CIMAHI,5A.2.2 Analog digi,Grade 10,Rizky,B,1,Present,2026-01-29,143
+439,439,CIMAHI,5A.2.2 Analog digi,Grade 10,Rizky,C,1,Present,2025-11-05,144
+440,440,CIMAHI,5B.1.1 AC-DC circuit,Grade 11,Ayu,A,1,Present,2026-02-24,330
+441,441,CIMAHI,5B.1.1 AC-DC circuit,Grade 11,Ayu,B,1,Present,2026-08-20,331
+442,442,CIMAHI,5B.1.1 AC-DC circuit,Grade 11,Ayu,C,1,Present,2026-05-07,333
+443,443,CIMAHI,5B.1.1 AC-DC circuit,Grade 11,Rahmat,A,1,Present,2026-02-24,330
+444,444,CIMAHI,5B.1.1 AC-DC circuit,Grade 11,Rahmat,B,1,Present,2026-08-20,331
+445,445,CIMAHI,5B.1.1 AC-DC circuit,Grade 11,Rahmat,C,1,Present,2026-07-27,332
+446,446,CIMAHI,5B.1.2 Semiconductors,Grade 11,Ayu,A,1,Present,2026-03-04,334
+447,447,CIMAHI,5B.1.2 Semiconductors,Grade 11,Ayu,C,1,Present,2026-07-29,336
+448,448,CIMAHI,5B.1.2 Semiconductors,Grade 11,Rahmat,A,1,Present,2026-03-04,334
+449,449,CIMAHI,5B.1.2 Semiconductors,Grade 11,Rahmat,C,1,Present,2026-07-29,335
+450,450,CIMAHI,5B.1.3 Servomechanisms,Grade 11,Ayu,A,1,Present,2026-02-24,337
+451,451,CIMAHI,5B.1.3 Servomechanisms,Grade 11,Ayu,C,1,Present,2026-07-30,339
+452,452,CIMAHI,5B.1.3 Servomechanisms,Grade 11,Rahmat,A,1,Present,2026-02-24,337
+453,453,CIMAHI,5B.1.3 Servomechanisms,Grade 11,Rahmat,C,1,Present,2026-07-30,338
+454,454,CIMAHI,5B.2.1 Nav. Sys.,Grade 11,Gita,A,1,Present,2026-07-20,340
+455,455,CIMAHI,5B.2.1 Nav. Sys.,Grade 11,Gita,C,1,Present,2026-08-05,341
+456,456,CIMAHI,5B.2.1 Nav. Sys.,Grade 11,Rizky,A,1,Present,2026-07-20,340
+457,457,CIMAHI,5B.2.1 Nav. Sys.,Grade 11,Rizky,C,1,Present,,
+458,458,CIMAHI,5B.3.1 Radio comm.,Grade 11,Ghata,A,1,Present,2026-06-21,342
+459,459,CIMAHI,5B.3.1 Radio comm.,Grade 11,Ghata,C,1,Present,2026-08-07,343
+460,460,CIMAHI,5B.3.1 Radio comm.,Grade 11,Kartika,A,1,Present,2026-06-21,342
+461,461,CIMAHI,5B.3.1 Radio comm.,Grade 11,Kartika,C,1,Present,2026-07-27,344
+462,462,CIMAHI,5B.3.1 Radio comm.,Grade 11,Kartika,C,2,Present,2026-08-03,345
+463,463,CIMAHI,5B.3.2 Radio Nav.,Grade 11,Ghata,A,1,Present,2026-03-12,346
+464,464,CIMAHI,5B.3.2 Radio Nav.,Grade 11,Ghata,C,1,Present,2026-08-12,347
+465,465,CIMAHI,5B.3.2 Radio Nav.,Grade 11,Kartika,A,1,Present,2026-03-12,346
+466,466,CIMAHI,5B.3.2 Radio Nav.,Grade 11,Kartika,C,1,Failed,2026-08-06,348
+467,467,CIMAHI,5B.3.2 Radio Nav.,Grade 11,Kartika,C,2,Present,2026-08-20,349
+468,468,CIMAHI,5B.3.3 Detection,Grade 11,Ghata,A,1,Present,2026-07-20,350
+469,469,CIMAHI,5B.3.3 Detection,Grade 11,Kartika,A,1,Present,2026-07-20,350
+470,470,CIMAHI,5C.1.1 Flight Recorder,Grade 12,Ayu,A,1,Present,2026-08-10,406
+471,471,CIMAHI,5C.1.1 Flight Recorder,Grade 12,Rahmat,A,1,Present,2026-08-10,406
+472,472,CIMAHI,5C.1.2 Transponder,Grade 12,Ayu,A,1,Present,2026-08-10,407
+473,473,CIMAHI,5C.1.2 Transponder,Grade 12,Rahmat,A,1,Present,2026-08-10,407
+474,474,CIMAHI,5C.1.3 Weather Radar,Grade 12,Ayu,A,1,Present,2026-08-13,408
+475,475,CIMAHI,5C.1.3 Weather Radar,Grade 12,Rahmat,A,1,Present,2026-08-13,408
+476,476,CIMAHI,5C.1.4 Anti-collision system,Grade 12,Ayu,A,1,Present,2026-08-11,409
+477,477,CIMAHI,5C.1.4 Anti-collision system,Grade 12,Rahmat,A,1,Present,2026-08-11,409
+478,478,CIMAHI,"5C.1.5 Deeper  flight control system, Auto flight,â¦",Grade 12,Ayu,A,1,Present,2026-08-13,410
+479,479,CIMAHI,"5C.1.5 Deeper  flight control system, Auto flight,â¦",Grade 12,Rahmat,A,1,Present,2026-08-13,410
+480,480,CIMAHI,5C.3.1 Radio-communication,Grade 12,Ayu,A,1,Present,2026-08-13,411
+481,481,CIMAHI,5C.3.1 Radio-communication,Grade 12,Rahmat,A,1,Present,2026-08-13,411
+482,482,CIMAHI,5C.3.2 Radio-Navigation,Grade 12,Ayu,A,1,Present,2026-08-19,412
+483,483,CIMAHI,5C.3.2 Radio-Navigation,Grade 12,Rahmat,A,1,Present,2026-08-19,412
+484,484,CIMAHI,5C.3.4 On board Maintenance system,Grade 12,Ayu,A,1,Present,2026-08-19,413
+485,485,CIMAHI,5C.3.4 On board Maintenance system,Grade 12,Rahmat,A,1,Present,2026-08-19,413
+486,486,CIMAHI,6A.1.1 Nav rule,Grade 10,Ghata,A,1,Present,2025-08-26,146
+487,487,CIMAHI,6A.1.1 Nav rule,Grade 10,Ghata,B,1,Present,2026-01-14,147
+488,488,CIMAHI,6A.1.1 Nav rule,Grade 10,Ghata,C,1,Present,2025-11-06,149
+489,489,CIMAHI,6A.1.1 Nav rule,Grade 10,Ghata,D,1,Optional,,
+490,490,CIMAHI,6A.1.1 Nav rule,Grade 10,Gita,A,1,Present,2025-08-26,146
+491,491,CIMAHI,6A.1.1 Nav rule,Grade 10,Gita,A,1,Present,2026-04-23,242
+492,492,CIMAHI,6A.1.1 Nav rule,Grade 10,Gita,B,1,Present,2026-01-14,147
+493,493,CIMAHI,6A.1.1 Nav rule,Grade 10,Gita,B,1,Present,2026-04-20,243
+494,494,CIMAHI,6A.1.1 Nav rule,Grade 10,Gita,C,1,Present,2025-10-07,148
+495,495,CIMAHI,6A.1.1 Nav rule,Grade 10,Gita,C,1,Present,2026-04-30,244
+496,496,CIMAHI,6A.1.1 Nav rule,Grade 10,Kartika,A,1,Remedial,2025-08-26,146
+497,497,CIMAHI,6A.1.1 Nav rule,Grade 10,Kartika,A,1,Present,2026-04-23,242
+498,498,CIMAHI,6A.1.1 Nav rule,Grade 10,Kartika,B,1,Present,2026-01-14,147
+499,499,CIMAHI,6A.1.1 Nav rule,Grade 10,Kartika,B,1,Present,2026-04-20,243
+500,500,CIMAHI,6A.1.1 Nav rule,Grade 10,Kartika,C,1,Failed,2026-01-19,150
+501,501,CIMAHI,6A.1.1 Nav rule,Grade 10,Kartika,C,1,Present,2026-05-25,245
+502,502,CIMAHI,6A.1.1 Nav rule,Grade 10,Kartika,C,2,Present,2026-03-02,151
+503,503,CIMAHI,6A.1.2 Principle,Grade 10,Ghata,A,1,Present,2025-08-27,152
+504,504,CIMAHI,6A.1.2 Principle,Grade 10,Ghata,B,1,Present,2026-02-03,153
+505,505,CIMAHI,6A.1.2 Principle,Grade 10,Ghata,C,1,Present,2025-11-07,155
+506,506,CIMAHI,6A.1.2 Principle,Grade 10,Ghata,D,1,Optional,,
+507,507,CIMAHI,6A.1.2 Principle,Grade 10,Gita,A,1,Present,2025-08-27,152
+508,508,CIMAHI,6A.1.2 Principle,Grade 10,Gita,B,1,Present,2026-02-03,153
+509,509,CIMAHI,6A.1.2 Principle,Grade 10,Gita,C,1,Present,2025-11-10,154
+510,510,CIMAHI,6A.1.2 Principle,Grade 10,Kartika,A,1,Remedial,2025-08-27,152
+511,511,CIMAHI,6A.1.2 Principle,Grade 10,Kartika,B,1,Present,2026-02-03,153
+512,512,CIMAHI,6A.1.2 Principle,Grade 10,Kartika,C,1,Present,2026-02-25,156
+513,513,CIMAHI,6A.2.1 Organisation,Grade 10,Ghata,A,1,Present,2025-08-28,157
+514,514,CIMAHI,6A.2.1 Organisation,Grade 10,Ghata,B,1,Remedial,2026-02-10,158
+515,515,CIMAHI,6A.2.1 Organisation,Grade 10,Ghata,C,1,Present,2025-11-11,161
+516,516,CIMAHI,6A.2.1 Organisation,Grade 10,Gita,A,1,Present,2025-08-28,157
+517,517,CIMAHI,6A.2.1 Organisation,Grade 10,Gita,B,1,Remedial,2026-02-10,158
+518,518,CIMAHI,6A.2.1 Organisation,Grade 10,Gita,C,1,Failed,2025-10-16,159
+519,519,CIMAHI,6A.2.1 Organisation,Grade 10,Gita,C,2,Present,2026-02-24,160
+520,520,CIMAHI,6A.2.1 Organisation,Grade 10,Gita,D,1,Optional,,
+521,521,CIMAHI,6A.2.1 Organisation,Grade 10,Kartika,A,1,Remedial,2025-08-28,157
+522,522,CIMAHI,6A.2.1 Organisation,Grade 10,Kartika,B,1,Present,2026-02-10,158
+523,523,CIMAHI,6A.2.1 Organisation,Grade 10,Kartika,C,1,Failed,2026-01-21,162
+524,524,CIMAHI,6A.2.1 Organisation,Grade 10,Kartika,C,2,Present,2026-02-25,163
+525,525,CIMAHI,6A.2.2 Hazards,Grade 10,Ghata,A,1,Present,2025-08-28,164
+526,526,CIMAHI,6A.2.2 Hazards,Grade 10,Ghata,A,1,Present,2026-01-28,246
+527,527,CIMAHI,6A.2.2 Hazards,Grade 10,Ghata,B,1,Present,2026-02-04,165
+528,528,CIMAHI,6A.2.2 Hazards,Grade 10,Ghata,C,1,Present,2025-11-11,168
+529,529,CIMAHI,6A.2.2 Hazards,Grade 10,Gita,A,1,Present,2025-08-28,164
+530,530,CIMAHI,6A.2.2 Hazards,Grade 10,Gita,A,1,Optional,2026-01-28,246
+531,531,CIMAHI,6A.2.2 Hazards,Grade 10,Gita,B,1,Present,2026-02-04,165
+532,532,CIMAHI,6A.2.2 Hazards,Grade 10,Gita,C,1,Failed,2025-10-15,166
+533,533,CIMAHI,6A.2.2 Hazards,Grade 10,Gita,C,2,Present,2026-01-29,167
+534,534,CIMAHI,6A.2.2 Hazards,Grade 10,Gita,D,1,Optional,,
+535,535,CIMAHI,6A.2.2 Hazards,Grade 10,Kartika,A,1,Remedial,2025-08-28,164
+536,536,CIMAHI,6A.2.2 Hazards,Grade 10,Kartika,A,1,Present,2026-01-28,246
+537,537,CIMAHI,6A.2.2 Hazards,Grade 10,Kartika,B,1,Present,2026-02-04,165
+538,538,CIMAHI,6A.2.2 Hazards,Grade 10,Kartika,C,1,Failed,2026-01-29,169
+539,539,CIMAHI,6A.2.2 Hazards,Grade 10,Kartika,C,2,Present,2026-01-29,170
+540,540,CIMAHI,6A.2.3 HF,Grade 10,Ghata,A,1,Present,2025-09-01,171
+541,541,CIMAHI,6A.2.3 HF,Grade 10,Ghata,B,1,Present,2026-02-04,172
+542,542,CIMAHI,6A.2.3 HF,Grade 10,Ghata,C,1,Present,2025-11-13,174
+543,543,CIMAHI,6A.2.3 HF,Grade 10,Gita,A,1,Present,2025-09-01,171
+544,544,CIMAHI,6A.2.3 HF,Grade 10,Gita,B,1,Present,2026-02-04,172
+545,545,CIMAHI,6A.2.3 HF,Grade 10,Gita,C,1,Present,2025-11-03,173
+546,546,CIMAHI,6A.2.3 HF,Grade 10,Gita,D,1,Optional,,
+547,547,CIMAHI,6A.2.3 HF,Grade 10,Kartika,A,1,Remedial,2025-09-01,171
+548,548,CIMAHI,6A.2.3 HF,Grade 10,Kartika,B,1,Present,2026-02-04,172
+549,549,CIMAHI,6A.2.3 HF,Grade 10,Kartika,C,1,Failed,2026-01-22,175
+550,550,CIMAHI,6A.2.3 HF,Grade 10,Kartika,C,2,Present,2026-03-03,176
+551,551,CIMAHI,7A.1.1 jobs,Grade 10,Diki,A,1,Present,2025-08-11,177
+552,552,CIMAHI,7A.1.1 jobs,Grade 10,Diki,B,1,Present,2025-10-20,178
+553,553,CIMAHI,7A.1.1 jobs,Grade 10,Diki,C,1,Present,2025-09-17,180
+554,554,CIMAHI,7A.1.1 jobs,Grade 10,Diki,D,1,Optional,2026-07-21,179
+555,555,CIMAHI,7A.1.1 jobs,Grade 10,Ghata,A,1,Present,2025-08-11,177
+556,556,CIMAHI,7A.1.1 jobs,Grade 10,Ghata,B,1,Present,2025-10-20,178
+557,557,CIMAHI,7A.1.1 jobs,Grade 10,Ghata,C,1,Present,2025-11-20,181
+558,558,CIMAHI,7A.1.1 jobs,Grade 10,Ghata,D,1,Present,2026-07-21,179
+559,559,CIMAHI,7A.1.1 jobs,Grade 10,Kartika,A,1,Remedial,2025-08-11,177
+560,560,CIMAHI,7A.1.1 jobs,Grade 10,Kartika,B,1,Present,2025-10-20,178
+561,561,CIMAHI,7A.1.1 jobs,Grade 10,Kartika,C,1,Present,2026-02-03,182
+562,562,CIMAHI,7A.1.1 jobs,Grade 10,Kartika,D,1,Present,2026-07-21,179
+563,563,CIMAHI,7A.1.2 Jobs,Grade 10,Diki,A,1,Present,2025-08-12,183
+564,564,CIMAHI,7A.1.2 Jobs,Grade 10,Diki,B,1,Present,2025-10-22,184
+565,565,CIMAHI,7A.1.2 Jobs,Grade 10,Diki,C,1,Present,2025-10-07,186
+566,566,CIMAHI,7A.1.2 Jobs,Grade 10,Diki,D,1,Optional,2026-07-22,185
+567,567,CIMAHI,7A.1.2 Jobs,Grade 10,Ghata,A,1,Present,2025-08-12,183
+568,568,CIMAHI,7A.1.2 Jobs,Grade 10,Ghata,B,1,Present,2025-10-22,184
+569,569,CIMAHI,7A.1.2 Jobs,Grade 10,Ghata,C,1,Present,2025-11-13,187
+570,570,CIMAHI,7A.1.2 Jobs,Grade 10,Ghata,D,1,Present,2026-07-22,185
+571,571,CIMAHI,7A.1.2 Jobs,Grade 10,Kartika,A,1,Remedial,2025-08-12,183
+572,572,CIMAHI,7A.1.2 Jobs,Grade 10,Kartika,B,1,Present,2025-10-22,184
+573,573,CIMAHI,7A.1.2 Jobs,Grade 10,Kartika,C,1,Present,2026-01-26,188
+574,574,CIMAHI,7A.1.2 Jobs,Grade 10,Kartika,D,1,Present,2026-07-22,185
+575,575,CIMAHI,7A.1.3 Jobs,Grade 10,Diki,A,1,Present,2025-08-13,189
+576,576,CIMAHI,7A.1.3 Jobs,Grade 10,Diki,B,1,Present,2025-10-28,190
+577,577,CIMAHI,7A.1.3 Jobs,Grade 10,Diki,C,1,Present,2025-10-14,192
+578,578,CIMAHI,7A.1.3 Jobs,Grade 10,Diki,D,1,Optional,2026-07-29,191
+579,579,CIMAHI,7A.1.3 Jobs,Grade 10,Ghata,A,1,Present,2025-08-13,189
+580,580,CIMAHI,7A.1.3 Jobs,Grade 10,Ghata,B,1,Present,2025-10-28,190
+581,581,CIMAHI,7A.1.3 Jobs,Grade 10,Ghata,C,1,Present,2025-11-20,193
+582,582,CIMAHI,7A.1.3 Jobs,Grade 10,Ghata,D,1,Present,2026-07-29,191
+583,583,CIMAHI,7A.1.3 Jobs,Grade 10,Kartika,A,1,Present,2025-08-13,189
+584,584,CIMAHI,7A.1.3 Jobs,Grade 10,Kartika,B,1,Present,2025-10-28,190
+585,585,CIMAHI,7A.1.3 Jobs,Grade 10,Kartika,C,1,Present,2026-03-10,194
+586,586,CIMAHI,7A.1.3 Jobs,Grade 10,Kartika,D,1,Present,2026-07-29,191
+587,587,CIMAHI,7A.1.4 Jobs,Grade 10,Diki,A,1,Present,2025-08-14,195
+588,588,CIMAHI,7A.1.4 Jobs,Grade 10,Diki,B,1,Present,2025-10-31,196
+589,589,CIMAHI,7A.1.4 Jobs,Grade 10,Diki,C,1,Present,2025-10-27,198
+590,590,CIMAHI,7A.1.4 Jobs,Grade 10,Diki,D,1,Optional,2026-08-04,197
+591,591,CIMAHI,7A.1.4 Jobs,Grade 10,Ghata,A,1,Present,2025-08-14,195
+592,592,CIMAHI,7A.1.4 Jobs,Grade 10,Ghata,B,1,Present,2025-10-31,196
+593,593,CIMAHI,7A.1.4 Jobs,Grade 10,Ghata,C,1,Present,2025-11-21,199
+594,594,CIMAHI,7A.1.4 Jobs,Grade 10,Ghata,D,1,Present,2026-08-04,197
+595,595,CIMAHI,7A.1.4 Jobs,Grade 10,Kartika,A,1,Present,2025-08-14,195
+596,596,CIMAHI,7A.1.4 Jobs,Grade 10,Kartika,B,1,Present,2025-10-31,196
+597,597,CIMAHI,7A.1.4 Jobs,Grade 10,Kartika,C,1,Present,2026-03-11,200
+598,598,CIMAHI,7A.1.4 Jobs,Grade 10,Kartika,D,1,Present,2026-08-04,197
+599,599,CIMAHI,7A.1.5 Jobs,Grade 10,Diki,A,1,Present,2025-08-21,201
+600,600,CIMAHI,7A.1.5 Jobs,Grade 10,Diki,B,1,Present,2025-11-04,202
+601,601,CIMAHI,7A.1.5 Jobs,Grade 10,Diki,C,1,Present,2025-10-28,204
+602,602,CIMAHI,7A.1.5 Jobs,Grade 10,Diki,D,1,Optional,2026-08-05,203
+603,603,CIMAHI,7A.1.5 Jobs,Grade 10,Ghata,A,1,Present,2025-08-21,201
+604,604,CIMAHI,7A.1.5 Jobs,Grade 10,Ghata,B,1,Present,2025-11-04,202
+605,605,CIMAHI,7A.1.5 Jobs,Grade 10,Ghata,C,1,Present,2025-11-24,205
+606,606,CIMAHI,7A.1.5 Jobs,Grade 10,Ghata,D,1,Present,2026-08-05,203
+607,607,CIMAHI,7A.1.5 Jobs,Grade 10,Kartika,A,1,Present,2025-08-21,201
+608,608,CIMAHI,7A.1.5 Jobs,Grade 10,Kartika,B,1,Present,2025-11-04,202
+609,609,CIMAHI,7A.1.5 Jobs,Grade 10,Kartika,C,1,Present,2026-03-11,206
+610,610,CIMAHI,7A.1.5 Jobs,Grade 10,Kartika,D,1,Present,2026-08-05,203
+611,611,CIMAHI,7A.1.6 Jobs,Grade 10,Diki,A,1,Present,2025-08-21,207
+612,612,CIMAHI,7A.1.6 Jobs,Grade 10,Diki,B,1,Present,2025-11-07,208
+613,613,CIMAHI,7A.1.6 Jobs,Grade 10,Diki,C,1,Present,2025-11-10,210
+614,614,CIMAHI,7A.1.6 Jobs,Grade 10,Diki,D,1,Optional,2026-08-11,209
+615,615,CIMAHI,7A.1.6 Jobs,Grade 10,Ghata,A,1,Present,2025-08-21,207
+616,616,CIMAHI,7A.1.6 Jobs,Grade 10,Ghata,B,1,Present,2025-11-07,208
+617,617,CIMAHI,7A.1.6 Jobs,Grade 10,Ghata,C,1,Present,2025-11-26,211
+618,618,CIMAHI,7A.1.6 Jobs,Grade 10,Ghata,D,1,Present,2026-08-11,209
+619,619,CIMAHI,7A.1.6 Jobs,Grade 10,Kartika,A,1,Present,2025-08-21,207
+620,620,CIMAHI,7A.1.6 Jobs,Grade 10,Kartika,B,1,Present,2025-11-07,208
+621,621,CIMAHI,7A.1.6 Jobs,Grade 10,Kartika,C,1,Present,2026-03-12,212
+622,622,CIMAHI,7A.1.6 Jobs,Grade 10,Kartika,D,1,Present,2026-08-11,209
+623,623,CIMAHI,7B.1.1 Def aero carreers,Grade 11,Ghata,A,1,Present,2026-04-16,371
+624,624,CIMAHI,7B.1.1 Def aero carreers,Grade 11,Ghata,C,1,Present,2026-04-29,372
+625,625,CIMAHI,7B.1.1 Def aero carreers,Grade 11,Kartika,A,1,Present,2026-04-16,371
+626,626,CIMAHI,7B.1.1 Def aero carreers,Grade 11,Kartika,C,1,Present,2026-05-18,373
+627,627,CIMAHI,7B.1.2 Aeronautic trainning,Grade 11,Ghata,A,1,Present,2026-04-16,374
+628,628,CIMAHI,7B.1.2 Aeronautic trainning,Grade 11,Ghata,C,1,Present,2026-05-26,375
+629,629,CIMAHI,7B.1.2 Aeronautic trainning,Grade 11,Kartika,A,1,Present,2026-04-16,374
+630,630,CIMAHI,7B.1.2 Aeronautic trainning,Grade 11,Kartika,C,1,Present,2026-05-18,376
+631,631,CIMAHI,7B.1.3 Skills and comp.,Grade 11,Ghata,A,1,Present,2026-05-13,377
+632,632,CIMAHI,7B.1.3 Skills and comp.,Grade 11,Ghata,C,1,Present,2026-05-26,378
+633,633,CIMAHI,7B.1.3 Skills and comp.,Grade 11,Kartika,A,1,Present,2026-05-13,377
+634,634,CIMAHI,7B.1.3 Skills and comp.,Grade 11,Kartika,C,1,Present,2026-05-19,379
+635,635,CIMAHI,7B.1.4 Concerns in aviation,Grade 11,Ghata,A,1,Present,2026-05-13,380
+636,636,CIMAHI,7B.1.4 Concerns in aviation,Grade 11,Ghata,C,1,Present,2026-06-03,381
+637,637,CIMAHI,7B.1.4 Concerns in aviation,Grade 11,Kartika,A,1,Present,2026-05-13,380
+638,638,CIMAHI,7B.1.4 Concerns in aviation,Grade 11,Kartika,C,1,Present,2026-05-19,382
+639,639,CIMAHI,7C.1.1 Introduction,Grade 12,Ghata,A,1,Present,2026-08-18,420
+640,640,CIMAHI,7C.1.1 Introduction,Grade 12,Kartika,A,1,Present,2026-08-18,420
+641,641,CIMAHI,9.1.1 Pressure,Grade 11,Ayu,A,1,Present,2026-02-25,247
+642,642,CIMAHI,9.1.1 Pressure,Grade 11,Ayu,B,1,Present,2026-07-16,248
+643,643,CIMAHI,9.1.1 Pressure,Grade 11,Ayu,C,1,Present,2026-05-20,250
+644,644,CIMAHI,9.1.1 Pressure,Grade 11,Rahmat,A,1,Present,2026-02-25,247
+645,645,CIMAHI,9.1.1 Pressure,Grade 11,Rahmat,B,1,Present,2026-07-16,248
+646,646,CIMAHI,9.1.1 Pressure,Grade 11,Rahmat,C,1,Present,2026-05-19,249
+647,647,CIMAHI,9.1.2 Fluid mechanics,Grade 11,Ayu,A,1,Present,2026-02-25,251
+648,648,CIMAHI,9.1.2 Fluid mechanics,Grade 11,Ayu,B,1,Present,2026-07-20,252
+649,649,CIMAHI,9.1.2 Fluid mechanics,Grade 11,Ayu,C,1,Present,2026-05-21,254
+650,650,CIMAHI,9.1.2 Fluid mechanics,Grade 11,Rahmat,A,1,Present,2026-02-25,251
+651,651,CIMAHI,9.1.2 Fluid mechanics,Grade 11,Rahmat,B,1,Present,2026-07-20,252
+652,652,CIMAHI,9.1.2 Fluid mechanics,Grade 11,Rahmat,C,1,Present,2026-05-21,253
+653,653,CIMAHI,9.1.3 Fluid dynamics,Grade 11,Ayu,A,1,Present,2026-02-25,255
+654,654,CIMAHI,9.1.3 Fluid dynamics,Grade 11,Ayu,B,1,Present,2026-07-21,256
+655,655,CIMAHI,9.1.3 Fluid dynamics,Grade 11,Ayu,C,1,Present,2026-06-09,258
+656,656,CIMAHI,9.1.3 Fluid dynamics,Grade 11,Rahmat,A,1,Present,2026-02-25,255
+657,657,CIMAHI,9.1.3 Fluid dynamics,Grade 11,Rahmat,B,1,Present,2026-07-21,256
+658,658,CIMAHI,9.1.3 Fluid dynamics,Grade 11,Rahmat,C,1,Present,2026-06-09,257
+659,659,CIMAHI,9.2.1 Thermodynamics,Grade 11,Ayu,A,1,Present,2026-02-26,259
+660,660,CIMAHI,9.2.1 Thermodynamics,Grade 11,Ayu,B,1,Present,2026-07-22,260
+661,661,CIMAHI,9.2.1 Thermodynamics,Grade 11,Ayu,C,1,Present,2026-06-10,262
+662,662,CIMAHI,9.2.1 Thermodynamics,Grade 11,Rahmat,A,1,Present,2026-02-26,259
+663,663,CIMAHI,9.2.1 Thermodynamics,Grade 11,Rahmat,B,1,Present,2026-07-22,260
+664,664,CIMAHI,9.2.1 Thermodynamics,Grade 11,Rahmat,C,1,Present,2026-06-10,261
+665,665,CIMAHI,9.3.1 Optics,Grade 11,Ayu,A,1,Present,2026-03-05,263
+666,666,CIMAHI,9.3.1 Optics,Grade 11,Ayu,B,1,Present,2026-07-23,264
+667,667,CIMAHI,9.3.1 Optics,Grade 11,Ayu,C,1,Present,2026-06-11,266
+668,668,CIMAHI,9.3.1 Optics,Grade 11,Rahmat,A,1,Present,2026-03-05,263
+669,669,CIMAHI,9.3.1 Optics,Grade 11,Rahmat,B,1,Present,2026-07-23,264
+670,670,CIMAHI,9.3.1 Optics,Grade 11,Rahmat,C,1,Present,2026-06-11,265
+671,671,CIMAHI,9.4.1 Acoustics,Grade 11,Ayu,A,1,Present,2026-05-20,267
+672,672,CIMAHI,9.4.1 Acoustics,Grade 11,Ayu,B,1,Present,2026-07-16,268
+673,673,CIMAHI,9.4.1 Acoustics,Grade 11,Ayu,C,1,Present,2026-05-20,270
+674,674,CIMAHI,9.4.1 Acoustics,Grade 11,Rahmat,A,1,Present,2026-05-20,267
+675,675,CIMAHI,9.4.1 Acoustics,Grade 11,Rahmat,B,1,Present,2026-07-16,268
+676,676,CIMAHI,9.4.1 Acoustics,Grade 11,Rahmat,C,1,Present,2026-05-20,269
+677,677,MALANG,1.1.1 History,Grade 10,Annisa,A,1,Present,2025-08-21,421
+678,678,MALANG,1.1.1 History,Grade 10,Annisa,C,1,Failed,2026-07-29,425
+679,679,MALANG,1.1.1 History,Grade 10,Faiz,A,1,Present,2025-08-21,421
+680,680,MALANG,1.1.1 History,Grade 10,Faiz,B,1,Present,2025-11-12,422
+681,681,MALANG,1.1.1 History,Grade 10,Faiz,C,1,Present,2025-10-07,424
+682,682,MALANG,1.1.1 History,Grade 10,Faiz,D,1,Present,2026-08-12,423
+683,683,MALANG,1.1.1 History,Grade 10,Tasya,A,1,Present,2025-08-21,421
+684,684,MALANG,1.1.1 History,Grade 10,Tasya,B,1,Present,2025-11-12,422
+685,685,MALANG,10A.1.1,Grade 11,Ainur,A,1,Present,2026-04-07,351
+686,686,MALANG,10A.1.1,Grade 11,Ainur,B,1,Present,2026-04-15,727
+687,687,MALANG,10A.1.1,Grade 11,Ainur,C,1,Present,2026-05-13,729
+688,688,MALANG,10A.1.1,Grade 11,Devi,A,1,Present,2026-04-07,351
+689,689,MALANG,10A.1.1,Grade 11,Devi,B,1,Present,2026-04-15,727
+690,690,MALANG,10A.1.1,Grade 11,Devi,C,1,Present,2026-05-12,728
+691,691,MALANG,10A.1.1,Grade 11,Fajar,A,1,Present,2026-04-07,351
+692,692,MALANG,10A.1.1,Grade 11,Fajar,B,1,Present,2026-04-15,727
+693,693,MALANG,10A.1.2,Grade 11,Ainur,A,1,Present,2026-05-21,730
+694,694,MALANG,10A.1.2,Grade 11,Ainur,B,1,Present,2026-04-15,731
+695,695,MALANG,10A.1.2,Grade 11,Ainur,C,1,Present,2026-05-25,733
+696,696,MALANG,10A.1.2,Grade 11,Devi,A,1,Present,2026-05-21,730
+697,697,MALANG,10A.1.2,Grade 11,Devi,B,1,Present,2026-04-15,731
+698,698,MALANG,10A.1.2,Grade 11,Devi,C,1,Present,2026-05-26,732
+699,699,MALANG,10A.1.2,Grade 11,Fajar,A,1,Present,2026-05-21,730
+700,700,MALANG,10A.1.2,Grade 11,Fajar,B,1,Present,2026-04-15,731
+701,701,MALANG,10A.1.3,Grade 11,Ainur,A,1,Present,2026-04-14,734
+702,702,MALANG,10A.1.3,Grade 11,Ainur,B,1,Present,2026-04-16,735
+703,703,MALANG,10A.1.3,Grade 11,Ainur,C,1,Present,2026-05-25,737
+704,704,MALANG,10A.1.3,Grade 11,Devi,A,1,Present,2026-04-14,734
+705,705,MALANG,10A.1.3,Grade 11,Devi,B,1,Present,2026-04-16,735
+706,706,MALANG,10A.1.3,Grade 11,Devi,C,1,Present,2026-05-26,736
+707,707,MALANG,10A.1.3,Grade 11,Fajar,A,1,Present,2026-04-14,734
+708,708,MALANG,10A.1.3,Grade 11,Fajar,B,1,Present,2026-04-16,735
+709,709,MALANG,11A.1.1 Prevent and secure,Grade 11,Ainur,A,1,Present,2026-03-09,738
+710,710,MALANG,11A.1.1 Prevent and secure,Grade 11,Ainur,B,1,Present,2026-05-04,364
+711,711,MALANG,11A.1.1 Prevent and secure,Grade 11,Ainur,C,1,Present,2026-05-05,740
+712,712,MALANG,11A.1.1 Prevent and secure,Grade 11,Devi,A,1,Present,2026-03-09,738
+713,713,MALANG,11A.1.1 Prevent and secure,Grade 11,Devi,B,1,Present,2026-05-04,364
+714,714,MALANG,11A.1.1 Prevent and secure,Grade 11,Devi,C,1,Present,2026-05-06,739
+715,715,MALANG,11A.1.1 Prevent and secure,Grade 11,Fajar,A,1,Present,2026-03-09,738
+716,716,MALANG,11A.1.1 Prevent and secure,Grade 11,Fajar,B,1,Present,2026-05-04,364
+717,717,MALANG,11A.2.1 Enhance human,Grade 11,Arifah,A,1,Present,2026-04-16,741
+718,718,MALANG,11A.2.1 Enhance human,Grade 11,Arifah,B,1,Present,2026-04-21,742
+719,719,MALANG,11A.2.1 Enhance human,Grade 11,Bima,A,1,Absent,2026-04-16,741
+720,720,MALANG,11A.2.1 Enhance human,Grade 11,Bima,B,1,Present,2026-04-21,742
+721,721,MALANG,2.1.1 Atmosphere,Grade 10,Ainur,A,1,Present,2025-09-01,426
+722,722,MALANG,2.1.1 Atmosphere,Grade 10,Ainur,B,1,Present,2026-02-18,427
+723,723,MALANG,2.1.1 Atmosphere,Grade 10,Ainur,C,1,Present,2025-10-09,430
+724,724,MALANG,2.1.1 Atmosphere,Grade 10,Devi,A,1,Present,2025-09-01,426
+725,725,MALANG,2.1.1 Atmosphere,Grade 10,Devi,B,1,Present,2026-02-18,427
+726,726,MALANG,2.1.1 Atmosphere,Grade 10,Devi,C,1,Failed,2025-10-09,428
+727,727,MALANG,2.1.1 Atmosphere,Grade 10,Devi,C,2,Present,2026-02-09,429
+728,728,MALANG,2.1.1 Atmosphere,Grade 10,Fajar,A,1,Present,2025-09-01,426
+729,729,MALANG,2.1.1 Atmosphere,Grade 10,Fajar,B,1,Present,2026-02-18,427
+730,730,MALANG,2.1.1 Atmosphere,Grade 10,Fajar,C,1,Present,2026-08-14,431
+731,731,MALANG,2.1.2 Heat tsfr,Grade 10,Ainur,A,1,Present,2025-09-02,432
+732,732,MALANG,2.1.2 Heat tsfr,Grade 10,Ainur,B,1,Present,2026-02-19,433
+733,733,MALANG,2.1.2 Heat tsfr,Grade 10,Ainur,C,1,Present,2025-10-22,435
+734,734,MALANG,2.1.2 Heat tsfr,Grade 10,Bima,C,1,Optional,,
+735,735,MALANG,2.1.2 Heat tsfr,Grade 10,Devi,A,1,Present,2025-09-02,432
+736,736,MALANG,2.1.2 Heat tsfr,Grade 10,Devi,B,1,Present,2026-02-19,433
+737,737,MALANG,2.1.2 Heat tsfr,Grade 10,Devi,C,1,Present,2025-10-22,434
+738,738,MALANG,2.1.2 Heat tsfr,Grade 10,Fajar,A,1,Present,2025-09-02,432
+739,739,MALANG,2.1.2 Heat tsfr,Grade 10,Fajar,B,1,Present,2026-02-19,433
+740,740,MALANG,2.1.3 Air mass,Grade 10,Ainur,A,1,Present,2025-09-03,436
+741,741,MALANG,2.1.3 Air mass,Grade 10,Ainur,B,1,Present,2025-12-29,437
+742,742,MALANG,2.1.3 Air mass,Grade 10,Ainur,C,1,Present,2025-10-23,439
+743,743,MALANG,2.1.3 Air mass,Grade 10,Devi,A,1,Present,2025-09-03,436
+744,744,MALANG,2.1.3 Air mass,Grade 10,Devi,B,1,Present,2025-12-29,437
+745,745,MALANG,2.1.3 Air mass,Grade 10,Devi,C,1,Present,2025-10-23,438
+746,746,MALANG,2.1.3 Air mass,Grade 10,Fajar,A,1,Present,2025-09-03,436
+747,747,MALANG,2.1.3 Air mass,Grade 10,Fajar,B,1,Present,2025-12-29,437
+748,748,MALANG,2.1.4 Clouds,Grade 10,Ainur,A,1,Present,2025-09-09,440
+749,749,MALANG,2.1.4 Clouds,Grade 10,Ainur,A,1,Present,2026-04-08,602
+750,750,MALANG,2.1.4 Clouds,Grade 10,Ainur,B,1,Present,2026-01-14,441
+751,751,MALANG,2.1.4 Clouds,Grade 10,Ainur,B,1,Present,2026-04-09,603
+752,752,MALANG,2.1.4 Clouds,Grade 10,Ainur,C,1,Present,2025-10-27,443
+753,753,MALANG,2.1.4 Clouds,Grade 10,Ainur,C,1,Present,2026-05-07,605
+754,754,MALANG,2.1.4 Clouds,Grade 10,Devi,A,1,Present,2025-09-09,440
+755,755,MALANG,2.1.4 Clouds,Grade 10,Devi,A,1,Present,2026-04-08,602
+756,756,MALANG,2.1.4 Clouds,Grade 10,Devi,B,1,Present,2026-01-14,441
+757,757,MALANG,2.1.4 Clouds,Grade 10,Devi,B,1,Present,2026-04-09,603
+758,758,MALANG,2.1.4 Clouds,Grade 10,Devi,C,1,Present,2025-10-27,442
+759,759,MALANG,2.1.4 Clouds,Grade 10,Devi,C,1,Present,2026-05-05,604
+760,760,MALANG,2.1.4 Clouds,Grade 10,Fajar,A,1,Present,2025-09-09,440
+761,761,MALANG,2.1.4 Clouds,Grade 10,Fajar,A,1,Present,2026-04-08,602
+762,762,MALANG,2.1.4 Clouds,Grade 10,Fajar,B,1,Present,2026-01-14,441
+763,763,MALANG,2.1.4 Clouds,Grade 10,Fajar,B,1,Absent,2026-04-09,603
+764,764,MALANG,2.1.5 Winds,Grade 10,Ainur,A,1,Present,2025-09-10,444
+765,765,MALANG,2.1.5 Winds,Grade 10,Ainur,A,1,Present,2026-04-09,606
+766,766,MALANG,2.1.5 Winds,Grade 10,Ainur,B,1,Present,2026-01-15,445
+767,767,MALANG,2.1.5 Winds,Grade 10,Ainur,B,1,Present,2026-04-13,607
+768,768,MALANG,2.1.5 Winds,Grade 10,Ainur,C,1,Present,2025-12-03,447
+769,769,MALANG,2.1.5 Winds,Grade 10,Ainur,C,1,Present,2026-05-20,609
+770,770,MALANG,2.1.5 Winds,Grade 10,Bima,C,1,Optional,,
+771,771,MALANG,2.1.5 Winds,Grade 10,Devi,A,1,Present,2025-09-10,444
+772,772,MALANG,2.1.5 Winds,Grade 10,Devi,A,1,Present,2026-04-09,606
+773,773,MALANG,2.1.5 Winds,Grade 10,Devi,B,1,Present,2026-01-15,445
+774,774,MALANG,2.1.5 Winds,Grade 10,Devi,B,1,Present,2026-04-13,607
+775,775,MALANG,2.1.5 Winds,Grade 10,Devi,C,1,Present,2025-12-03,446
+776,776,MALANG,2.1.5 Winds,Grade 10,Devi,C,1,Present,2026-05-19,608
+777,777,MALANG,2.1.5 Winds,Grade 10,Fajar,A,1,Present,2025-09-10,444
+778,778,MALANG,2.1.5 Winds,Grade 10,Fajar,A,1,Absent,2026-04-09,606
+779,779,MALANG,2.1.5 Winds,Grade 10,Fajar,B,1,Present,2026-01-15,445
+780,780,MALANG,2.1.5 Winds,Grade 10,Fajar,B,1,Absent,2026-04-13,607
+781,781,MALANG,2.1.5 Winds,Grade 10,Tasya,A,1,Optional,2026-04-09,606
+782,782,MALANG,2.1.5 Winds,Grade 10,Tasya,B,1,Optional,2026-04-13,607
+783,783,MALANG,2.1.6 Dangerous,Grade 10,Ainur,A,1,Remedial,2025-09-18,448
+784,784,MALANG,2.1.6 Dangerous,Grade 10,Ainur,B,1,Present,2025-12-29,449
+785,785,MALANG,2.1.6 Dangerous,Grade 10,Ainur,C,1,Present,2025-11-05,451
+786,786,MALANG,2.1.6 Dangerous,Grade 10,Devi,A,1,Present,2025-09-18,448
+787,787,MALANG,2.1.6 Dangerous,Grade 10,Devi,B,1,Present,2025-12-29,449
+788,788,MALANG,2.1.6 Dangerous,Grade 10,Devi,C,1,Present,2025-11-05,450
+789,789,MALANG,2.1.6 Dangerous,Grade 10,Fajar,A,1,Present,2025-09-18,448
+790,790,MALANG,2.1.6 Dangerous,Grade 10,Fajar,B,1,Present,2025-12-29,449
+791,791,MALANG,2.2.1 Aerostatics,Grade 10,Ainur,A,1,Present,2025-09-11,452
+792,792,MALANG,2.2.1 Aerostatics,Grade 10,Ainur,B,1,Present,2026-01-14,453
+793,793,MALANG,2.2.1 Aerostatics,Grade 10,Ainur,C,1,Present,2025-11-11,455
+794,794,MALANG,2.2.1 Aerostatics,Grade 10,Devi,A,1,Present,2025-09-11,452
+795,795,MALANG,2.2.1 Aerostatics,Grade 10,Devi,B,1,Present,2026-01-14,453
+796,796,MALANG,2.2.1 Aerostatics,Grade 10,Devi,C,1,Present,2025-12-01,454
+797,797,MALANG,2.2.1 Aerostatics,Grade 10,Fajar,A,1,Present,2025-09-11,452
+798,798,MALANG,2.2.1 Aerostatics,Grade 10,Fajar,B,1,Present,2026-01-14,453
+799,799,MALANG,2.3.1 Intro,Grade 10,Ainur,A,1,Present,2025-09-12,456
+800,800,MALANG,2.3.1 Intro,Grade 10,Ainur,B,1,Present,2026-01-15,457
+801,801,MALANG,2.3.1 Intro,Grade 10,Ainur,C,1,Present,2025-11-11,459
+802,802,MALANG,2.3.1 Intro,Grade 10,Devi,A,1,Present,2025-09-12,456
+803,803,MALANG,2.3.1 Intro,Grade 10,Devi,B,1,Present,2026-01-15,457
+804,804,MALANG,2.3.1 Intro,Grade 10,Devi,C,1,Present,2025-12-01,458
+805,805,MALANG,2.3.1 Intro,Grade 10,Fajar,A,1,Present,2025-09-12,456
+806,806,MALANG,2.3.1 Intro,Grade 10,Fajar,B,1,Present,2026-01-15,457
+807,807,MALANG,2.3.2 Flow airfoil,Grade 10,Ainur,A,1,Present,2025-09-15,460
+808,808,MALANG,2.3.2 Flow airfoil,Grade 10,Ainur,B,1,Present,2026-03-02,461
+809,809,MALANG,2.3.2 Flow airfoil,Grade 10,Ainur,C,1,Present,2025-11-12,463
+810,810,MALANG,2.3.2 Flow airfoil,Grade 10,Devi,A,1,Remedial,2025-09-15,460
+811,811,MALANG,2.3.2 Flow airfoil,Grade 10,Devi,B,1,Present,2026-03-02,461
+812,812,MALANG,2.3.2 Flow airfoil,Grade 10,Devi,C,1,Present,2025-11-12,462
+813,813,MALANG,2.3.2 Flow airfoil,Grade 10,Fajar,A,1,Present,2025-09-15,460
+814,814,MALANG,2.3.2 Flow airfoil,Grade 10,Fajar,B,1,Present,2026-03-02,461
+815,815,MALANG,2.3.3 Boundary layer,Grade 10,Ainur,A,1,Present,2025-09-16,464
+816,816,MALANG,2.3.3 Boundary layer,Grade 10,Ainur,B,1,Present,2026-03-02,465
+817,817,MALANG,2.3.3 Boundary layer,Grade 10,Ainur,C,1,Present,2025-11-12,467
+818,818,MALANG,2.3.3 Boundary layer,Grade 10,Devi,A,1,Present,2025-09-16,464
+819,819,MALANG,2.3.3 Boundary layer,Grade 10,Devi,B,1,Present,2026-03-02,465
+820,820,MALANG,2.3.3 Boundary layer,Grade 10,Devi,C,1,Present,2025-11-12,466
+821,821,MALANG,2.3.3 Boundary layer,Grade 10,Fajar,A,1,Present,2025-09-16,464
+822,822,MALANG,2.3.3 Boundary layer,Grade 10,Fajar,B,1,Present,2026-03-02,465
+823,823,MALANG,2.3.4 Profile,Grade 10,Ainur,A,1,Present,2025-09-17,468
+824,824,MALANG,2.3.4 Profile,Grade 10,Ainur,B,1,Present,2026-03-02,469
+825,825,MALANG,2.3.4 Profile,Grade 10,Ainur,C,1,Present,2025-11-12,471
+826,826,MALANG,2.3.4 Profile,Grade 10,Devi,A,1,Present,2025-09-17,468
+827,827,MALANG,2.3.4 Profile,Grade 10,Devi,B,1,Present,2026-03-02,469
+828,828,MALANG,2.3.4 Profile,Grade 10,Devi,C,1,Present,2025-12-03,470
+829,829,MALANG,2.3.4 Profile,Grade 10,Fajar,A,1,Present,2025-09-17,468
+830,830,MALANG,2.3.4 Profile,Grade 10,Fajar,B,1,Present,2026-03-02,469
+831,831,MALANG,2.4.1 Theory of lfight,Grade 10,Ainur,A,1,Present,2025-08-25,472
+832,832,MALANG,2.4.1 Theory of lfight,Grade 10,Ainur,B,1,Present,2025-11-13,473
+833,833,MALANG,2.4.1 Theory of lfight,Grade 10,Ainur,C,1,Present,2025-10-26,478
+834,834,MALANG,2.4.1 Theory of lfight,Grade 10,Alif,A,1,Optional,2025-08-25,472
+835,835,MALANG,2.4.1 Theory of lfight,Grade 10,Annisa,A,1,Present,2025-08-25,472
+836,836,MALANG,2.4.1 Theory of lfight,Grade 10,Annisa,C,1,Present,2026-07-30,476
+837,837,MALANG,2.4.1 Theory of lfight,Grade 10,Devi,A,1,Present,2025-08-25,472
+838,838,MALANG,2.4.1 Theory of lfight,Grade 10,Devi,B,1,Present,2025-11-13,473
+839,839,MALANG,2.4.1 Theory of lfight,Grade 10,Devi,C,1,Present,2025-10-26,477
+840,840,MALANG,2.4.1 Theory of lfight,Grade 10,Faiz,A,1,Present,2025-08-25,472
+841,841,MALANG,2.4.1 Theory of lfight,Grade 10,Faiz,B,1,Present,2025-11-13,473
+842,842,MALANG,2.4.1 Theory of lfight,Grade 10,Faiz,C,1,Present,2026-07-17,475
+843,843,MALANG,2.4.1 Theory of lfight,Grade 10,Fajar,A,1,Present,2025-08-25,472
+844,844,MALANG,2.4.1 Theory of lfight,Grade 10,Fajar,B,1,Present,2025-11-13,473
+845,845,MALANG,2.4.1 Theory of lfight,Grade 10,Tasya,A,1,Present,2025-08-25,472
+846,846,MALANG,2.4.1 Theory of lfight,Grade 10,Tasya,B,1,Present,2025-11-13,473
+847,847,MALANG,2.4.1 Theory of lfight,Grade 10,Tasya,C,1,Present,2026-07-15,474
+848,848,MALANG,2.5.1 A/C diversity,Grade 10,Ainur,A,1,Present,2025-09-21,479
+849,849,MALANG,2.5.1 A/C diversity,Grade 10,Ainur,B,1,Present,2026-01-20,480
+850,850,MALANG,2.5.1 A/C diversity,Grade 10,Ainur,C,1,Present,2025-11-04,482
+851,851,MALANG,2.5.1 A/C diversity,Grade 10,Devi,A,1,Present,2025-09-21,479
+852,852,MALANG,2.5.1 A/C diversity,Grade 10,Devi,B,1,Present,2026-01-20,480
+853,853,MALANG,2.5.1 A/C diversity,Grade 10,Devi,C,1,Present,2025-11-04,481
+854,854,MALANG,2.5.1 A/C diversity,Grade 10,Fajar,A,1,Present,2025-09-21,479
+855,855,MALANG,2.5.1 A/C diversity,Grade 10,Fajar,B,1,Present,2026-01-20,480
+856,856,MALANG,3A.1.1 History design,Grade 10,Ainur,A,1,Present,2025-08-27,483
+857,857,MALANG,3A.1.1 History design,Grade 10,Ainur,B,1,Present,2025-11-18,484
+858,858,MALANG,3A.1.1 History design,Grade 10,Ainur,C,1,Present,2025-11-17,488
+859,859,MALANG,3A.1.1 History design,Grade 10,Akhmad,A,1,Present,2025-08-27,483
+860,860,MALANG,3A.1.1 History design,Grade 10,Akhmad,B,1,Present,2025-11-18,484
+861,861,MALANG,3A.1.1 History design,Grade 10,Arifah,A,1,Present,2025-08-27,483
+862,862,MALANG,3A.1.1 History design,Grade 10,Arifah,B,1,Present,2025-11-18,484
+863,863,MALANG,3A.1.1 History design,Grade 10,Arifah,C,1,Present,2026-07-17,486
+864,864,MALANG,3A.1.1 History design,Grade 10,Bima,A,1,Present,2025-08-27,483
+865,865,MALANG,3A.1.1 History design,Grade 10,Bima,B,1,Present,2025-11-18,484
+866,866,MALANG,3A.1.1 History design,Grade 10,Bima,C,1,Present,2026-07-16,485
+867,867,MALANG,3A.1.1 History design,Grade 10,Devi,A,1,Present,2025-08-27,483
+868,868,MALANG,3A.1.1 History design,Grade 10,Devi,B,1,Present,2025-11-18,484
+869,869,MALANG,3A.1.1 History design,Grade 10,Devi,C,1,Failed,2025-11-17,487
+870,870,MALANG,3A.1.1 History design,Grade 10,Devi,C,2,Present,,
+871,871,MALANG,3A.1.1 History design,Grade 10,Fajar,A,1,Present,2025-08-27,483
+872,872,MALANG,3A.1.1 History design,Grade 10,Fajar,B,1,Present,2025-11-18,484
+873,873,MALANG,3A.2.1 Design,Grade 10,Arifah,A,1,Present,2025-09-15,489
+874,874,MALANG,3A.2.1 Design,Grade 10,Arifah,B,1,Present,2026-02-04,490
+875,875,MALANG,3A.2.1 Design,Grade 10,Arifah,C,1,Present,2025-11-06,492
+876,876,MALANG,3A.2.1 Design,Grade 10,Bima,A,1,Present,2025-09-15,489
+877,877,MALANG,3A.2.1 Design,Grade 10,Bima,B,1,Present,2026-02-04,490
+878,878,MALANG,3A.2.1 Design,Grade 10,Bima,C,1,Present,2025-11-06,491
+879,879,MALANG,3A.3.1,Grade 10,Arifah,A,1,Present,2026-01-22,610
+880,880,MALANG,3A.3.1,Grade 10,Arifah,B,1,Present,2026-03-04,222
+881,881,MALANG,3A.3.1,Grade 10,Arifah,C,1,Failed,2026-05-21,612
+882,882,MALANG,3A.3.1,Grade 10,Arifah,C,2,Present,2026-06-09,613
+883,883,MALANG,3A.3.1,Grade 10,Bima,A,1,Present,2026-01-22,610
+884,884,MALANG,3A.3.1,Grade 10,Bima,B,1,Present,2026-03-04,222
+885,885,MALANG,3A.3.1,Grade 10,Bima,C,1,Present,2026-04-27,611
+886,886,MALANG,3A.3.1,Grade 10,Faiz,C,1,Optional,,
+887,887,MALANG,3A.3.1,Grade 10,Tasya,C,1,Optional,,
+888,888,MALANG,3A.3.2,Grade 10,Arifah,A,1,Present,2026-01-27,614
+889,889,MALANG,3A.3.2,Grade 10,Arifah,B,1,Present,2026-03-11,615
+890,890,MALANG,3A.3.2,Grade 10,Arifah,C,1,Present,2026-06-10,617
+891,891,MALANG,3A.3.2,Grade 10,Bima,A,1,Present,2026-01-27,614
+892,892,MALANG,3A.3.2,Grade 10,Bima,B,1,Present,2026-03-11,615
+893,893,MALANG,3A.3.2,Grade 10,Bima,C,1,Present,2026-06-04,616
+894,894,MALANG,3B.1.1 Basic of design,Grade 11,Akhmad,A,1,Present,2026-03-05,657
+895,895,MALANG,3B.1.1 Basic of design,Grade 11,Arifah,A,1,Present,2026-03-05,657
+896,896,MALANG,3B.1.1 Basic of design,Grade 11,Arifah,A,1,Absent,2026-04-30,754
+897,897,MALANG,3B.1.1 Basic of design,Grade 11,Arifah,B,1,Present,2026-05-06,658
+898,898,MALANG,3B.1.1 Basic of design,Grade 11,Arifah,B,1,Present,2026-05-06,658
+899,899,MALANG,3B.1.1 Basic of design,Grade 11,Arifah,C,1,Present,2026-08-05,660
+900,900,MALANG,3B.1.1 Basic of design,Grade 11,Bima,A,1,Present,2026-03-05,657
+901,901,MALANG,3B.1.1 Basic of design,Grade 11,Bima,A,1,Present,2026-04-30,754
+902,902,MALANG,3B.1.1 Basic of design,Grade 11,Bima,B,1,Present,2026-05-06,658
+903,903,MALANG,3B.1.1 Basic of design,Grade 11,Bima,B,1,Present,2026-05-06,658
+904,904,MALANG,3B.1.1 Basic of design,Grade 11,Bima,C,1,Present,2026-08-06,659
+905,905,MALANG,3B.1.2 Design eng.,Grade 11,Akhmad,A,1,Present,2026-03-05,661
+906,906,MALANG,3B.1.2 Design eng.,Grade 11,Arifah,A,1,Present,2026-03-05,661
+907,907,MALANG,3B.1.2 Design eng.,Grade 11,Arifah,A,1,Present,2026-04-30,755
+908,908,MALANG,3B.1.2 Design eng.,Grade 11,Arifah,B,1,Present,2026-05-18,756
+909,909,MALANG,3B.1.2 Design eng.,Grade 11,Arifah,C,1,Present,2026-08-07,662
+910,910,MALANG,3B.1.2 Design eng.,Grade 11,Bima,A,1,Present,2026-03-05,661
+911,911,MALANG,3B.1.2 Design eng.,Grade 11,Bima,A,1,Present,2026-04-30,755
+912,912,MALANG,3B.1.2 Design eng.,Grade 11,Bima,B,1,Present,2026-05-18,756
+913,913,MALANG,3B.2.1 Meteorological,Grade 11,Akhmad,A,1,Present,2026-03-09,663
+914,914,MALANG,3B.2.1 Meteorological,Grade 11,Arifah,A,1,Absent,2026-03-09,663
+915,915,MALANG,3B.2.1 Meteorological,Grade 11,Arifah,A,1,Present,2026-05-10,757
+916,916,MALANG,3B.2.1 Meteorological,Grade 11,Arifah,B,1,Present,2026-05-13,664
+917,917,MALANG,3B.2.1 Meteorological,Grade 11,Arifah,B,1,Present,2026-05-24,758
+918,918,MALANG,3B.2.1 Meteorological,Grade 11,Bima,A,1,Present,2026-03-09,663
+919,919,MALANG,3B.2.1 Meteorological,Grade 11,Bima,A,1,Present,2026-05-10,757
+920,920,MALANG,3B.2.1 Meteorological,Grade 11,Bima,B,1,Present,2026-05-13,664
+921,921,MALANG,3B.2.1 Meteorological,Grade 11,Bima,B,1,Present,2026-05-24,758
+922,922,MALANG,3B.2.1 Meteorological,Grade 11,Bima,C,1,Present,2026-08-06,665
+923,923,MALANG,3B.2.1 Meteorological,Grade 11,Fajar,A,1,Present,2026-03-09,663
+924,924,MALANG,3B.2.2 Aerodynamic,Grade 11,Arifah,A,1,Absent,2026-03-09,666
+925,925,MALANG,3B.2.2 Aerodynamic,Grade 11,Arifah,A,1,Present,2026-05-18,759
+926,926,MALANG,3B.2.2 Aerodynamic,Grade 11,Arifah,B,1,Present,2026-05-13,667
+927,927,MALANG,3B.2.2 Aerodynamic,Grade 11,Arifah,B,1,Present,2026-05-26,760
+928,928,MALANG,3B.2.2 Aerodynamic,Grade 11,Bima,A,1,Present,2026-03-09,666
+929,929,MALANG,3B.2.2 Aerodynamic,Grade 11,Bima,A,1,Present,2026-05-18,759
+930,930,MALANG,3B.2.2 Aerodynamic,Grade 11,Bima,B,1,Present,2026-05-13,667
+931,931,MALANG,3B.2.2 Aerodynamic,Grade 11,Bima,B,1,Present,2026-05-26,760
+932,932,MALANG,3B.2.3 Regulation,Grade 11,Arifah,B,1,Present,2026-05-26,668
+933,933,MALANG,3B.2.3 Regulation,Grade 11,Bima,B,1,Present,2026-05-26,668
+934,934,MALANG,3B.3.1 Technique in 3D,Grade 11,Arifah,A,1,Present,2026-03-11,669
+935,935,MALANG,3B.3.1 Technique in 3D,Grade 11,Arifah,A,1,Present,2026-05-13,761
+936,936,MALANG,3B.3.1 Technique in 3D,Grade 11,Arifah,B,1,Present,2026-05-28,670
+937,937,MALANG,3B.3.1 Technique in 3D,Grade 11,Arifah,B,1,Present,2026-05-10,762
+938,938,MALANG,3B.3.1 Technique in 3D,Grade 11,Bima,A,1,Present,2026-03-11,669
+939,939,MALANG,3B.3.1 Technique in 3D,Grade 11,Bima,A,1,Present,2026-05-13,761
+940,940,MALANG,3B.3.1 Technique in 3D,Grade 11,Bima,B,1,Present,2026-05-28,670
+941,941,MALANG,3B.3.1 Technique in 3D,Grade 11,Bima,B,1,Present,2026-05-10,762
+942,942,MALANG,3B.3.1 Technique in 3D,Grade 11,Bima,C,1,Present,,
+943,943,MALANG,3B.3.2 Basic project CAD,Grade 11,Akhmad,A,1,Present,2026-08-20,671
+944,944,MALANG,3B.3.2 Basic project CAD,Grade 11,Arifah,A,1,Absent,2026-08-20,671
+945,945,MALANG,3B.3.2 Basic project CAD,Grade 11,Bima,A,1,Present,2026-08-20,671
+946,946,MALANG,4A.1.1 Types ENG,Grade 10,Akhmad,A,1,Present,2025-08-26,493
+947,947,MALANG,4A.1.1 Types ENG,Grade 10,Akhmad,C,1,Present,2026-07-29,496
+948,948,MALANG,4A.1.1 Types ENG,Grade 10,Arifah,A,1,Present,2025-08-26,493
+949,949,MALANG,4A.1.1 Types ENG,Grade 10,Arifah,B,1,Present,2025-11-19,494
+950,950,MALANG,4A.1.1 Types ENG,Grade 10,Arifah,C,1,Present,2025-10-08,497
+951,951,MALANG,4A.1.1 Types ENG,Grade 10,Bima,A,1,Present,2025-08-26,493
+952,952,MALANG,4A.1.1 Types ENG,Grade 10,Bima,B,1,Present,2025-11-19,494
+953,953,MALANG,4A.1.1 Types ENG,Grade 10,Bima,C,1,Present,2025-10-08,495
+954,954,MALANG,4A.1.2 Act react,Grade 10,Arifah,A,1,Present,2025-08-28,498
+955,955,MALANG,4A.1.2 Act react,Grade 10,Arifah,B,1,Present,2026-03-03,499
+956,956,MALANG,4A.1.2 Act react,Grade 10,Arifah,C,1,Present,2025-10-09,501
+957,957,MALANG,4A.1.2 Act react,Grade 10,Bima,A,1,Present,2025-08-28,498
+958,958,MALANG,4A.1.2 Act react,Grade 10,Bima,B,1,Present,2026-03-03,499
+959,959,MALANG,4A.1.2 Act react,Grade 10,Bima,C,1,Present,2025-10-09,500
+960,960,MALANG,4A.1.2 Act react,Grade 10,Faiz,A,1,Optional,2025-08-28,498
+961,961,MALANG,4A.1.3 Component,Grade 10,Akhmad,A,1,Present,2025-09-01,502
+962,962,MALANG,4A.1.3 Component,Grade 10,Akhmad,C,1,Present,2026-08-05,505
+963,963,MALANG,4A.1.3 Component,Grade 10,Annisa,A,1,Present,2025-09-01,502
+964,964,MALANG,4A.1.3 Component,Grade 10,Annisa,C,1,Present,2026-08-06,503
+965,965,MALANG,4A.1.3 Component,Grade 10,Arifah,A,1,Present,2025-09-01,502
+966,966,MALANG,4A.1.3 Component,Grade 10,Arifah,B,1,Present,2026-02-09,87
+967,967,MALANG,4A.1.3 Component,Grade 10,Arifah,C,1,Present,2025-10-09,506
+968,968,MALANG,4A.1.3 Component,Grade 10,Bima,A,1,Present,2025-09-01,502
+969,969,MALANG,4A.1.3 Component,Grade 10,Bima,B,1,Present,2026-02-09,87
+970,970,MALANG,4A.1.3 Component,Grade 10,Bima,C,1,Present,2025-10-09,504
+971,971,MALANG,4A.1.4 Power up,Grade 10,Akhmad,A,1,Present,2025-09-02,507
+972,972,MALANG,4A.1.4 Power up,Grade 10,Akhmad,C,1,Present,2026-08-06,510
+973,973,MALANG,4A.1.4 Power up,Grade 10,Annisa,A,1,Present,2025-09-02,507
+974,974,MALANG,4A.1.4 Power up,Grade 10,Arifah,A,1,Remedial,2025-09-02,507
+975,975,MALANG,4A.1.4 Power up,Grade 10,Arifah,B,1,Present,2026-02-10,508
+976,976,MALANG,4A.1.4 Power up,Grade 10,Arifah,C,1,Present,2025-11-11,511
+977,977,MALANG,4A.1.4 Power up,Grade 10,Bima,A,1,Present,2025-09-02,507
+978,978,MALANG,4A.1.4 Power up,Grade 10,Bima,B,1,Present,2026-02-10,508
+979,979,MALANG,4A.1.4 Power up,Grade 10,Bima,C,1,Present,2025-11-11,509
+980,980,MALANG,4A.1.5 Lub and fuel,Grade 10,Akhmad,A,1,Present,2025-09-03,512
+981,981,MALANG,4A.1.5 Lub and fuel,Grade 10,Akhmad,C,1,Present,2026-08-12,515
+982,982,MALANG,4A.1.5 Lub and fuel,Grade 10,Arifah,A,1,Present,2025-09-03,512
+983,983,MALANG,4A.1.5 Lub and fuel,Grade 10,Arifah,B,1,Present,2026-02-10,513
+984,984,MALANG,4A.1.5 Lub and fuel,Grade 10,Arifah,C,1,Present,2025-11-10,516
+985,985,MALANG,4A.1.5 Lub and fuel,Grade 10,Bima,A,1,Present,2025-09-03,512
+986,986,MALANG,4A.1.5 Lub and fuel,Grade 10,Bima,B,1,Present,2026-02-10,513
+987,987,MALANG,4A.1.5 Lub and fuel,Grade 10,Bima,C,1,Present,2025-11-10,514
+988,988,MALANG,4A.1.6 Indicating,Grade 10,Akhmad,A,1,Present,2025-09-04,517
+989,989,MALANG,4A.1.6 Indicating,Grade 10,Arifah,A,1,Present,2025-09-04,517
+990,990,MALANG,4A.1.6 Indicating,Grade 10,Arifah,A,1,Present,2026-02-04,618
+991,991,MALANG,4A.1.6 Indicating,Grade 10,Arifah,B,1,Present,2026-02-09,101
+992,992,MALANG,4A.1.6 Indicating,Grade 10,Arifah,C,1,Present,2025-11-09,519
+993,993,MALANG,4A.1.6 Indicating,Grade 10,Bima,A,1,Present,2025-09-04,517
+994,994,MALANG,4A.1.6 Indicating,Grade 10,Bima,A,1,Present,2026-02-04,618
+995,995,MALANG,4A.1.6 Indicating,Grade 10,Bima,B,1,Present,2026-02-09,101
+996,996,MALANG,4A.1.6 Indicating,Grade 10,Bima,C,1,Present,2025-11-09,518
+997,997,MALANG,4A.2.1 General,Grade 10,Akhmad,A,1,Present,2025-08-13,520
+998,998,MALANG,4A.2.1 General,Grade 10,Arifah,A,1,Present,2025-08-13,520
+999,999,MALANG,4A.2.1 General,Grade 10,Arifah,B,1,Present,2026-01-28,521
+1000,1000,MALANG,4A.2.1 General,Grade 10,Arifah,C,1,Present,2025-09-30,523
+1001,1001,MALANG,4A.2.1 General,Grade 10,Bima,A,1,Present,2025-08-13,520
+1002,1002,MALANG,4A.2.1 General,Grade 10,Bima,B,1,Present,2026-01-28,521
+1003,1003,MALANG,4A.2.1 General,Grade 10,Bima,C,1,Present,2025-09-30,522
+1004,1004,MALANG,4A.2.2 Main,Grade 10,Akhmad,A,1,Present,2025-08-14,524
+1005,1005,MALANG,4A.2.2 Main,Grade 10,Akhmad,C,1,Present,2026-08-20,527
+1006,1006,MALANG,4A.2.2 Main,Grade 10,Arifah,A,1,Present,2025-08-14,524
+1007,1007,MALANG,4A.2.2 Main,Grade 10,Arifah,A,1,Present,2026-04-29,619
+1008,1008,MALANG,4A.2.2 Main,Grade 10,Arifah,B,1,Present,2026-01-28,525
+1009,1009,MALANG,4A.2.2 Main,Grade 10,Arifah,B,1,Present,2026-05-05,620
+1010,1010,MALANG,4A.2.2 Main,Grade 10,Arifah,C,1,Present,2025-10-01,528
+1011,1011,MALANG,4A.2.2 Main,Grade 10,Bima,A,1,Present,2025-08-14,524
+1012,1012,MALANG,4A.2.2 Main,Grade 10,Bima,A,1,Present,2026-04-29,619
+1013,1013,MALANG,4A.2.2 Main,Grade 10,Bima,B,1,Present,2026-01-28,525
+1014,1014,MALANG,4A.2.2 Main,Grade 10,Bima,B,1,Present,2026-05-05,620
+1015,1015,MALANG,4A.2.2 Main,Grade 10,Bima,C,1,Present,2025-10-01,526
+1016,1016,MALANG,4A.2.3 Method,Grade 10,Akhmad,A,1,Present,2025-08-19,529
+1017,1017,MALANG,4A.2.3 Method,Grade 10,Arifah,A,1,Present,2025-08-19,529
+1018,1018,MALANG,4A.2.3 Method,Grade 10,Arifah,B,1,Present,2026-02-23,530
+1019,1019,MALANG,4A.2.3 Method,Grade 10,Arifah,C,1,Present,2025-10-02,532
+1020,1020,MALANG,4A.2.3 Method,Grade 10,Bima,A,1,Present,2025-08-19,529
+1021,1021,MALANG,4A.2.3 Method,Grade 10,Bima,B,1,Present,2026-02-23,530
+1022,1022,MALANG,4A.2.3 Method,Grade 10,Bima,C,1,Present,2025-10-02,531
+1023,1023,MALANG,4A.3.1 Main,Grade 10,Arifah,A,1,Present,2025-09-18,533
+1024,1024,MALANG,4A.3.1 Main,Grade 10,Arifah,B,1,Present,2026-01-21,534
+1025,1025,MALANG,4A.3.1 Main,Grade 10,Arifah,C,1,Present,2025-10-07,536
+1026,1026,MALANG,4A.3.1 Main,Grade 10,Bima,A,1,Present,2025-09-18,533
+1027,1027,MALANG,4A.3.1 Main,Grade 10,Bima,B,1,Present,2026-01-21,534
+1028,1028,MALANG,4A.3.1 Main,Grade 10,Bima,C,1,Present,2025-10-07,535
+1029,1029,MALANG,4A.3.2 Corrosion,Grade 10,Arifah,A,1,Present,2025-09-23,537
+1030,1030,MALANG,4A.3.2 Corrosion,Grade 10,Arifah,B,1,Present,2026-01-21,538
+1031,1031,MALANG,4A.3.2 Corrosion,Grade 10,Arifah,C,1,Present,2025-11-12,540
+1032,1032,MALANG,4A.3.2 Corrosion,Grade 10,Bima,A,1,Present,2025-09-23,537
+1033,1033,MALANG,4A.3.2 Corrosion,Grade 10,Bima,B,1,Present,2026-01-21,538
+1034,1034,MALANG,4A.3.2 Corrosion,Grade 10,Bima,C,1,Present,2025-11-12,539
+1035,1035,MALANG,4A.3.3 Hardware,Grade 10,Arifah,A,1,Present,2025-09-23,541
+1036,1036,MALANG,4A.3.3 Hardware,Grade 10,Arifah,B,1,Present,2026-02-23,542
+1037,1037,MALANG,4A.3.3 Hardware,Grade 10,Arifah,C,1,Present,2025-11-13,544
+1038,1038,MALANG,4A.3.3 Hardware,Grade 10,Bima,A,1,Present,2025-09-23,541
+1039,1039,MALANG,4A.3.3 Hardware,Grade 10,Bima,B,1,Present,2026-02-23,542
+1040,1040,MALANG,4A.3.3 Hardware,Grade 10,Bima,C,1,Present,2025-11-13,543
+1041,1041,MALANG,4B.1.1 Composite material,Grade 11,Annisa,A,1,Present,2026-03-02,672
+1042,1042,MALANG,4B.1.1 Composite material,Grade 11,Annisa,B,1,Present,2026-11-08,673
+1043,1043,MALANG,4B.1.1 Composite material,Grade 11,Faiz,A,1,Present,2026-03-02,672
+1044,1044,MALANG,4B.1.1 Composite material,Grade 11,Faiz,B,1,Present,2026-11-08,673
+1045,1045,MALANG,4B.1.1 Composite material,Grade 11,Faiz,C,1,Present,2026-04-27,675
+1046,1046,MALANG,4B.1.1 Composite material,Grade 11,Tasya,A,1,Present,2026-03-02,672
+1047,1047,MALANG,4B.1.1 Composite material,Grade 11,Tasya,B,1,Present,2026-11-08,673
+1048,1048,MALANG,4B.1.1 Composite material,Grade 11,Tasya,C,1,Present,2026-04-27,674
+1049,1049,MALANG,4B.1.2 Material selection,Grade 11,Annisa,B,1,Absent,2026-08-18,676
+1050,1050,MALANG,4B.1.2 Material selection,Grade 11,Faiz,A,1,Present,2026-03-02,292
+1051,1051,MALANG,4B.1.2 Material selection,Grade 11,Faiz,B,1,Present,2026-08-18,676
+1052,1052,MALANG,4B.1.2 Material selection,Grade 11,Faiz,C,1,Present,2026-04-29,678
+1053,1053,MALANG,4B.1.2 Material selection,Grade 11,Tasya,A,1,Present,2026-03-02,292
+1054,1054,MALANG,4B.1.2 Material selection,Grade 11,Tasya,B,1,Present,2026-08-18,676
+1055,1055,MALANG,4B.1.2 Material selection,Grade 11,Tasya,C,1,Present,2026-05-21,677
+1056,1056,MALANG,4B.1.3 Ferrous and other,Grade 11,Akhmad,A,1,Present,2026-03-03,679
+1057,1057,MALANG,4B.1.3 Ferrous and other,Grade 11,Annisa,A,1,Present,2026-03-03,679
+1058,1058,MALANG,4B.1.3 Ferrous and other,Grade 11,Faiz,A,1,Present,2026-03-03,679
+1059,1059,MALANG,4B.1.3 Ferrous and other,Grade 11,Faiz,C,1,Present,2026-07-28,681
+1060,1060,MALANG,4B.1.3 Ferrous and other,Grade 11,Tasya,A,1,Present,2026-03-03,679
+1061,1061,MALANG,4B.1.3 Ferrous and other,Grade 11,Tasya,C,1,Present,2026-07-28,680
+1062,1062,MALANG,4B.2.1 Fateners,Grade 11,Akhmad,A,1,Failed,2026-03-03,682
+1063,1063,MALANG,4B.2.1 Fateners,Grade 11,Faiz,A,1,Present,2026-03-03,682
+1064,1064,MALANG,4B.2.1 Fateners,Grade 11,Faiz,C,1,Present,2026-05-06,684
+1065,1065,MALANG,4B.2.1 Fateners,Grade 11,Tasya,A,1,Present,2026-03-03,682
+1066,1066,MALANG,4B.2.1 Fateners,Grade 11,Tasya,C,1,Present,2026-05-06,683
+1067,1067,MALANG,4B.2.2 Electrical Cables,Grade 11,Faiz,A,1,Present,2026-03-10,686
+1068,1068,MALANG,4B.2.2 Electrical Cables,Grade 11,Faiz,C,1,Present,2026-07-29,688
+1069,1069,MALANG,4B.2.2 Electrical Cables,Grade 11,Tasya,A,1,Present,2026-03-10,686
+1070,1070,MALANG,4B.2.2 Electrical Cables,Grade 11,Tasya,C,1,Present,2026-05-13,687
+1071,1071,MALANG,4B.3.1 Flight controls,Grade 11,Annisa,A,1,Present,2026-03-03,689
+1072,1072,MALANG,4B.3.1 Flight controls,Grade 11,Arifah,A,1,Present,2026-03-03,689
+1073,1073,MALANG,4B.3.1 Flight controls,Grade 11,Arifah,C,1,Present,2026-07-28,691
+1074,1074,MALANG,4B.3.1 Flight controls,Grade 11,Bima,A,1,Absent,2026-03-03,689
+1075,1075,MALANG,4B.3.1 Flight controls,Grade 11,Bima,C,1,Present,2026-05-07,690
+1076,1076,MALANG,4B.3.2 Fuel system,Grade 11,Arifah,A,1,Present,2026-03-03,692
+1077,1077,MALANG,4B.3.2 Fuel system,Grade 11,Arifah,A,1,Present,2026-05-05,763
+1078,1078,MALANG,4B.3.2 Fuel system,Grade 11,Arifah,B,1,Present,2026-05-07,693
+1079,1079,MALANG,4B.3.2 Fuel system,Grade 11,Arifah,B,1,Present,2026-05-07,693
+1080,1080,MALANG,4B.3.2 Fuel system,Grade 11,Bima,A,1,Absent,2026-03-03,692
+1081,1081,MALANG,4B.3.2 Fuel system,Grade 11,Bima,A,1,Present,2026-05-05,763
+1082,1082,MALANG,4B.3.2 Fuel system,Grade 11,Bima,B,1,Present,2026-05-07,693
+1083,1083,MALANG,4B.3.2 Fuel system,Grade 11,Bima,B,1,Present,2026-05-07,693
+1084,1084,MALANG,4B.3.3 Hydraulic power,Grade 11,Arifah,A,1,Present,2026-03-10,694
+1085,1085,MALANG,4B.3.3 Hydraulic power,Grade 11,Arifah,C,1,Present,2026-07-30,695
+1086,1086,MALANG,4B.3.3 Hydraulic power,Grade 11,Bima,A,1,Present,2026-03-10,694
+1087,1087,MALANG,4B.3.4 Landing gear,Grade 11,Arifah,A,1,Present,2026-03-04,696
+1088,1088,MALANG,4B.3.4 Landing gear,Grade 11,Arifah,C,1,Present,2026-05-26,698
+1089,1089,MALANG,4B.3.4 Landing gear,Grade 11,Bima,A,1,Present,2026-03-04,696
+1090,1090,MALANG,4B.3.4 Landing gear,Grade 11,Bima,C,1,Present,2026-08-07,697
+1091,1091,MALANG,4B.3.5 Ice and rain prot.,Grade 11,Arifah,A,1,Present,2026-03-04,699
+1092,1092,MALANG,4B.3.5 Ice and rain prot.,Grade 11,Arifah,C,1,Present,2026-05-26,700
+1093,1093,MALANG,4B.3.5 Ice and rain prot.,Grade 11,Bima,A,1,Present,2026-03-04,699
+1094,1094,MALANG,4B.3.6 Oxygen,Grade 11,Arifah,A,1,Present,2026-03-11,701
+1095,1095,MALANG,4B.3.6 Oxygen,Grade 11,Bima,A,1,Present,2026-03-11,701
+1096,1096,MALANG,4B.3.7 Air cond.,Grade 11,Akhmad,A,1,Present,2026-03-12,702
+1097,1097,MALANG,4B.3.7 Air cond.,Grade 11,Arifah,A,1,Present,2026-03-12,702
+1098,1098,MALANG,4B.3.7 Air cond.,Grade 11,Arifah,C,1,Present,2026-05-26,703
+1099,1099,MALANG,4B.3.7 Air cond.,Grade 11,Bima,A,1,Present,2026-03-12,702
+1100,1100,MALANG,4B.3.8 Cabin press.,Grade 11,Arifah,A,1,Present,2026-03-12,704
+1101,1101,MALANG,4B.3.8 Cabin press.,Grade 11,Bima,A,1,Present,2026-03-12,704
+1102,1102,MALANG,5A.1.1 Cockpit,Grade 10,Ainur,C,1,Optional,,
+1103,1103,MALANG,5A.1.1 Cockpit,Grade 10,Akhmad,A,1,Present,2025-09-10,545
+1104,1104,MALANG,5A.1.1 Cockpit,Grade 10,Annisa,A,1,Present,2025-09-10,545
+1105,1105,MALANG,5A.1.1 Cockpit,Grade 10,Annisa,A,1,Present,2026-01-26,621
+1106,1106,MALANG,5A.1.1 Cockpit,Grade 10,Arifah,C,1,Optional,,
+1107,1107,MALANG,5A.1.1 Cockpit,Grade 10,Bima,C,1,Optional,,
+1108,1108,MALANG,5A.1.1 Cockpit,Grade 10,Devi,C,1,Optional,,
+1109,1109,MALANG,5A.1.1 Cockpit,Grade 10,Faiz,A,1,Present,2025-09-10,545
+1110,1110,MALANG,5A.1.1 Cockpit,Grade 10,Faiz,A,1,Present,2026-01-26,621
+1111,1111,MALANG,5A.1.1 Cockpit,Grade 10,Faiz,B,1,Present,2026-01-22,546
+1112,1112,MALANG,5A.1.1 Cockpit,Grade 10,Faiz,C,1,Present,2025-09-25,547
+1113,1113,MALANG,5A.1.1 Cockpit,Grade 10,Faiz,C,1,Present,2026-05-20,623
+1114,1114,MALANG,5A.1.1 Cockpit,Grade 10,Tasya,A,1,Present,2025-09-10,545
+1115,1115,MALANG,5A.1.1 Cockpit,Grade 10,Tasya,A,1,Present,2026-01-26,621
+1116,1116,MALANG,5A.1.1 Cockpit,Grade 10,Tasya,B,1,Present,2026-01-22,546
+1117,1117,MALANG,5A.1.1 Cockpit,Grade 10,Tasya,C,1,Present,2026-05-11,622
+1118,1118,MALANG,5A.1.2 FCS,Grade 10,Ainur,C,1,Optional,,
+1119,1119,MALANG,5A.1.2 FCS,Grade 10,Arifah,C,1,Optional,,
+1120,1120,MALANG,5A.1.2 FCS,Grade 10,Bima,C,1,Optional,,
+1121,1121,MALANG,5A.1.2 FCS,Grade 10,Devi,C,1,Optional,,
+1122,1122,MALANG,5A.1.2 FCS,Grade 10,Faiz,A,1,Present,2025-09-15,548
+1123,1123,MALANG,5A.1.2 FCS,Grade 10,Faiz,B,1,Present,2026-01-26,549
+1124,1124,MALANG,5A.1.2 FCS,Grade 10,Faiz,C,1,Present,2025-10-01,550
+1125,1125,MALANG,5A.1.2 FCS,Grade 10,Tasya,A,1,Present,2025-09-15,548
+1126,1126,MALANG,5A.1.2 FCS,Grade 10,Tasya,B,1,Present,2026-01-26,549
+1127,1127,MALANG,5A.2.1 Baro inst,Grade 10,Ainur,C,1,Optional,,
+1128,1128,MALANG,5A.2.1 Baro inst,Grade 10,Annisa,A,1,Present,2025-09-17,551
+1129,1129,MALANG,5A.2.1 Baro inst,Grade 10,Annisa,C,1,Failed,2026-08-12,554
+1130,1130,MALANG,5A.2.1 Baro inst,Grade 10,Annisa,C,2,Failed,2026-08-20,555
+1131,1131,MALANG,5A.2.1 Baro inst,Grade 10,Arifah,C,1,Optional,,
+1132,1132,MALANG,5A.2.1 Baro inst,Grade 10,Bima,C,1,Optional,,
+1133,1133,MALANG,5A.2.1 Baro inst,Grade 10,Faiz,A,1,Present,2025-09-17,551
+1134,1134,MALANG,5A.2.1 Baro inst,Grade 10,Faiz,A,1,Present,2026-01-28,624
+1135,1135,MALANG,5A.2.1 Baro inst,Grade 10,Faiz,B,1,Present,2026-01-31,552
+1136,1136,MALANG,5A.2.1 Baro inst,Grade 10,Faiz,C,1,Present,2025-10-21,553
+1137,1137,MALANG,5A.2.1 Baro inst,Grade 10,Faiz,C,1,Present,2026-05-25,626
+1138,1138,MALANG,5A.2.1 Baro inst,Grade 10,Tasya,A,1,Present,2025-09-17,551
+1139,1139,MALANG,5A.2.1 Baro inst,Grade 10,Tasya,A,1,Present,2026-01-28,624
+1140,1140,MALANG,5A.2.1 Baro inst,Grade 10,Tasya,B,1,Present,2026-01-31,552
+1141,1141,MALANG,5A.2.1 Baro inst,Grade 10,Tasya,C,1,Present,2026-06-08,625
+1142,1142,MALANG,5A.2.2 Analog digi,Grade 10,Annisa,A,1,Present,2026-01-27,627
+1143,1143,MALANG,5A.2.2 Analog digi,Grade 10,Faiz,A,1,Present,2025-09-22,556
+1144,1144,MALANG,5A.2.2 Analog digi,Grade 10,Faiz,A,1,Present,2026-01-27,627
+1145,1145,MALANG,5A.2.2 Analog digi,Grade 10,Faiz,B,1,Present,2026-02-02,557
+1146,1146,MALANG,5A.2.2 Analog digi,Grade 10,Faiz,C,1,Present,2025-10-29,558
+1147,1147,MALANG,5A.2.2 Analog digi,Grade 10,Faiz,C,1,Present,2026-08-20,628
+1148,1148,MALANG,5A.2.2 Analog digi,Grade 10,Tasya,A,1,Present,2025-09-22,556
+1149,1149,MALANG,5A.2.2 Analog digi,Grade 10,Tasya,A,1,Present,2026-01-27,627
+1150,1150,MALANG,5A.2.2 Analog digi,Grade 10,Tasya,B,1,Present,2026-02-02,557
+1151,1151,MALANG,5B.1.1 AC-DC circuit,Grade 11,Faiz,A,1,Present,2026-02-23,705
+1152,1152,MALANG,5B.1.1 AC-DC circuit,Grade 11,Faiz,C,1,Present,,
+1153,1153,MALANG,5B.1.1 AC-DC circuit,Grade 11,Tasya,A,1,Present,2026-02-23,705
+1154,1154,MALANG,5B.1.1 AC-DC circuit,Grade 11,Tasya,C,1,Present,2026-05-04,707
+1155,1155,MALANG,5B.1.2 Semiconductors,Grade 11,Faiz,A,1,Present,2026-02-24,708
+1156,1156,MALANG,5B.1.2 Semiconductors,Grade 11,Faiz,C,1,Present,2026-03-10,710
+1157,1157,MALANG,5B.1.2 Semiconductors,Grade 11,Tasya,A,1,Present,2026-02-24,708
+1158,1158,MALANG,5B.1.2 Semiconductors,Grade 11,Tasya,C,1,Present,2026-05-19,709
+1159,1159,MALANG,5B.1.3 Servomechanisms,Grade 11,Faiz,A,1,Present,2026-02-25,711
+1160,1160,MALANG,5B.1.3 Servomechanisms,Grade 11,Faiz,C,1,Present,2026-03-09,713
+1161,1161,MALANG,5B.1.3 Servomechanisms,Grade 11,Tasya,A,1,Present,2026-02-25,711
+1162,1162,MALANG,5B.1.3 Servomechanisms,Grade 11,Tasya,C,1,Present,2026-08-04,712
+1163,1163,MALANG,5B.2.1 Nav. Sys.,Grade 11,Faiz,A,1,Present,2026-03-02,714
+1164,1164,MALANG,5B.2.1 Nav. Sys.,Grade 11,Faiz,B,1,Present,2026-04-30,715
+1165,1165,MALANG,5B.2.1 Nav. Sys.,Grade 11,Faiz,C,1,Present,2026-04-16,717
+1166,1166,MALANG,5B.2.1 Nav. Sys.,Grade 11,Tasya,A,1,Present,2026-03-02,714
+1167,1167,MALANG,5B.2.1 Nav. Sys.,Grade 11,Tasya,B,1,Present,2026-04-30,715
+1168,1168,MALANG,5B.2.1 Nav. Sys.,Grade 11,Tasya,C,1,Present,2026-04-28,716
+1169,1169,MALANG,5B.3.1 Radio comm.,Grade 11,Annisa,A,1,Present,2026-03-03,718
+1170,1170,MALANG,5B.3.1 Radio comm.,Grade 11,Faiz,A,1,Present,2026-03-03,718
+1171,1171,MALANG,5B.3.1 Radio comm.,Grade 11,Faiz,C,1,Present,2026-07-31,720
+1172,1172,MALANG,5B.3.1 Radio comm.,Grade 11,Tasya,A,1,Present,2026-03-03,718
+1173,1173,MALANG,5B.3.1 Radio comm.,Grade 11,Tasya,C,1,Present,2026-08-07,719
+1174,1174,MALANG,5B.3.2 Radio Nav.,Grade 11,Faiz,A,1,Present,2026-03-04,721
+1175,1175,MALANG,5B.3.2 Radio Nav.,Grade 11,Faiz,C,1,Present,2026-08-05,723
+1176,1176,MALANG,5B.3.2 Radio Nav.,Grade 11,Tasya,A,1,Present,2026-03-04,721
+1177,1177,MALANG,5B.3.2 Radio Nav.,Grade 11,Tasya,C,1,Present,2026-07-31,722
+1178,1178,MALANG,5B.3.3 Detection,Grade 11,Faiz,A,1,Present,2026-03-05,724
+1179,1179,MALANG,5B.3.3 Detection,Grade 11,Faiz,C,1,Present,2026-08-06,726
+1180,1180,MALANG,5B.3.3 Detection,Grade 11,Tasya,A,1,Present,2026-03-05,724
+1181,1181,MALANG,5B.3.3 Detection,Grade 11,Tasya,C,1,Present,2026-08-13,725
+1182,1182,MALANG,6A.1.1 Nav rule,Grade 10,Faiz,A,1,Present,2025-08-11,559
+1183,1183,MALANG,6A.1.1 Nav rule,Grade 10,Faiz,A,1,Present,2026-04-13,629
+1184,1184,MALANG,6A.1.1 Nav rule,Grade 10,Faiz,B,1,Present,2026-01-19,560
+1185,1185,MALANG,6A.1.1 Nav rule,Grade 10,Faiz,B,1,Present,2026-04-15,630
+1186,1186,MALANG,6A.1.1 Nav rule,Grade 10,Faiz,C,1,Present,2025-11-04,561
+1187,1187,MALANG,6A.1.1 Nav rule,Grade 10,Faiz,C,1,Present,2026-05-06,632
+1188,1188,MALANG,6A.1.1 Nav rule,Grade 10,Tasya,A,1,Remedial,2025-08-11,559
+1189,1189,MALANG,6A.1.1 Nav rule,Grade 10,Tasya,A,1,Present,2026-04-13,629
+1190,1190,MALANG,6A.1.1 Nav rule,Grade 10,Tasya,B,1,Present,2026-01-19,560
+1191,1191,MALANG,6A.1.1 Nav rule,Grade 10,Tasya,B,1,Absent,2026-04-15,630
+1192,1192,MALANG,6A.1.1 Nav rule,Grade 10,Tasya,C,1,Present,2026-05-06,631
+1193,1193,MALANG,6A.1.2 Principle,Grade 10,Faiz,A,1,Present,2025-08-12,562
+1194,1194,MALANG,6A.1.2 Principle,Grade 10,Faiz,B,1,Present,2026-02-11,563
+1195,1195,MALANG,6A.1.2 Principle,Grade 10,Faiz,C,1,Present,2025-11-19,564
+1196,1196,MALANG,6A.1.2 Principle,Grade 10,Tasya,A,1,Present,2025-08-12,562
+1197,1197,MALANG,6A.1.2 Principle,Grade 10,Tasya,B,1,Present,2026-02-11,563
+1198,1198,MALANG,6A.2.1 Organisation,Grade 10,Faiz,A,1,Present,2025-08-20,565
+1199,1199,MALANG,6A.2.1 Organisation,Grade 10,Faiz,B,1,Present,2026-02-12,566
+1200,1200,MALANG,6A.2.1 Organisation,Grade 10,Faiz,C,1,Present,2025-11-17,567
+1201,1201,MALANG,6A.2.1 Organisation,Grade 10,Tasya,A,1,Present,2025-08-20,565
+1202,1202,MALANG,6A.2.1 Organisation,Grade 10,Tasya,B,1,Present,2026-02-12,566
+1203,1203,MALANG,6A.2.2 Hazards,Grade 10,Faiz,A,1,Present,2025-08-27,568
+1204,1204,MALANG,6A.2.2 Hazards,Grade 10,Faiz,A,1,Present,2026-02-17,633
+1205,1205,MALANG,6A.2.2 Hazards,Grade 10,Faiz,B,1,Present,2026-02-16,569
+1206,1206,MALANG,6A.2.2 Hazards,Grade 10,Faiz,C,1,Present,2025-11-18,570
+1207,1207,MALANG,6A.2.2 Hazards,Grade 10,Tasya,A,1,Present,2025-08-27,568
+1208,1208,MALANG,6A.2.2 Hazards,Grade 10,Tasya,A,1,Present,2026-02-17,633
+1209,1209,MALANG,6A.2.2 Hazards,Grade 10,Tasya,B,1,Present,2026-02-16,569
+1210,1210,MALANG,6A.2.3 HF,Grade 10,Faiz,A,1,Present,2025-09-04,571
+1211,1211,MALANG,6A.2.3 HF,Grade 10,Faiz,B,1,Present,2026-02-05,572
+1212,1212,MALANG,6A.2.3 HF,Grade 10,Faiz,C,1,Present,2025-10-22,573
+1213,1213,MALANG,6A.2.3 HF,Grade 10,Tasya,A,1,Present,2025-09-04,571
+1214,1214,MALANG,6A.2.3 HF,Grade 10,Tasya,B,1,Present,2026-02-05,572
+1215,1215,MALANG,7A.1.1 jobs,Grade 10,Ainur,A,1,Present,2025-08-11,177
+1216,1216,MALANG,7A.1.1 jobs,Grade 10,Ainur,B,1,Present,2025-10-21,574
+1217,1217,MALANG,7A.1.1 jobs,Grade 10,Ainur,C,1,Present,2025-09-25,577
+1218,1218,MALANG,7A.1.1 jobs,Grade 10,Devi,A,1,Present,2025-08-11,177
+1219,1219,MALANG,7A.1.1 jobs,Grade 10,Devi,B,1,Present,2025-10-21,574
+1220,1220,MALANG,7A.1.1 jobs,Grade 10,Devi,C,1,Present,2025-09-25,576
+1221,1221,MALANG,7A.1.1 jobs,Grade 10,Devi,D,1,Present,2026-08-05,575
+1222,1222,MALANG,7A.1.1 jobs,Grade 10,Fajar,A,1,Present,2025-08-11,177
+1223,1223,MALANG,7A.1.1 jobs,Grade 10,Fajar,B,1,Present,2025-10-21,574
+1224,1224,MALANG,7A.1.1 jobs,Grade 10,Fajar,C,1,Present,2026-08-05,578
+1225,1225,MALANG,7A.1.2 Jobs,Grade 10,Ainur,A,1,Present,2025-08-12,183
+1226,1226,MALANG,7A.1.2 Jobs,Grade 10,Ainur,B,1,Present,2025-10-23,579
+1227,1227,MALANG,7A.1.2 Jobs,Grade 10,Ainur,C,1,Present,2025-09-29,582
+1228,1228,MALANG,7A.1.2 Jobs,Grade 10,Ainur,D,1,Present,2026-08-11,580
+1229,1229,MALANG,7A.1.2 Jobs,Grade 10,Devi,A,1,Present,2025-08-12,183
+1230,1230,MALANG,7A.1.2 Jobs,Grade 10,Devi,B,1,Present,2025-10-23,579
+1231,1231,MALANG,7A.1.2 Jobs,Grade 10,Devi,C,1,Present,2025-09-29,581
+1232,1232,MALANG,7A.1.2 Jobs,Grade 10,Fajar,A,1,Present,2025-08-12,183
+1233,1233,MALANG,7A.1.2 Jobs,Grade 10,Fajar,B,1,Present,2025-10-23,579
+1234,1234,MALANG,7A.1.2 Jobs,Grade 10,Fajar,C,1,Present,2026-07-30,583
+1235,1235,MALANG,7A.1.3 Jobs,Grade 10,Ainur,A,1,Present,2025-08-13,189
+1236,1236,MALANG,7A.1.3 Jobs,Grade 10,Ainur,B,1,Present,2025-10-27,584
+1237,1237,MALANG,7A.1.3 Jobs,Grade 10,Ainur,C,1,Present,2025-09-30,587
+1238,1238,MALANG,7A.1.3 Jobs,Grade 10,Arifah,C,1,Optional,,
+1239,1239,MALANG,7A.1.3 Jobs,Grade 10,Bima,C,1,Optional,,
+1240,1240,MALANG,7A.1.3 Jobs,Grade 10,Devi,A,1,Present,2025-08-13,189
+1241,1241,MALANG,7A.1.3 Jobs,Grade 10,Devi,B,1,Present,2025-10-27,584
+1242,1242,MALANG,7A.1.3 Jobs,Grade 10,Devi,C,1,Present,2025-09-30,586
+1243,1243,MALANG,7A.1.3 Jobs,Grade 10,Devi,D,1,Present,2026-08-18,585
+1244,1244,MALANG,7A.1.3 Jobs,Grade 10,Faiz,C,1,Optional,,
+1245,1245,MALANG,7A.1.3 Jobs,Grade 10,Fajar,A,1,Present,2025-08-13,189
+1246,1246,MALANG,7A.1.3 Jobs,Grade 10,Fajar,B,1,Present,2025-10-27,584
+1247,1247,MALANG,7A.1.3 Jobs,Grade 10,Fajar,C,1,Present,2026-08-06,588
+1248,1248,MALANG,7A.1.4 Jobs,Grade 10,Ainur,A,1,Present,2025-08-14,195
+1249,1249,MALANG,7A.1.4 Jobs,Grade 10,Ainur,B,1,Present,2025-10-30,589
+1250,1250,MALANG,7A.1.4 Jobs,Grade 10,Ainur,C,1,Present,2025-10-06,592
+1251,1251,MALANG,7A.1.4 Jobs,Grade 10,Ainur,D,1,Present,2026-08-19,590
+1252,1252,MALANG,7A.1.4 Jobs,Grade 10,Arifah,C,1,Optional,,
+1253,1253,MALANG,7A.1.4 Jobs,Grade 10,Bima,C,1,Optional,,
+1254,1254,MALANG,7A.1.4 Jobs,Grade 10,Devi,A,1,Present,2025-08-14,195
+1255,1255,MALANG,7A.1.4 Jobs,Grade 10,Devi,B,1,Present,2025-10-30,589
+1256,1256,MALANG,7A.1.4 Jobs,Grade 10,Devi,C,1,Present,2025-10-06,591
+1257,1257,MALANG,7A.1.4 Jobs,Grade 10,Faiz,C,1,Optional,,
+1258,1258,MALANG,7A.1.4 Jobs,Grade 10,Fajar,A,1,Present,2025-08-14,195
+1259,1259,MALANG,7A.1.4 Jobs,Grade 10,Fajar,B,1,Present,2025-10-30,589
+1260,1260,MALANG,7A.1.4 Jobs,Grade 10,Fajar,C,1,Present,2026-08-12,593
+1261,1261,MALANG,7A.1.5 Jobs,Grade 10,Ainur,A,1,Present,2025-08-21,201
+1262,1262,MALANG,7A.1.5 Jobs,Grade 10,Ainur,B,1,Present,2025-11-04,202
+1263,1263,MALANG,7A.1.5 Jobs,Grade 10,Ainur,C,1,Present,2025-10-07,595
+1264,1264,MALANG,7A.1.5 Jobs,Grade 10,Arifah,C,1,Optional,,
+1265,1265,MALANG,7A.1.5 Jobs,Grade 10,Bima,C,1,Optional,,
+1266,1266,MALANG,7A.1.5 Jobs,Grade 10,Devi,A,1,Present,2025-08-21,201
+1267,1267,MALANG,7A.1.5 Jobs,Grade 10,Devi,B,1,Present,2025-11-04,202
+1268,1268,MALANG,7A.1.5 Jobs,Grade 10,Devi,C,1,Present,2025-10-07,594
+1269,1269,MALANG,7A.1.5 Jobs,Grade 10,Faiz,C,1,Optional,,
+1270,1270,MALANG,7A.1.5 Jobs,Grade 10,Fajar,A,1,Present,2025-08-21,201
+1271,1271,MALANG,7A.1.5 Jobs,Grade 10,Fajar,B,1,Present,2025-11-04,202
+1272,1272,MALANG,7A.1.5 Jobs,Grade 10,Fajar,C,1,Present,2026-08-13,596
+1273,1273,MALANG,7A.1.6 Jobs,Grade 10,Ainur,A,1,Present,2025-09-08,597
+1274,1274,MALANG,7A.1.6 Jobs,Grade 10,Ainur,B,1,Present,2025-11-06,598
+1275,1275,MALANG,7A.1.6 Jobs,Grade 10,Ainur,C,1,Present,2025-11-03,600
+1276,1276,MALANG,7A.1.6 Jobs,Grade 10,Devi,A,1,Present,2025-09-08,597
+1277,1277,MALANG,7A.1.6 Jobs,Grade 10,Devi,B,1,Present,2025-11-06,598
+1278,1278,MALANG,7A.1.6 Jobs,Grade 10,Devi,C,1,Present,2025-11-03,599
+1279,1279,MALANG,7A.1.6 Jobs,Grade 10,Fajar,A,1,Present,2025-09-08,597
+1280,1280,MALANG,7A.1.6 Jobs,Grade 10,Fajar,B,1,Present,2025-11-06,598
+1281,1281,MALANG,7A.1.6 Jobs,Grade 10,Fajar,C,1,Present,2026-08-20,601
+1282,1282,MALANG,7B.1.1 Def aero carreers,Grade 11,Ainur,A,1,Present,2026-03-03,743
+1283,1283,MALANG,7B.1.1 Def aero carreers,Grade 11,Ainur,B,1,Present,2026-04-28,744
+1284,1284,MALANG,7B.1.1 Def aero carreers,Grade 11,Devi,A,1,Present,2026-03-03,743
+1285,1285,MALANG,7B.1.1 Def aero carreers,Grade 11,Devi,B,1,Present,2026-04-28,744
+1286,1286,MALANG,7B.1.1 Def aero carreers,Grade 11,Devi,C,1,Present,2026-08-12,745
+1287,1287,MALANG,7B.1.1 Def aero carreers,Grade 11,Fajar,A,1,Present,2026-03-03,743
+1288,1288,MALANG,7B.1.1 Def aero carreers,Grade 11,Fajar,B,1,Present,2026-04-28,744
+1289,1289,MALANG,7B.1.2 Aeronautic trainning,Grade 11,Ainur,A,1,Present,2026-03-10,746
+1290,1290,MALANG,7B.1.2 Aeronautic trainning,Grade 11,Ainur,B,1,Present,2026-04-29,747
+1291,1291,MALANG,7B.1.2 Aeronautic trainning,Grade 11,Ainur,C,1,Present,2026-08-20,749
+1292,1292,MALANG,7B.1.2 Aeronautic trainning,Grade 11,Devi,A,1,Present,2026-03-10,746
+1293,1293,MALANG,7B.1.2 Aeronautic trainning,Grade 11,Devi,B,1,Present,2026-04-29,747
+1294,1294,MALANG,7B.1.2 Aeronautic trainning,Grade 11,Devi,C,1,Present,2026-08-14,748
+1295,1295,MALANG,7B.1.2 Aeronautic trainning,Grade 11,Fajar,A,1,Present,2026-03-10,746
+1296,1296,MALANG,7B.1.2 Aeronautic trainning,Grade 11,Fajar,B,1,Present,2026-04-29,747
+1297,1297,MALANG,7B.1.3 Skills and comp.,Grade 11,Ainur,A,1,Present,2026-03-11,750
+1298,1298,MALANG,7B.1.3 Skills and comp.,Grade 11,Ainur,B,1,Present,2026-05-11,751
+1299,1299,MALANG,7B.1.3 Skills and comp.,Grade 11,Devi,A,1,Present,2026-03-11,750
+1300,1300,MALANG,7B.1.3 Skills and comp.,Grade 11,Devi,B,1,Present,2026-05-11,751
+1301,1301,MALANG,7B.1.3 Skills and comp.,Grade 11,Fajar,A,1,Present,2026-03-11,750
+1302,1302,MALANG,7B.1.3 Skills and comp.,Grade 11,Fajar,B,1,Present,2026-05-11,751
+1303,1303,MALANG,7B.1.4 Concerns in aviation,Grade 11,Ainur,A,1,Present,2026-03-13,752
+1304,1304,MALANG,7B.1.4 Concerns in aviation,Grade 11,Ainur,B,1,Present,2026-05-12,753
+1305,1305,MALANG,7B.1.4 Concerns in aviation,Grade 11,Devi,A,1,Present,2026-03-13,752
+1306,1306,MALANG,7B.1.4 Concerns in aviation,Grade 11,Devi,B,1,Present,2026-05-12,753
+1307,1307,MALANG,7B.1.4 Concerns in aviation,Grade 11,Fajar,A,1,Present,2026-03-13,752
+1308,1308,MALANG,7B.1.4 Concerns in aviation,Grade 11,Fajar,B,1,Present,2026-05-12,753
+1309,1309,MALANG,9.1.1 Pressure,Grade 11,Ainur,A,1,Present,2026-02-24,634
+1310,1310,MALANG,9.1.1 Pressure,Grade 11,Ainur,B,1,Present,2026-07-21,635
+1311,1311,MALANG,9.1.1 Pressure,Grade 11,Ainur,C,1,Present,2026-04-30,637
+1312,1312,MALANG,9.1.1 Pressure,Grade 11,Devi,A,1,Present,2026-02-24,634
+1313,1313,MALANG,9.1.1 Pressure,Grade 11,Devi,B,1,Present,2026-07-21,635
+1314,1314,MALANG,9.1.1 Pressure,Grade 11,Devi,C,1,Present,2026-06-04,636
+1315,1315,MALANG,9.1.1 Pressure,Grade 11,Fajar,A,1,Present,2026-02-24,634
+1316,1316,MALANG,9.1.1 Pressure,Grade 11,Fajar,B,1,Present,2026-07-21,635
+1317,1317,MALANG,9.1.1 Pressure,Grade 11,Fajar,C,1,Failed,2026-03-10,638
+1318,1318,MALANG,9.1.2 Fluid mechanics,Grade 11,Ainur,A,1,Present,2026-02-24,639
+1319,1319,MALANG,9.1.2 Fluid mechanics,Grade 11,Ainur,B,1,Present,2026-07-22,640
+1320,1320,MALANG,9.1.2 Fluid mechanics,Grade 11,Ainur,C,1,Present,2026-07-16,642
+1321,1321,MALANG,9.1.2 Fluid mechanics,Grade 11,Akhmad,B,1,Present,2026-07-22,640
+1322,1322,MALANG,9.1.2 Fluid mechanics,Grade 11,Devi,A,1,Present,2026-02-24,639
+1323,1323,MALANG,9.1.2 Fluid mechanics,Grade 11,Devi,B,1,Present,2026-07-22,640
+1324,1324,MALANG,9.1.2 Fluid mechanics,Grade 11,Devi,C,1,Present,2026-07-15,641
+1325,1325,MALANG,9.1.2 Fluid mechanics,Grade 11,Fajar,A,1,Present,2026-02-24,639
+1326,1326,MALANG,9.1.2 Fluid mechanics,Grade 11,Fajar,B,1,Present,2026-07-22,640
+1327,1327,MALANG,9.1.3 Fluid dynamics,Grade 11,Ainur,A,1,Present,2026-02-25,255
+1328,1328,MALANG,9.1.3 Fluid dynamics,Grade 11,Ainur,B,1,Present,2026-07-24,643
+1329,1329,MALANG,9.1.3 Fluid dynamics,Grade 11,Ainur,C,1,Present,2026-08-06,645
+1330,1330,MALANG,9.1.3 Fluid dynamics,Grade 11,Devi,A,1,Present,2026-02-25,255
+1331,1331,MALANG,9.1.3 Fluid dynamics,Grade 11,Devi,B,1,Present,2026-07-24,643
+1332,1332,MALANG,9.1.3 Fluid dynamics,Grade 11,Devi,C,1,Present,2026-07-30,644
+1333,1333,MALANG,9.1.3 Fluid dynamics,Grade 11,Fajar,A,1,Present,2026-02-25,255
+1334,1334,MALANG,9.1.3 Fluid dynamics,Grade 11,Fajar,B,1,Present,2026-07-24,643
+1335,1335,MALANG,9.2.1 Thermodynamics,Grade 11,Ainur,A,1,Present,2026-03-05,646
+1336,1336,MALANG,9.2.1 Thermodynamics,Grade 11,Ainur,B,1,Present,2026-07-28,647
+1337,1337,MALANG,9.2.1 Thermodynamics,Grade 11,Ainur,C,1,Present,2026-08-07,649
+1338,1338,MALANG,9.2.1 Thermodynamics,Grade 11,Devi,A,1,Present,2026-03-05,646
+1339,1339,MALANG,9.2.1 Thermodynamics,Grade 11,Devi,B,1,Present,2026-07-28,647
+1340,1340,MALANG,9.2.1 Thermodynamics,Grade 11,Devi,C,1,Present,2026-07-31,648
+1341,1341,MALANG,9.2.1 Thermodynamics,Grade 11,Fajar,A,1,Present,2026-03-05,646
+1342,1342,MALANG,9.2.1 Thermodynamics,Grade 11,Fajar,B,1,Present,2026-07-28,647
+1343,1343,MALANG,9.3.1 Optics,Grade 11,Ainur,A,1,Present,2026-02-26,650
+1344,1344,MALANG,9.3.1 Optics,Grade 11,Ainur,B,1,Present,2026-07-29,651
+1345,1345,MALANG,9.3.1 Optics,Grade 11,Ainur,C,1,Present,2026-08-07,652
+1346,1346,MALANG,9.3.1 Optics,Grade 11,Devi,A,1,Present,2026-02-26,650
+1347,1347,MALANG,9.3.1 Optics,Grade 11,Devi,B,1,Present,2026-07-29,651
+1348,1348,MALANG,9.3.1 Optics,Grade 11,Fajar,A,1,Present,2026-02-26,650
+1349,1349,MALANG,9.3.1 Optics,Grade 11,Fajar,B,1,Present,2026-07-29,651
+1350,1350,MALANG,9.4.1 Acoustics,Grade 11,Ainur,A,1,Present,2026-02-24,653
+1351,1351,MALANG,9.4.1 Acoustics,Grade 11,Ainur,B,1,Present,2026-08-04,654
+1352,1352,MALANG,9.4.1 Acoustics,Grade 11,Ainur,C,1,Present,2026-08-14,656
+1353,1353,MALANG,9.4.1 Acoustics,Grade 11,Devi,A,1,Present,2026-02-24,653
+1354,1354,MALANG,9.4.1 Acoustics,Grade 11,Devi,B,1,Present,2026-08-04,654
+1355,1355,MALANG,9.4.1 Acoustics,Grade 11,Devi,C,1,Present,2026-04-30,655
+1356,1356,MALANG,9.4.1 Acoustics,Grade 11,Fajar,A,1,Present,2026-02-24,653
+1357,1357,MALANG,9.4.1 Acoustics,Grade 11,Fajar,B,1,Present,2026-08-04,654
